@@ -1,0 +1,4898 @@
+{
+  "AndASharkToo": {
+    "tier": "7",
+    "description": "Increases the damage of Octo-Grab by 14248% (+4% per level)."
+  },
+  "64KBMarathon": {
+    "tier": "6  Gain an additional 40% Movement Speed when activating Go Go Go! that decays over 4 seconds.",
+    "description": "Additionally, the Vikings will break out of Roots and Slows."
+  },
+  "ACardtoPlay": {
+    "tier": "7",
+    "description": "Whenever a Hero (ally or enemy) is killed, the cooldown of your Heroic Ability is reduced by 15 seconds."
+  },
+  "ATouchofHoney": {
+    "tier": "5",
+    "description": "Increase the slow from Keg Smash to 40%."
+  },
+  "Abattoir": {
+    "tier": "3",
+    "description": "Increases the maximum number of Fresh Meat to 35, and you only lose half upon death."
+  },
+  "AbolishMagic": {
+    "tier": "7",
+    "description": "Activate to remove all stuns, roots, silences, slows, fears, and damage over time effects from yourself and an ally. For 2 seconds after, the duration of stuns, roots, silences, slows, and fears are reduced by 50%."
+  },
+  "AbsoluteZero": {
+    "tier": "7  Sindragosa flies twice as far.",
+    "description": "Enemy Heroes are rooted for 2 seconds, and then slowed by 60% for 3.5 seconds."
+  },
+  "Adaptation": {
+    "tier": "4",
+    "description": "After 4 seconds, heal for 60% of the damage you took over this period."
+  },
+  "AdrenalOverload": {
+    "tier": "2",
+    "description": "Symbiote host gains 25% increased Attack Speed."
+  },
+  "AdrenalineBoost": {
+    "tier": "6",
+    "description": "Symbiote's Carapace increases the Movement Speed of the target by 40% for 3.5 seconds."
+  },
+  "AdvancedArtillery": {
+    "tier": "1",
+    "description": "Increase the damage bonus to long distance enemies by 10%."
+  },
+  "AdvancedBlock": {
+    "tier": "2  Every 5 seconds, reduce the damage taken from the next enemy Hero Basic Attack by 50%.",
+    "description": "Stores up to 3 charges."
+  },
+  "AdvancedCloaking": {
+    "tier": "1",
+    "description": "Increases your Movement Speed by 30% while Cloaked."
+  },
+  "AdvancedLavaStrike": {
+    "tier": "7",
+    "description": "Napalm Strike's range is increased by 75% and its impact does 50% more damage."
+  },
+  "AerieGusts": {
+    "tier": "6",
+    "description": "Reduces the activation time for Tailwind from 6 to 2 seconds, and increases the Movement Speed bonus from 20% to 30%."
+  },
+  "AetherWalker": {
+    "tier": "1",
+    "description": "If you haven't taken damage in the last 5 seconds, Teleport costs no mana and its cooldown is decreased by 2 seconds."
+  },
+  "Afterburner": {
+    "tier": "6",
+    "description": "Barrel Roll increases your Movement Speed by 60%, decaying over 3 seconds."
+  },
+  "Aftershock": {
+    "tier": "5",
+    "description": "Using Seismic Slam reduces its Fury cost by 50% for 2 seconds."
+  },
+  "AggressiveDefense": {
+    "tier": "6",
+    "description": "Increases base Shield amount gained from Assimilation by 100%."
+  },
+  "AlphaKiller": {
+    "tier": "6",
+    "description": "Worgen Basic Attacks against Heroes deal bonus damage equal to 3% of the Hero's maximum Health."
+  },
+  "AmateurOpponent": {
+    "tier": "1",
+    "description": "Twin Blades attacks deal 150% bonus damage to non-Heroes."
+  },
+  "Ambush": {
+    "tier": "1",
+    "description": "Stealth when entering Siege Mode. Your next Basic Attack from Siege Mode will deal 100% more damage. Lose Stealth when Basic Attacking, using an Ability, taking damage, or returning to Tank Mode."
+  },
+  "AmbushSnipe": {
+    "tier": "1",
+    "description": "Increases Snipe's damage by 20% when used from Cloak or within one second of being Cloaked."
+  },
+  "AmplifiedHealing": {
+    "tier": "2",
+    "description": "Increases regeneration effects and all healing received by 30%."
+  },
+  "AmplifyDamage": {
+    "tier": "6",
+    "description": "Enemies rooted by Bone Prison become Vulnerable for 1.75 seconds, taking 25% increased damage."
+  },
+  "AncestralHealing": {
+    "tier": "4  After 1 second, heal an allied Hero for 1614.08 (+4% per level) Health.",
+    "description": "Cannot be used on yourself."
+  },
+  "AndorhalAnomaly": {
+    "tier": "7  You gain 3 charges of Time Trap, and can have 3 active at once.",
+    "description": "When your cooldown finishes, you gain 3 charges at once."
+  },
+  "AngelofJustice": {
+    "tier": "7",
+    "description": "Increases the cast range of Judgment by 50%, and reduces the cooldown by 40 seconds."
+  },
+  "AngelsGrace": {
+    "tier": "3",
+    "description": "After teleporting using El'Druin's Might, gain 40% Movement Speed for 3 seconds."
+  },
+  "AngelicAbsorption": {
+    "tier": "5",
+    "description": "Enemies that attack you while shielded grant 216.32 (+4% per level) Health over 4 seconds."
+  },
+  "AngelicFlight": {
+    "tier": "7",
+    "description": "Activate to fly to a chosen location."
+  },
+  "AngelicMight": {
+    "tier": "5",
+    "description": "Gain 80% increased damage on your next Basic Attack for each Hero hit by Smite."
+  },
+  "AngelicMomentum": {
+    "tier": "3",
+    "description": "Basic Attacks reduce your Basic Ability cooldowns by 0.75 seconds."
+  },
+  "AngerManagement": {
+    "tier": "7",
+    "description": "Increases all Fury generated during Wrath of the Berserker by 100%."
+  },
+  "AnnihilatingSpirit": {
+    "tier": "7",
+    "description": "Increases the range of Ravenous Spirit by 50% and Movement Speed by 30%."
+  },
+  "AntiArmorShells": {
+    "tier": "3",
+    "description": "Your Basic Attacks deal 250% damage, but your Attack Speed is proportionally slower."
+  },
+  "AntiMagicShell": {
+    "tier": "7",
+    "description": "Activate to reduce damage taken from Abilities by 100% for 3 seconds, and heal yourself for 25% of the damage prevented."
+  },
+  "ApexPredator": {
+    "tier": "7",
+    "description": "Reduces Brushstalker's cooldown by 25 seconds and the cast time by 0.5 seconds."
+  },
+  "Apocalypse": {
+    "tier": "4",
+    "description": "Create a demonic rune under each enemy Hero on the battleground. After 1.75 seconds the rune explodes dealing 142.48 (+4% per level) damage and stunning for 1.75 seconds."
+  },
+  "ArcaneBarrage": {
+    "tier": "2",
+    "description": "Increases the range of Arcane Flare by 50%."
+  },
+  "ArcaneBarrier": {
+    "tier": "6",
+    "description": "Gain a Shield equal to 150.00% of your maximum Mana for 4 seconds."
+  },
+  "ArcaneBrilliance": {
+    "tier": "7",
+    "description": "Activate to instantly restore 200 mana to all nearby allied Heroes and grant them 10% Ability Power for 10 seconds."
+  },
+  "ArcaneCharge": {
+    "tier": "3",
+    "description": "When Arcane Rift damages an enemy Hero, the next Arcane Rift deals 30% more damage."
+  },
+  "ArcaneDynamo": {
+    "tier": "6",
+    "description": "Using a Basic Ability increases your Ability Power by 3% for 5 seconds, stacking up to 15%."
+  },
+  "ArcaneExplosion": {
+    "tier": "3",
+    "description": "The first time Force of Will absorbs damage, it deals 190.32 (+4% per level) damage to nearby enemies."
+  },
+  "ArcaneIntellect": {
+    "tier": "2",
+    "description": "Dealing damage to a Chilled target returns Mana to Jaina. Basic Attacks return 5 Mana and Abilities return 20."
+  },
+  "ArcaneOrbit": {
+    "tier": "6",
+    "description": "Arcane Orb travels 25% farther, doing up to 25% more damage."
+  },
+  "ArcanePower": {
+    "tier": "7",
+    "description": "Activate to instantly restore 400 Mana and increase Ability Power by 15% for 10 seconds."
+  },
+  "ArcanePrecision": {
+    "tier": "1",
+    "description": "Increases Arcane Flare's inner area damage by 50% ."
+  },
+  "Archon": {
+    "tier": "4",
+    "description": "Transform into an Archon, gaining a 474.24 (+4% per level) point Shield, causing Basic Attacks to deal 115.44 (+4% per level) damage and splash for 57.2 (+4% per level) additional damage. Lasts for 12.5 seconds."
+  },
+  "ArchonPurePower": {
+    "tier": "7",
+    "description": "Activate to enter Archon form, allowing you to repeatedly use Disintegrate, but be unable to cast other Abilities."
+  },
+  "ARKReaktor": {
+    "tier": "2  Reduces Xplodium Charge's cooldown by 2 seconds.",
+    "description": "If Xplodium Charge hits an enemy Hero, you gain 2 charges of Rock-It! Turret."
+  },
+  "ArmorPiercingRounds": {
+    "tier": "6",
+    "description": "Increases Overkill's damage to the primary target by 50%."
+  },
+  "ArmyofHell": {
+    "tier": "2",
+    "description": "Increases Demon Warrior's damage by 20% and reduces their Mana cost by 20."
+  },
+  "ArmyoftheDead": {
+    "tier": "4",
+    "description": "Summons Ghouls that last 15 seconds. Sacrifice Ghouls to heal for 277.68 (+4% per level) Health."
+  },
+  "ArreatCrater": {
+    "tier": "7  Leap leaves behind an impassable crater for 5 seconds.",
+    "description": "Reduces Leap's cooldown by 20 seconds."
+  },
+  "Arsenal": {
+    "tier": "2",
+    "description": "Multishot also fires 3 grenades, which deal 87.36 (+4% per level) damage."
+  },
+  "AspectoftheBeast": {
+    "tier": "3",
+    "description": "Misha's Basic Attacks lower the cooldown of Misha, Charge! by 1.5 seconds."
+  },
+  "AspectoftheHawk": {
+    "tier": "6",
+    "description": "When Spirit Swoop hits an enemy Hero, you gain 100% Attack Speed for 3 seconds."
+  },
+  "AssassinsBlade": {
+    "tier": "5",
+    "description": "Gain 25% Basic Attack damage for 5 seconds when breaking Permanent Cloak. 10% increased Movement Speed while Stealthed from Permanent Cloak."
+  },
+  "AssaultEgg": {
+    "tier": "1",
+    "description": "Health and sight range of Egg increased by 150%."
+  },
+  "AssaultScarab": {
+    "tier": "1",
+    "description": "Increases the attack damage of spawned Beetles by 30%."
+  },
+  "AssaultStrain": {
+    "tier": "5",
+    "description": "Locust Basic Attacks cleave for 50% damage, and explode on death for 106.08 (+4% per level) damage."
+  },
+  "AssimilationMastery": {
+    "tier": "3",
+    "description": "Increases the duration of Assimilation by 100%. While Assimilation is active, your Health and Mana regeneration is increased by 100%."
+  },
+  "AstralPresence": {
+    "tier": "1",
+    "description": "Your Mana regeneration is increased by 100% while below 25% Mana."
+  },
+  "AstralProjection": {
+    "tier": "5",
+    "description": "Increases Portal cast range by 50%."
+  },
+  "AutomatedBlock": {
+    "tier": "2  Every 5 seconds, reduce the damage taken from the next enemy Hero Basic Attack by 50%.",
+    "description": "Stores up to 3 charges."
+  },
+  "Avatar": {
+    "tier": "4",
+    "description": "Transform for 20 seconds, gaining 1168.96 (+4% per level) Health."
+  },
+  "Backdraft": {
+    "tier": "5",
+    "description": "Living Bomb's explosion slows enemy Movement Speed by 30% for 2 seconds."
+  },
+  "Backlash": {
+    "tier": "1",
+    "description": "When Bone Armor expires, nearby enemy Heroes take damage equal to 15% of their maximum Health."
+  },
+  "BaleogtheFierce": {
+    "tier": "3",
+    "description": "Baleog's Basic Attacks increase his Attack Speed by 8%, stacking up to 5 times. After 3 seconds of not attacking, these stacks will rapidly decay."
+  },
+  "Ballistospores": {
+    "tier": "2",
+    "description": "Increases Toxic Nest's range to global and increases duration by 25%."
+  },
+  "BanelingMassacre": {
+    "tier": "3",
+    "description": "Zagara gains 2 additional charges of Banelings."
+  },
+  "BarbedShot": {
+    "tier": "3",
+    "description": "Withering Fire deals 200% bonus damage to Minions, Mercenaries, and Monsters."
+  },
+  "Barkskin": {
+    "tier": "5",
+    "description": "Misha takes 50% less damage from Abilities for 5 seconds after using Misha, Charge!"
+  },
+  "Barricade": {
+    "tier": "5",
+    "description": "Create a wall of path blocking debris for 4 seconds."
+  },
+  "BatteredAssault": {
+    "tier": "1",
+    "description": "If you hit 2 or more Heroes with Sweeping Strike, increase its damage bonus from 35% to 125%."
+  },
+  "BattleMomentum": {
+    "tier": "3",
+    "description": "Basic Attacks reduce Ability cooldowns by 0.5 seconds."
+  },
+  "Battleborn": {
+    "tier": "6",
+    "description": "If Globe of Annihilation hits an enemy, a Demon Warrior is summoned at the impact point."
+  },
+  "BeaconofLight": {
+    "tier": "2",
+    "description": "You heal yourself for 30% of all healing done to allied Heroes."
+  },
+  "BearNecessities": {
+    "tier": "5",
+    "description": "If Misha, Charge! doesn't hit an enemy Hero, it can be cast again for free for the next 3 seconds."
+  },
+  "BedofBarbs": {
+    "tier": "5  Create a bed of spikes along Impale's path that slows enemies by 30% and deals 47.84 (+4% per level) damage per second.",
+    "description": "Spikes persist for 3.5 seconds."
+  },
+  "BeetleJuiced": {
+    "tier": "6",
+    "description": "Every 3rd Basic Attack against enemy Heroes spawns a Beetle."
+  },
+  "Benediction": {
+    "tier": "6",
+    "description": "Activate to reduce the Mana cost of your next Basic Ability by 50 and its cooldown by 10 seconds."
+  },
+  "Berserk": {
+    "tier": "6",
+    "description": "Activate to increase your Attack Speed by 40.00% and Movement Speed by 10.00% for 4 seconds."
+  },
+  "BestialWrath": {
+    "tier": "4",
+    "description": "Increases Misha's Basic Attack damage by 150% for 12 seconds."
+  },
+  "BigRedButton": {
+    "tier": "7",
+    "description": "Odin lasts 50% longer and Ragnarok Missiles also launches a Nuclear Missile."
+  },
+  "BiggerSlime": {
+    "tier": "2",
+    "description": "Increases Slime radius by30%."
+  },
+  "BileDrop": {
+    "tier": "3",
+    "description": "Quest: Increases the impact damage of Infested Drop by 50%. Each Hero hit by the impact damage of Infested Drop increases the bonus damage by another 10%. Reward: Upon reaching 150% bonus damage, increase the impact radius of Infested Drop by 20%."
+  },
+  "Bioshield": {
+    "tier": "2",
+    "description": "If your target is at full Health, they gain a Shield that absorbs 81.12 (+4% per level) damage, stacking up to 5 times."
+  },
+  "BirdofPrey": {
+    "tier": "3",
+    "description": "Increases Spirit Swoop's damage by 200% to Minions and Mercenaries."
+  },
+  "BirdsEyeView": {
+    "tier": "2",
+    "description": "Permanently increase Raven Form's vision range by 25%. Activate to increase this bonus to 200% for 5 seconds."
+  },
+  "BitingCold": {
+    "tier": "2",
+    "description": "Frozen Tempest damage increased by 30%."
+  },
+  "BlackPool": {
+    "tier": "4",
+    "description": "Create a pool that empowers Azmodan, his Demons, and allied Minions, increasing their Basic Attack and Ability damage by 75%. Pools last 5 seconds."
+  },
+  "BladeofJustice": {
+    "tier": "6",
+    "description": "After teleporting using El'Druin's Might, increase your Attack Speed by 50% for 5 seconds."
+  },
+  "BladeTorrent": {
+    "tier": "3",
+    "description": "Increases Impaling Blades' radius by 30%."
+  },
+  "BladedMomentum": {
+    "tier": "3",
+    "description": "Basic Attacks reduce your Basic Ability cooldowns by 0.6 seconds."
+  },
+  "BladesofAzzinoth": {
+    "tier": "6",
+    "description": "Hitting 5 Heroes with Sweeping Strike allows you to activate Blades of Azzinoth to increase your Basic Attack damage by 75% for 8 seconds."
+  },
+  "BlazingBulwark": {
+    "tier": "1",
+    "description": "Consuming Blaze grants you 1 stack of Block when you hit an enemy Hero, up to 10. Block reduces damage taken from enemy Basic Attacks by 50%."
+  },
+  "BlazingFists": {
+    "tier": "6",
+    "description": "Every 3rd Basic Attack reduces the cooldown of Deadly Reach by 1 second."
+  },
+  "BlessedChampion": {
+    "tier": "5",
+    "description": "After using Holy Light, your Basic Attacks heal you and nearby allied Heroes for 20% of the healed amount. Lasts 5 seconds."
+  },
+  "BlessedHammer": {
+    "tier": "6",
+    "description": "Condemn also creates a hammer that spirals around you, dealing 42.64 (+4% per level) damage to enemies it hits."
+  },
+  "BlessedMomentum": {
+    "tier": "3",
+    "description": "Basic Attacks reduce your Basic Ability cooldowns by 0.5 seconds."
+  },
+  "BlessedShield": {
+    "tier": "4",
+    "description": "Deal 118.56 (+4% per level) damage and stun the first enemy hit for 1.5 seconds. Blessed Shield then bounces to 2 nearby enemies, dealing 59.28 (+4% per level) damage and stunning them for 0.75 seconds."
+  },
+  "BlindingFlash": {
+    "tier": "5",
+    "description": "Enemies hit by the center area of Sacred Sweep are blinded for 3 seconds."
+  },
+  "BlindingSpeed": {
+    "tier": "6",
+    "description": "Decreases Radiant Dash's cooldown by 2 seconds and increases the maximum number of charges by 1."
+  },
+  "BlinkHeal": {
+    "tier": "4  Teleport to a nearby ally, healing them for 212.16 (+4% per level).",
+    "description": "Can store 2 charges."
+  },
+  "Block": {
+    "tier": "1  Every 5 seconds, reduce the damage taken from the next Hero Basic Attack by 75%.",
+    "description": "Stores up to 2 charges."
+  },
+  "BloodandThunder": {
+    "tier": "3",
+    "description": "Ghost Wolf attacks reduce Basic Ability cooldowns by 2 seconds."
+  },
+  "BloodforBlood": {
+    "tier": "6",
+    "description": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount."
+  },
+  "BloodFrenzy": {
+    "tier": "6",
+    "description": "Fresh Meat also increases your Attack Speed by 1% per stack."
+  },
+  "BloodoftheRhino": {
+    "tier": "3",
+    "description": "Increases Mend Pet's duration by 5 seconds."
+  },
+  "BloodRitual": {
+    "tier": "1",
+    "description": "Increases Health and Mana granted by Voodoo Ritual by 125%."
+  },
+  "Bloodlust": {
+    "tier": "4",
+    "description": "Grant nearby allied Heroes 40% Attack Speed and 30% Movement Speed. Lasts for 10 seconds."
+  },
+  "BlossomSwell": {
+    "tier": "1",
+    "description": "Increases Noxious Blossom's radius by 20%."
+  },
+  "BluntForceGun": {
+    "tier": "4",
+    "description": "Fire a missile across the battlefield, dealing 515 (+3% per level) damage to enemies in its path."
+  },
+  "BobandWeave": {
+    "tier": "7",
+    "description": "Run and Gun and Odin's Thrusters gain 2 additional charges and reduces Run and Gun's Mana cost from 50 to 25."
+  },
+  "BolderFlavor": {
+    "tier": "6",
+    "description": "Increase Shield generation rate and maximum amount from Fortifying Brew by 40%."
+  },
+  "BoltoftheStorm": {
+    "tier": "7",
+    "description": "Activate to teleport to a nearby location."
+  },
+  "BombsAway": {
+    "tier": "2",
+    "description": "Increases Cho's Rune Bomb range by 20%."
+  },
+  "BombardStrain": {
+    "tier": "5",
+    "description": "Locust's Basic Attacks become a long-range siege attack that deal 70% more damage."
+  },
+  "BoneSpear": {
+    "tier": "7",
+    "description": "Deal 239.2 (+4% per level) damage to enemies in a line."
+  },
+  "BOOMerang": {
+    "tier": "3",
+    "description": "Reactivate Hammerang mid-flight to deal 182 (+4% per level) damage around the Hammer."
+  },
+  "BottomlessMug": {
+    "tier": "6",
+    "description": "Reduces Fortifying Brew's cooldown by 2 seconds."
+  },
+  "BouncyDust": {
+    "tier": "6",
+    "description": "Pixie Dust bounces to another nearby ally upon impact."
+  },
+  "BoundbyShadow": {
+    "tier": "3",
+    "description": "Each enemy Hero hit with Fel Flame reduces the cooldown of Corruption by 1 second."
+  },
+  "BoundMinion": {
+    "tier": "3",
+    "description": "Using General of Hell on a Minion decreases the non-Heroic damage they take by 75% and increases the damage they deal to non-Heroic targets by 100%. Lasts 30 seconds."
+  },
+  "BoundlessConviction": {
+    "tier": "2",
+    "description": "Increases the width and length of Holy Radiance by 40%."
+  },
+  "BoundlessStride": {
+    "tier": "7",
+    "description": "All Leaping Strike charges are returned every 20 seconds. You can also use Leaping Strike on allies."
+  },
+  "BreakitDown": {
+    "tier": "1",
+    "description": "Scrap causes Abilities to cooldown four times as fast for 3.07 seconds."
+  },
+  "BrewStrike": {
+    "tier": "5",
+    "description": "Keg Smash reduces the cooldown of Flying Kick by 1 second for each enemy Hero hit."
+  },
+  "BrewmastersBalance": {
+    "tier": "3",
+    "description": "While at or below 50 Brew, gain 20% Movement Speed. While at or above 50 Brew, regenerate an additional 18.72 (+4% per level) Health per second."
+  },
+  "Bribe": {
+    "tier": "1  Enemy Minions killed near you grant a stack of Bribe. Use 20 stacks to bribe a Mercenary, instantly defeating them.  Does not work on Bosses.  Maximum of 100 stacks. If a camp is defeated entirely with Bribe, the camp respawns 50% faster.",
+    "description": "<c val=\"ffff8a\">Current number of Bribe stacks: <c val=\"#TooltipNumbers\"><d ref=\"$BehaviorStackCount:BribeStacks$\"/></c></c>"
+  },
+  "BronzeTalons": {
+    "tier": "2",
+    "description": "Increases your Basic Attack range by 35%. Using Sand Blast increases the damage of your next Basic Attack by 250%."
+  },
+  "BroodExpansion": {
+    "tier": "6",
+    "description": "Reduces the cooldown of Hunter Killer by 6 seconds."
+  },
+  "BroodlingNest": {
+    "tier": "7",
+    "description": "Exiting a Nydus Worm spawns 6 broodlings to attack up the nearest lane. This effect has a 20 second cooldown."
+  },
+  "BrutalStrike": {
+    "tier": "3",
+    "description": "After using Hamstring, your next Basic Attack within 5 seconds deals an additional 50% damage."
+  },
+  "BubbleBreeze": {
+    "tier": "1",
+    "description": "Gain 20% Movement Speed while in Safety Bubble."
+  },
+  "BubbleMachine": {
+    "tier": "5",
+    "description": "Safety Bubble cooldown reduced by 5 seconds."
+  },
+  "BulletSpray": {
+    "tier": "5",
+    "description": "Increases Melee's radius by 40%, and causes it to damage all enemies in range."
+  },
+  "BulletTime": {
+    "tier": "3",
+    "description": "Basic Attacks lower the cooldown of Blink by 0.1 seconds."
+  },
+  "BullheadMines": {
+    "tier": "5",
+    "description": "Middle Spider Mine knocks target back a short distance."
+  },
+  "Bullseye": {
+    "tier": "6",
+    "description": "The first enemy hit by Penetrating Round is stunned for 1 second."
+  },
+  "BulwarkofLight": {
+    "tier": "7",
+    "description": "Divine Shield lasts 2 seconds longer and its cooldown is reduced by 20 seconds."
+  },
+  "BurdenofGuilt": {
+    "tier": "3",
+    "description": "After Hammer of Justice's stun fades, the enemy's Movement Speed is slowed by 30% for 2 seconds."
+  },
+  "BuriedAlive": {
+    "tier": "7",
+    "description": "Enemies inside Entomb take 93.6 (+4% per level) damage per second."
+  },
+  "BurnedFlesh": {
+    "tier": "3",
+    "description": "When Flamestrike damages 2 or more Heroes, they take additional damage equal to 8% of their maximum Health."
+  },
+  "BurningRage": {
+    "tier": "5",
+    "description": "Deal 23.92 (+4% per level) damage per second to nearby enemies."
+  },
+  "BurstingLight": {
+    "tier": "3",
+    "description": "Reduces the cooldown of Ray of Heaven by 2 seconds."
+  },
+  "ByeBye": {
+    "tier": "5",
+    "description": "Reduces the cast time of your Hearthstone by 75%, and it is not interrupted by taking damage."
+  },
+  "CthunsGift": {
+    "tier": "7",
+    "description": "Your Basic Attack becomes ranged and slows targets by 20% for 2 seconds."
+  },
+  "CaduceusReactor20": {
+    "tier": "7",
+    "description": "While Caduceus Reactor is active you restore 8 Mana a second and gain a Shield that absorbs 99.84 (+4% per level) damage, stacking up to 5 times."
+  },
+  "Calamity": {
+    "tier": "3",
+    "description": "Teleport does 309 (+3% per level) damage to enemies near your destination."
+  },
+  "CalloftheGrave": {
+    "tier": "7",
+    "description": "Poison Nova deals an additional 1% of the target's maximum life as damage every second."
+  },
+  "CalloftheWildhammer": {
+    "tier": "7",
+    "description": "Hinterland Blast has double the range and deals 25% more damage."
+  },
+  "CalldownMULE": {
+    "tier": "3  Activate to calldown a Mule that repairs Structures, one at a time, near target point for 40 seconds, healing for 100 Health every 1 second.  Grants 1 ammo every",
+    "description": "3 seconds."
+  },
+  "Caltrops": {
+    "tier": "3",
+    "description": "Drop 3 Caltrops while Vaulting. Caltrops do 46.8 (+4% per level) damage and slow enemies by 30% for 2 seconds."
+  },
+  "Cannoneer": {
+    "tier": "5  When you use an Ability, increase your next Basic Attack by 75% and cause it to deal Ability damage.",
+    "description": "Stacks up to 3 times."
+  },
+  "CelestialAttunement": {
+    "tier": "1",
+    "description": "Reduce the Mana cost of Light of Elune by 15."
+  },
+  "CelestialWrath": {
+    "tier": "7  Starfall can be cast globally.",
+    "description": "Damage is increased by 30%."
+  },
+  "CentrifugalHooks": {
+    "tier": "1",
+    "description": "Banelings can travel twice as far before exploding."
+  },
+  "ChainBomb": {
+    "tier": "5  Living Bomb's explosion applies Living Bomb to the 3 closest enemies not already affected by it.",
+    "description": "Prefers Heroes."
+  },
+  "ChainReaction": {
+    "tier": "2",
+    "description": "Chain Heals on allies with Lightning Shield active are increased by 25%."
+  },
+  "ChangeIsSurvival": {
+    "tier": "7",
+    "description": "Increases Adaptation healing to 125% of the damage received and reduces the cooldown by 30 seconds."
+  },
+  "ChaoticEnergy": {
+    "tier": "1",
+    "description": "Quest: Gathering a Regen Globe causes your next Basic Ability with a Mana cost to refund 40 Mana Reward: After Gathering 20 Regen Globes your Basic Ability Mana costs are permanently reduced by 20."
+  },
+  "ChargedBlast": {
+    "tier": "2",
+    "description": "Basic Attacking a target recently hit by a Magic Missile does an extra 90.48 (+4% per level) damage."
+  },
+  "ChargedUp": {
+    "tier": "3",
+    "description": "Increases the number of Lightning Rod strikes by 2 and its range by 15%."
+  },
+  "CheapShot": {
+    "tier": "2",
+    "description": "Hamstring does 104% (+4% per level) more damage to targets affected by a slow, root, or stun."
+  },
+  "CheckpointReached": {
+    "tier": "7",
+    "description": "10 seconds after using Play Again!, any dead Vikings are revived and summoned again, and all are healed to full."
+  },
+  "ChewYourFood": {
+    "tier": "1",
+    "description": "Using Devour also heals you for 9.555% of your max Health over 3.063 seconds."
+  },
+  "ChitinousPlating": {
+    "tier": "3",
+    "description": "While Harden Carapace is active, taking damage from enemy Abilities reduces its cooldown by 0.75 seconds, up to 3 seconds."
+  },
+  "ChokingPollen": {
+    "tier": "6",
+    "description": "Increases Noxious Blossom damage by 125% against enemies afflicted with Nature's Toxin."
+  },
+  "ChopMeat": {
+    "tier": "1",
+    "description": "Increases Hamstring damage by 100% to Minions and Mercenaries, and Minions killed shortly after being hit by Hamstring drop 3 stacks of meat."
+  },
+  "ChronoSickness": {
+    "tier": "3",
+    "description": "Reduces Time Trap's cooldown and Mana cost by 50%. After the Stasis ends, the enemy is also slowed by 50% for 4 seconds."
+  },
+  "ChronoSurge": {
+    "tier": "2",
+    "description": "Hitting an enemy Hero with Phase Prism grants 40% bonus Attack Speed for 4 seconds."
+  },
+  "CircleofLife": {
+    "tier": "6",
+    "description": "Increases Breath of Heaven's healing by 10% for each allied Hero in the cast range."
+  },
+  "CircleofProtection": {
+    "tier": "6",
+    "description": "An untalented Force of Will is also applied to allies near the target."
+  },
+  "Clairvoyance": {
+    "tier": "3  Activate to reveal an area for 10 seconds.",
+    "description": "Enemies in the area are revealed for 4 seconds."
+  },
+  "CleanKill": {
+    "tier": "2",
+    "description": "If Ravage kills the target, it restores 75% of its Mana cost and increases the damage of your next Ravage by 25%."
+  },
+  "Cleanse": {
+    "tier": "3",
+    "description": "Activate to make target ally Unstoppable for 1 second. Cannot be cast on yourself."
+  },
+  "Clear": {
+    "tier": "3",
+    "description": "Displacement Grenade's explosion radius increased by 33% and knocks back farther."
+  },
+  "ClockwerkSteamFists": {
+    "tier": "2",
+    "description": "Quest: Basic Attacks increase the duration of active Rock-It! Turrets by 2 seconds. Reward: After increasing turret duration by 600 total seconds, reduce the charge cooldown of Rock-It! Turret by 3 seconds."
+  },
+  "ClusterRound": {
+    "tier": "6",
+    "description": "Penetrating Round damage is increased by 20% for each additional target hit up to 100%, and the width is increased by 50%."
+  },
+  "Cocoon": {
+    "tier": "4",
+    "description": "Wraps target enemy Hero in a cocoon, rendering them unable to act or be targeted for 8 seconds. Allies of the Hero can attack the cocoon to break it and free them early."
+  },
+  "ColdEmbrace": {
+    "tier": "6",
+    "description": "Shadow Dagger makes the initial enemy Vulnerable, taking 25% more damage, for 2 seconds."
+  },
+  "ColdSnap": {
+    "tier": "7",
+    "description": "The center of the ring also explodes with frost after the first ring expires."
+  },
+  "ColossalTotem": {
+    "tier": "1",
+    "description": "Increases the area and range of Earthbind Totem by 50%."
+  },
+  "CombatStance": {
+    "tier": "3",
+    "description": "Shields from Fortifying Brew last for an additional 3 seconds after drinking stops."
+  },
+  "CombatTactician": {
+    "tier": "1",
+    "description": "Basic Attacks reduce the cooldown of Run and Gun by 0.75 seconds."
+  },
+  "CombinationAttack": {
+    "tier": "6",
+    "description": "The next Basic Attack after using Flying Kick deals 100% bonus damage."
+  },
+  "CommandeerOdin": {
+    "tier": "4",
+    "description": "Call down an Odin to pilot. The Odin deals increased Damage, has 60% increased Basic Attack range, and uses different Abilities. Lasts 23 seconds."
+  },
+  "CompositeArrows": {
+    "tier": "1",
+    "description": "Increases the range of Multishot by 20%."
+  },
+  "CompositeSpear": {
+    "tier": "3",
+    "description": "Increases the range of Ancient Spear by 30% and increases Fury generated by 20."
+  },
+  "CompositionB": {
+    "tier": "7",
+    "description": "If you successfully stick a Pulse Bomb to an enemy Hero, you also drop another one at their feet that deals 50% damage and explodes slightly earlier."
+  },
+  "CompoundingAether": {
+    "tier": "1",
+    "description": "Reward: After hitting 25 Heroes with Sand Blast increase its damage by 100."
+  },
+  "CompressedAir": {
+    "tier": "3",
+    "description": "Increases the radius of Pufferfish by 50%."
+  },
+  "ConcentratedBlast": {
+    "tier": "6",
+    "description": "Increases Gilnean Cocktail's damage by 80% while Inner Beast is active."
+  },
+  "ConcussionGrenade": {
+    "tier": "3",
+    "description": "Increases Frag Grenade's radius by 25% and the knockback distance by 100%."
+  },
+  "ConfidentAim": {
+    "tier": "2",
+    "description": "Lowers the cooldown of Penetrating Round by 4 seconds if it hits an enemy Hero."
+  },
+  "ConjurersPursuit": {
+    "tier": "1",
+    "description": "Quest: Gathering Regeneration Globes increases your Mana Regeneration by 0.102 per second, up to 2.538 per second. Reward: After gathering 25 Globes, also increase your maximum Mana by 100."
+  },
+  "Constriction": {
+    "tier": "3",
+    "description": "Increases Drag duration by 0.5 seconds."
+  },
+  "ConsumeSoul": {
+    "tier": "2",
+    "description": "Instantly kill an enemy Minion and heal for 379.6 (+4% per level) Health. Stores 2 charges."
+  },
+  "ConsumeVitality": {
+    "tier": "6",
+    "description": "Skeletal Swing heals you for 2% of your maximum Health per target hit, up to 10%. Half as effective while Undying."
+  },
+  "ConsumingFlame": {
+    "tier": "1",
+    "description": "Breath of Fire's burn effect when used on Brew-soaked targets is increased by 2 seconds."
+  },
+  "Contagion": {
+    "tier": "7",
+    "description": "Isolation hits all Heroes near the first target."
+  },
+  "ContinuousOverpower": {
+    "tier": "6",
+    "description": "Overpower can store 2 charges."
+  },
+  "ContinuousSlime": {
+    "tier": "5",
+    "description": "Decreases the cooldown of Slime from 4 seconds to 3 seconds."
+  },
+  "ContinuousWinds": {
+    "tier": "7",
+    "description": "Emerald Wind releases two additional novas that deal 25% damage. Also further increases the healing bonus of Soothing Mist by 7%."
+  },
+  "Convection": {
+    "tier": "1",
+    "description": "Quest: Every time Flamestrike damages an enemy Hero increase its damage by 5, up to 100. Lose all damage bonuses if you die. Reward: After gaining 100 Flamestrike damage, increase Flamestrike damage by an additional 100 and no longer lose any bonuses if you die."
+  },
+  "ConvergingForce": {
+    "tier": "5",
+    "description": "Enemies hit by the outer area are pushed slightly toward the center."
+  },
+  "Conviction": {
+    "tier": "3",
+    "description": "Movement Speed is increased by 25% while Condemn is charging up."
+  },
+  "CorpseExplosion": {
+    "tier": "5",
+    "description": "When Skeletal Warriors die they explode for 57.2 (+4% per level) damage in a small area. Deals 100% increased damage to non-Heroic enemies."
+  },
+  "CorpseFeeders": {
+    "tier": "1",
+    "description": "Reduces the cooldown of Infested Drop by 3 seconds and Roachlings take 40% less damage from non-Heroic sources."
+  },
+  "CorrosiveSaliva": {
+    "tier": "6",
+    "description": "When used against Heroes, Hunter Killers deal additional damage equal to 2% of their maximum Health."
+  },
+  "Corruption": {
+    "tier": "1",
+    "description": "Basic Attacks against Structures destroy 2 Ammunition."
+  },
+  "CostEffectiveMaterials": {
+    "tier": "1",
+    "description": "Reduces the Mana cost of Hungering Arrow by 30."
+  },
+  "CouplesTherapy": {
+    "tier": "5",
+    "description": "While channeling Healing Beam you are healed for 25% of the healing amount at the cost of an additional 4 Mana per second."
+  },
+  "CovertOps": {
+    "tier": "1",
+    "description": "Increases Pinning Shot's slow by 2% for every second that Nova is Cloaked, to a maximum of a 60%. Bonus fades when Nova is un-Cloaked for 1 second."
+  },
+  "CraveFlesh": {
+    "tier": "5",
+    "description": "While an enemy is affected by Butcher's Brand, you gain 30% Movement Speed."
+  },
+  "CripplingBlow": {
+    "tier": "6",
+    "description": "Enemies hit by Surging Fist are slowed by 90% for 1.25 seconds."
+  },
+  "CripplingHammer": {
+    "tier": "6",
+    "description": "Increases Hammerang's slow from 25% to 50%."
+  },
+  "CripplingShot": {
+    "tier": "6",
+    "description": "Enemies hit by Pinning Shot become Vulnerable, taking 25% increased damage for the duration of the slow."
+  },
+  "CripplingSlam": {
+    "tier": "6",
+    "description": "Hamstring's slow no longer fades out, and the duration is increased by 25%."
+  },
+  "CripplingTalons": {
+    "tier": "2",
+    "description": "Increases Spirit Swoop's slow amount to 40% and its duration to3 seconds."
+  },
+  "CriticalCare": {
+    "tier": "6",
+    "description": "Increases the healing of Mend Pet by 50% while Misha is under 50% health."
+  },
+  "Critterize": {
+    "tier": "6",
+    "description": "Polymorph makes enemies Vulnerable, increasing the damage they take by 25%."
+  },
+  "CrowdControl": {
+    "tier": "2",
+    "description": "Each enemy hit by Thunder Clap reduces its cooldown by 0.75 seconds."
+  },
+  "CrowdPleaser": {
+    "tier": "7",
+    "description": "Stage Dive's impact area is 50% bigger, and its cooldown is reduced by 15 seconds for every enemy Hero hit."
+  },
+  "CruelSpores": {
+    "tier": "1",
+    "description": "When Crippling Spores hits only Minions or Mercenaries, its cooldown is reduced by 80% and 20 Mana is restored."
+  },
+  "CrushingHope": {
+    "tier": "5",
+    "description": "If Drain Hope lasts its full duration, it deals bonus damage equal to 10% of the victim's Maximum Health. This damage does not heal you."
+  },
+  "Cryptweave": {
+    "tier": "7",
+    "description": "Staying near the Cocoon allows Anub'arak to extend the duration by up to 4 seconds per Cocoon."
+  },
+  "CrystalAegis": {
+    "tier": "4",
+    "description": "Place an allied Hero into Stasis for 2 seconds. Upon expiration, Crystal Aegis deals 280.8 (+4% per level) damage to all nearby enemies."
+  },
+  "CurseofExhaustion": {
+    "tier": "3",
+    "description": "Upon expiration, Corruption slows enemy Movement Speed by 50% for 2.5 seconds."
+  },
+  "DampenMagic": {
+    "tier": "1  Upon taking Ability Damage, reduce that damage and further Ability Damage by 50% for 1.5 seconds.",
+    "description": "Can only trigger once every 8 seconds."
+  },
+  "DarkBargain": {
+    "tier": "5",
+    "description": "Your maximum Health is permanently increased by 25% but your Death Respawn time is increased by 15 seconds."
+  },
+  "DarkDescent": {
+    "tier": "3",
+    "description": "Increases Runic Blast's damage by 5% every time you get a Hero Takedown, up to 20%. These bonuses are lost upon dying."
+  },
+  "DarkLadysCall": {
+    "tier": "7",
+    "description": "Mind Controlled enemies gain 100% Movement Speed for the duration."
+  },
+  "DarknessWithin": {
+    "tier": "6",
+    "description": "After using Life Tap, the next ability you cast has 25% increased Ability Power."
+  },
+  "Dash": {
+    "tier": "1",
+    "description": "Quest: Run and Gun increases your Movement Speed by 1% for each Regeneration Globe you gather, up to 25%. Lasts 2 seconds. Reward: Once you have gathered 25 Regeneration Globes, also increase the range of Run and Gun by 50%."
+  },
+  "DeadRush": {
+    "tier": "5  Wall of Zombies deals 50% more damage.",
+    "description": "When it expires up to 5 remaining Zombies uproot and attack nearby enemies for 3 seconds."
+  },
+  "DeadlyStrike": {
+    "tier": "2",
+    "description": "Increase the damage of Flying Kick by 50%."
+  },
+  "DeafeningBlast": {
+    "tier": "7",
+    "description": "Enemies at the center of Wailing Arrow's explosion take 50% more damage and are silenced for twice as long."
+  },
+  "DeathMarch": {
+    "tier": "7",
+    "description": "Your final swing of March of the Black King also applies the base version of Drain Hope to all enemy Heroes in a large area."
+  },
+  "DeathMetal": {
+    "tier": "7",
+    "description": "Upon dying, a ghost uses Mosh Pit at your location."
+  },
+  "DeathRitual": {
+    "tier": "1",
+    "description": "Quest: When a Minion dies under the effects of Voodoo Ritual, increase your maximum Health by 5 and your maximum Mana by 3."
+  },
+  "DeathTouch": {
+    "tier": "3",
+    "description": "Death Coil causes enemy Minions to explode, killing the target instantly and dealing its normal damage to other nearby enemies."
+  },
+  "DeathsAdvance": {
+    "tier": "7",
+    "description": "Passively increases your Movement Speed by 10%. Activate to increase this bonus to 30% for 3 seconds."
+  },
+  "DeathsReach": {
+    "tier": "2",
+    "description": "Increases Spectral Scythe range by 20%."
+  },
+  "Deathlord": {
+    "tier": "2",
+    "description": "Reduces Death Coil's cooldown by 2 seconds and increase its range by 25%."
+  },
+  "Decrepify": {
+    "tier": "5",
+    "description": "Spectral Scythe slows enemies by 40% for 3 seconds."
+  },
+  "DeepBreath": {
+    "tier": "2",
+    "description": "Increases Breath of Fire's range and arc by 30% and the Brew cost is reduced by 10."
+  },
+  "DeepBreathing": {
+    "tier": "1",
+    "description": "Quest: Every time Dragon's Breath hits a Hero increase its damage by 2, up to 50. Reward: After hitting 25 Heroes, increase its damage by an additional 150 and also increase your sight radius by 100%."
+  },
+  "DeepChill": {
+    "tier": "1",
+    "description": "Increases the slow of Chill from 25% to 30%."
+  },
+  "DeepImpact": {
+    "tier": "7",
+    "description": "Rain of Destruction slows enemies Movement Speed by 90% for 0.5 seconds."
+  },
+  "DeepShift": {
+    "tier": "3",
+    "description": "Dimensional Shift duration increased by 1.5 seconds."
+  },
+  "Demolitionist": {
+    "tier": "1",
+    "description": "Basic Attacks against Structures destroy 1 ammo and deal an additional 10% damage."
+  },
+  "DemonicCircle": {
+    "tier": "7",
+    "description": "Summon a Demonic Circle at your location. Activate to teleport to the Demonic Circle."
+  },
+  "DemonicForm": {
+    "tier": "7",
+    "description": "Permanently remain in Demonic Form. Metamorphosis also increases your Attack Speed by 20% and reduces the duration of disabling effects against you by 50%. You can now mount in Demonic Form."
+  },
+  "DemonicInvasion": {
+    "tier": "4",
+    "description": "Rain a small army of Demonic Grunts down on enemies, dealing 114.4 (+4% per level) damage per impact. Demon Grunts deal 56.16 (+4% per level) damage and have 379.6 (+4% per level) health."
+  },
+  "DemonicSmite": {
+    "tier": "6",
+    "description": "Demon Lieutenants will periodically blast non-Heroic units with demonic energy, dealing 427.44 (+4% per level) damage."
+  },
+  "DemonicStrength": {
+    "tier": "2",
+    "description": "Once Overpower's stun expires, the target is slowed by 25% for 2 seconds."
+  },
+  "Destruction": {
+    "tier": "2",
+    "description": "Damage boost of Frostmourne Hungers increased to 150% damage."
+  },
+  "DevastatingCharge": {
+    "tier": "3",
+    "description": "Shadow Charge reduces the duration of stuns, slows, and roots against you by 50% for 6 seconds."
+  },
+  "DevilsDue": {
+    "tier": "1",
+    "description": "Reduces Black Soulstone's resurrection cost to 60 Souls."
+  },
+  "DevourtheFrail": {
+    "tier": "3",
+    "description": "Drain Life deals 50% more damage to enemies below 50% Health."
+  },
+  "DevouringMaw": {
+    "tier": "4  Summon a Devouring Maw that devours enemies for 4 seconds. Devoured enemies cannot fight and take 83.2 (+4% per level) damage per second.",
+    "description": "Usable on Unstoppable enemies."
+  },
+  "DiabolicalMomentum": {
+    "tier": "3",
+    "description": "Basic Attacks reduce your Basic Ability cooldowns by 0.75 seconds."
+  },
+  "DiamondResolve": {
+    "tier": "7",
+    "description": "When Crystal Aegis expires, it grants a shield that reduces damage taken by 50% for 5 seconds."
+  },
+  "DiamondSkin": {
+    "tier": "6",
+    "description": "When you Teleport, gain 20% of your maximum Health as a Shield for 4 seconds."
+  },
+  "DimensionalWarp": {
+    "tier": "6",
+    "description": "While Dimensional Shifted, gain 50% Movement Speed and heal for 399.36 (+4% per level) Health."
+  },
+  "Disintegrate": {
+    "tier": "4",
+    "description": "Channel a powerful beam, dealing 462 (+5% per level) damage over 2.5 seconds to enemies while they are in it. The direction of the beam changes with your mouse cursor position."
+  },
+  "DistortionBeam": {
+    "tier": "5",
+    "description": "Basic Attacks slow enemies by 20% for 1.5 seconds."
+  },
+  "DividingWisp": {
+    "tier": "2",
+    "description": "The first time you relocate a Wisp it leaves a copy of itself in the previous location. Only one Dividing Wisp can be active at a time."
+  },
+  "DivineHurricane": {
+    "tier": "7",
+    "description": "Divine Storm's radius is increased by 50% and its cooldown is reduced by 20 seconds."
+  },
+  "DivinePalm": {
+    "tier": "4",
+    "description": "Protect an allied Hero from death, causing them to be healed for 1186.64 (+4% per level) if they take fatal damage in the next 3 seconds."
+  },
+  "DivineShield": {
+    "tier": "4",
+    "description": "Make an allied Hero Invulnerable and increase their Movement Speed by 20% for 3 seconds."
+  },
+  "DivineStorm": {
+    "tier": "4",
+    "description": "Deal 194.48 (+4% per level) damage and stun nearby enemies for 1.75 seconds."
+  },
+  "Dominance": {
+    "tier": "2",
+    "description": "Takedowns restore 19.92% of your maximum Health."
+  },
+  "Domination": {
+    "tier": "6",
+    "description": "Overpower reduces the cooldown of Shadow Charge by 10 seconds."
+  },
+  "DoubleBack": {
+    "tier": "2",
+    "description": "Dread Orb's third bounce instead bounces backwards."
+  },
+  "DoubleBombs": {
+    "tier": "6",
+    "description": "After you cast Singularity Spike, you can cast a second one for free within 3 seconds for 50% normal damage."
+  },
+  "DoubleDragon": {
+    "tier": "7",
+    "description": "After hitting a target with Water Dragon, another dragon is summoned at the point of impact."
+  },
+  "DoubleFake": {
+    "tier": "6",
+    "description": "Casting Holo Decoy creates an additional Decoy at your current location."
+  },
+  "DoubleStrike": {
+    "tier": "5",
+    "description": "When your Basic Abilities damage an enemy, your next Basic Attack hits for 75% bonus damage."
+  },
+  "DoubleTap": {
+    "tier": "5",
+    "description": "Pinning Shot now has 2 charges."
+  },
+  "DoubleTrouble": {
+    "tier": "3",
+    "description": "If Shadowflame hits an enemy Hero afflicted with Cho's Consuming Blaze, its cooldown is reduced by 1.25 seconds."
+  },
+  "DoubleWyrmhole": {
+    "tier": "7",
+    "description": "Blink Heal can be cast a second time on a different target within 2 seconds without consuming a charge."
+  },
+  "DoubleBarreled": {
+    "tier": "5",
+    "description": "Penetrating Round gains a second charge."
+  },
+  "DoubleNeckedGuitar": {
+    "tier": "2",
+    "description": "Increases Powerslide's width by 100% and you slide 30% faster."
+  },
+  "DragonsEye": {
+    "tier": "3",
+    "description": "Dragon's Breath does 25% more damage to enemies in the center."
+  },
+  "DrainMomentum": {
+    "tier": "5",
+    "description": "Drain Hope now increases your Movement Speed by 10% instead of reducing it."
+  },
+  "DrakkenLaserDrill": {
+    "tier": "4",
+    "description": "Call down a Laser Drill to attack nearby enemies, dealing 147.68 (+4% per level) damage every second. Reactivate to assign a new target. Lasts 22 seconds."
+  },
+  "DraughtOverflow": {
+    "tier": "2",
+    "description": "Increases Gilnean Cocktail's explosion length by 35%."
+  },
+  "DreadShield": {
+    "tier": "5",
+    "description": "When Dread Orb hits an enemy Hero, gain a Shield absorbing 266.24 (+4% per level) damage for 5 seconds."
+  },
+  "DreamShot": {
+    "tier": "1",
+    "description": "Reduces the cooldown of Arcane Flare by 1 second for each enemy Hero hit by the outer radius, and 3 seconds for each hit by the inner radius."
+  },
+  "DuskWings": {
+    "tier": "7",
+    "description": "Banshees remain Stealthed while attacking and fire 50% more frequently."
+  },
+  "DustofAppearance": {
+    "tier": "2",
+    "description": "Activate to reveal enemy Heroes in the area surrounding Medivh for 10 seconds. Does not cancel Raven Form."
+  },
+  "DwarfLaunch": {
+    "tier": "6",
+    "description": "Increases the range and impact radius of Dwarf Toss by 50%."
+  },
+  "DyingBreath": {
+    "tier": "7",
+    "description": "Apocalypse's cooldown is reduced by 20 seconds and is cast for free when you die."
+  },
+  "EagerWolf": {
+    "tier": "6",
+    "description": "Increases the Attack Speed bonus of Inner Beast by an additional 40% after it has been active for 4 seconds."
+  },
+  "EarthShield": {
+    "tier": "5",
+    "description": "Lightning Shield gives a Shield that absorbs damage equal to 12% of their maximum Health for 3 seconds."
+  },
+  "EarthenShields": {
+    "tier": "7",
+    "description": "You and your allies within the Earthquake area gain a Shield equal to 15% of max Health each pulse. This shield lasts 4 seconds."
+  },
+  "EarthgraspTotem": {
+    "tier": "6",
+    "description": "When Earthbind Totem is first cast, it slows nearby enemies by 90% for 1 second."
+  },
+  "EarthlivingEnchant": {
+    "tier": "5",
+    "description": "When Chain Heal heals a Hero below 50% Health, they are healed an additional 208 (+4% per level) Health over 5 seconds."
+  },
+  "Earthquake": {
+    "tier": "4",
+    "description": "Summon a massive Earthquake that periodically slows enemies in the area by 70%. Lasts for 10 seconds."
+  },
+  "EasyPrey": {
+    "tier": "2",
+    "description": "Increases Misha's damage to Minions and Mercenaries by 150%, and reduces the damage Misha takes from Minions and Mercenaries by 50%."
+  },
+  "EchoofHeaven": {
+    "tier": "3",
+    "description": "Breath of Heaven heals a second time 2 seconds later for 35%."
+  },
+  "EchoPedal": {
+    "tier": "6",
+    "description": "Using a Basic or Heroic Ability releases two pulses of 61.36 (+4% per level) damage. The first occurs instantly, the second occurs 2 seconds later."
+  },
+  "EchoedCorruption": {
+    "tier": "1",
+    "description": "Quest: Hit 35 enemy Heroes with Corruption. Reward: After the third strike, Corruption strikes 3 times in the opposite direction."
+  },
+  "EdgeofMadness": {
+    "tier": "3",
+    "description": "Increases Shadowflame damage by 20% to nearby targets, and 10% to mid-range targets. Distant targets take normal damage."
+  },
+  "ElectricCharge": {
+    "tier": "1",
+    "description": "Increases the radius of Lightning Shield by 25%."
+  },
+  "ElementalConduit": {
+    "tier": "7",
+    "description": "Using an Ability will cause one of the elemental spirits to fight with you for 4 seconds. Only one spirit can be active at a time."
+  },
+  "ElongatedTongue": {
+    "tier": "6",
+    "description": "Increase Drag range by 20%."
+  },
+  "ElunesGrace": {
+    "tier": "2",
+    "description": "Increases the range of Regrowth, Moonfire, and Entangling Roots by 30%."
+  },
+  "ElusiveFeet": {
+    "tier": "5",
+    "description": "When Fast Feet is triggered, the damage of the next 2 Basic Attacks from enemy Heroes is reduced by 75% for 10 seconds. Can only trigger once every 10 seconds."
+  },
+  "ElusiveStrike": {
+    "tier": "5",
+    "description": "Sweeping Strike reduces the cooldown of Evasion by 3 seconds every time it damages an enemy Hero."
+  },
+  "EmbraceDeath": {
+    "tier": "6",
+    "description": "Death Coil deals 10% more damage for each 10% of life you are missing."
+  },
+  "EmeraldWind": {
+    "tier": "4",
+    "description": "Create an expanding nova of wind, dealing 331.76 (+4% per level) damage and pushing enemies away. Also passively increases the healing of Soothing Mist by 8%."
+  },
+  "EmpathicLink": {
+    "tier": "3",
+    "description": "Auriel stores 20% of damage taken by allies with Bestow Hope."
+  },
+  "Empower": {
+    "tier": "1",
+    "description": "When Sentinel impacts, your cooldowns are instantly reduced by 2 seconds."
+  },
+  "EmpoweringCharge": {
+    "tier": "1",
+    "description": "Lightning Shield also increases the damage of the target's next 3 Basic Attacks by 30.00%."
+  },
+  "Encore": {
+    "tier": "6",
+    "description": "Face Melt leaves an Amp behind, which will knock enemies away again 2 seconds later."
+  },
+  "EndlessCreep": {
+    "tier": "7",
+    "description": "The cast range for Creep Tumor is increased by 2000%. Creep Tumors now last 600 seconds. While on Creep, Zagara gains an additional 20% Movement Speed."
+  },
+  "EndlessFury": {
+    "tier": "1",
+    "description": "Increases maximum Fury to 200."
+  },
+  "EnduringGrowth": {
+    "tier": "3",
+    "description": "Increases the duration of Regrowth by 6 seconds."
+  },
+  "EnduringSwarm": {
+    "tier": "1",
+    "description": "Dark Swarm reduces the damage of the next two Abilities made against you by 50%."
+  },
+  "EnduringWill": {
+    "tier": "6",
+    "description": "Increases Force of Will duration by 33.333%."
+  },
+  "EnergizedCord": {
+    "tier": "3  Increases the energy stored from Auriel's Basic Attacks to 60.4% of the damage against Heroes and 42.08% of the damage against non-Heroes.",
+    "description": "Does not affect your Bestow Hope ally."
+  },
+  "EnergizingGrasp": {
+    "tier": "1",
+    "description": "Reduces the Mana cost of Primal Grasp by 75%."
+  },
+  "EnergyRoil": {
+    "tier": "2",
+    "description": "When Gravity Lapse hits a Hero, reduce its cooldown by 9 seconds."
+  },
+  "EngineGunk": {
+    "tier": "3",
+    "description": "Rock-It! Turret attacks slow enemies by 25% for 2 seconds."
+  },
+  "EnhancedAgility": {
+    "tier": "1",
+    "description": "Quest: Each time you collect 50 Essence, permanently increase your Movement Speed by 1.5%, up to 15%."
+  },
+  "EnoughtoShare": {
+    "tier": "5",
+    "description": "Fortifying Brew also Shields nearby allied Heroes for 56.16 (+4% per level) per second."
+  },
+  "Enraged": {
+    "tier": "6",
+    "description": "Receiving damage that reduces you below 50% of your maximum Health causes you to become Enraged for 10 seconds. You gain 40% Attack Speed and reduce the duration of slows, stuns, and roots against you by 75% while Enraged."
+  },
+  "Entomb": {
+    "tier": "4",
+    "description": "Create an unpathable tomb in front of you for 4 seconds."
+  },
+  "EnvelopingAssault": {
+    "tier": "2",
+    "description": "Increases Dragon's Breath's radius by 25%."
+  },
+  "Envenom": {
+    "tier": "2",
+    "description": "Activate to poison an enemy Hero, dealing 366.08 (+4% per level) damage over 10 seconds."
+  },
+  "EnvenomedNest": {
+    "tier": "1",
+    "description": "Toxic Nests deal 75% more damage over 3 seconds."
+  },
+  "EnvenomedSpikes": {
+    "tier": "6",
+    "description": "Your Symbiote's Spike Burst also slows enemy Movement Speed by 40% for 2 seconds."
+  },
+  "EnvenomedSpines": {
+    "tier": "2",
+    "description": "Activate to have Zagara's next Basic Attack apply 239.2 (+4% per level) damage over 5 seconds."
+  },
+  "EpicMount": {
+    "tier": "7",
+    "description": "Reduce the cooldown of Flight to 25 seconds, reduce the cast time before flying to 0.5 seconds, and increase the speed by 50%."
+  },
+  "Epicenter": {
+    "tier": "6",
+    "description": "Increases Burrow Charge impact area by 85% and lowers the cooldown by 4 seconds for each Hero hit."
+  },
+  "Epiphany": {
+    "tier": "7",
+    "description": "Activate to restore 32.81% of your maximum Mana and refill 2 charges of Radiant Dash."
+  },
+  "EriktheSwift": {
+    "tier": "2",
+    "description": "Permanently increases Erik's base Movement Speed by 10%, and as long as Erik is moving he heals 35.36 (+4% per level) Health per second."
+  },
+  "EssofJohan": {
+    "tier": "2",
+    "description": "When Arcane Orb damages enemies, they are pulled toward it's center."
+  },
+  "EssenceDevourer": {
+    "tier": "3",
+    "description": "Quest: Gathering Regeneration Globes grant 10 Essence and increase your maximum Essence by 1, to a maximum of 10 increased Essence. Reward: After collecting 10 Regeneration Globes, the amount of Essence you gain from Regeneration Globes is increased to 15."
+  },
+  "EssenceforEssence": {
+    "tier": "6",
+    "description": "Activate to deal 10% of target enemy Hero's Max Health and gain Assimilation Shields for twice that amount."
+  },
+  "EssenceoftheSlain": {
+    "tier": "2",
+    "description": "When enemy Minions and Heroes die near you, gain 27.528 (+4% per level) Health and 10 Mana."
+  },
+  "EternalHunger": {
+    "tier": "1",
+    "description": "Quest: Using Frostmourne Hungers on an enemy Hero permanently increases the Mana it restores by 4, up to 40. Reward: After hitting 10 Heroes with Frostmourne Hungers, also increase its damage bonus by 25%."
+  },
+  "EternalRetaliation": {
+    "tier": "2",
+    "description": "Condemn's cooldown is lowered by 0.75 seconds for each enemy affected. Maximum of 10 targets."
+  },
+  "EvasiveFire": {
+    "tier": "6",
+    "description": "When you hit an enemy with Withering Fire, gain 10% Movement Speed for 2 seconds, stacking up to 30%."
+  },
+  "EvasiveShielding": {
+    "tier": "6",
+    "description": "The target of your Plasma Shield also gains 25% Movement Speed for 5 seconds."
+  },
+  "EvenInDeath": {
+    "tier": "1",
+    "description": "Increases Archangel's Wrath's damage by 25%. Basic Abilities also can be used before exploding, but deal no damage."
+  },
+  "Eviscerate": {
+    "tier": "5",
+    "description": "Increases Ravage's range by 40%."
+  },
+  "EvolutionComplete": {
+    "tier": "7",
+    "description": "Monstrosity gains the ability to Deep Tunnel to any visible location once every 25 seconds."
+  },
+  "EvolutionaryLink": {
+    "tier": "7  As long as the Ultimate Evolution is alive, the original target of the clone gains a Shield equal to 25% of their maximum Health.",
+    "description": "Refreshes every 5 seconds."
+  },
+  "EvolveMonstrosity": {
+    "tier": "4  Turn an allied Minion or Locust into a Monstrosity. When enemy Minions near the Monstrosity die, it gains 5% Health and 5% Basic Attack damage, stacking up to 40 times.  The Monstrosity takes 50% less damage from non-Heroic enemies.  Using Symbiote on the Monstrosity allows you to control it, in addition to Symbiote's normal benefits.",
+    "description": "This Ability can be reactivated to automatically cast Symbiote on your Monstrosity."
+  },
+  "ExcessiveForce": {
+    "tier": "2",
+    "description": "Double the knock back distance."
+  },
+  "Executioner": {
+    "tier": "6",
+    "description": "Attacking a Hero that is slowed, rooted, or stunned increases your Basic Attack damage by 30% for 3 seconds."
+  },
+  "ExplosiveAttacks": {
+    "tier": "1",
+    "description": "Increases Baleog's splash damage against non-Heroes to 100%."
+  },
+  "ExplosiveRound": {
+    "tier": "5",
+    "description": "Snipe also deals 50% damage to enemies near the impact."
+  },
+  "ExtendedSpikes": {
+    "tier": "1",
+    "description": "Increases Impale's range and damage by 25%."
+  },
+  "ExtraTNT": {
+    "tier": "1",
+    "description": "Increases Xplodium Charge damage by 10% per target hit, up to 100%."
+  },
+  "EyeofKilrogg": {
+    "tier": "1",
+    "description": "Place an eye, granting vision of a large area around it for 45 seconds. The eye can be killed by enemies with 2 Basic Attacks."
+  },
+  "EyesintheDark": {
+    "tier": "2",
+    "description": "Disengage grants Stealth for 3 seconds."
+  },
+  "EZPZDimensionalRipper": {
+    "tier": "5",
+    "description": "Deth Lazor slows Heroes by 40% and freezes non-Heroes for 3 seconds."
+  },
+  "FaceSmelt": {
+    "tier": "5",
+    "description": "Face Melt slows enemies by 80% fading over 2 seconds."
+  },
+  "FallingSword": {
+    "tier": "4  You leap towards an area.  While in the air, you can steer the landing location by moving.",
+    "description": "After 2 seconds you land, dealing 379.6 (+4% per level) damage to nearby enemies and knocking them into the air."
+  },
+  "Fanaticism": {
+    "tier": "6  While Iron Skin is active, gain 8% Movement Speed each time you take damage.",
+    "description": "Stacks up to 40%."
+  },
+  "FarseersBlessing": {
+    "tier": "7",
+    "description": "Increases healing amount by 50%. Allies near the target are healed for 25% of the amount of health regained."
+  },
+  "Farsight": {
+    "tier": "3  Activate to reveal an area for 10 seconds.",
+    "description": "Enemies in the area are revealed for 4 seconds."
+  },
+  "FastForward": {
+    "tier": "6",
+    "description": "If Sand Blast travels at least 75% of its base distance and hits a Hero, its cooldown is reduced to 0.75 seconds."
+  },
+  "FastReload": {
+    "tier": "7",
+    "description": "Triple Tap's cooldown is reset if it kills an enemy Hero."
+  },
+  "FavoroftheOldGods": {
+    "tier": "7",
+    "description": "Upheaval grants you Resistant, reducing your damage taken by 50% for 5 seconds."
+  },
+  "FealtyUntoDeath": {
+    "tier": "2",
+    "description": "When a nearby Minion dies, you restore 1% of your maximum Health and 5 Mana. Half as effective while Undying."
+  },
+  "FeedbackLoop": {
+    "tier": "1",
+    "description": "When Safeguard expires, 45 Mana is refunded."
+  },
+  "FeedingFrenzy": {
+    "tier": "3",
+    "description": "Basic Attacks reduce Drag's cooldown by 1.5 seconds."
+  },
+  "FeignDeath": {
+    "tier": "6",
+    "description": "Fake your death, becoming Invulnerable and untargetable for 5 seconds. During this time you control Misha."
+  },
+  "FelArmor": {
+    "tier": "5",
+    "description": "Hitting an enemy Hero with Fel Flame grants a Spell Shield, reducing Ability Damage taken by 40% for 2.5 seconds."
+  },
+  "FelInfusion": {
+    "tier": "1",
+    "description": "Increases your Ability Power by 4%. Heal for 97.76 (+4% per level) Health when you activate Verdant Spheres."
+  },
+  "FelReach": {
+    "tier": "2",
+    "description": "Increases the range of Sweeping Strike by 20%."
+  },
+  "FeralHeart": {
+    "tier": "2",
+    "description": "Increases Health and Mana Regeneration by 75% while in Ghost Wolf form."
+  },
+  "FeralLunge": {
+    "tier": "5",
+    "description": "While in Ghost Wolf, you lunge a short distance towards your attack target. The damage bonus for Basic Attacks in Ghost Wolf is increased from 100% to200%."
+  },
+  "FerociousHealing": {
+    "tier": "3  Consume 20 Fury to heal 10.15% of your maximum Health.",
+    "description": "Usable while Whirlwinding."
+  },
+  "FerociousStalker": {
+    "tier": "5",
+    "description": "Brushstalker increases your Movement Speed by 60% decaying over 3 seconds."
+  },
+  "FieryBrand": {
+    "tier": "6",
+    "description": "Every 4th attack against the same Hero deals an additional 6% of their maximum Health as damage."
+  },
+  "FifthCircle": {
+    "tier": "7",
+    "description": "Black Pool makes Basic Attacks and Abilities slow enemies Attack and Movement Speeds by 40% for 3 seconds."
+  },
+  "FightorFlight": {
+    "tier": "3  Whenever Adrenaline Rush activates it also grants Resistant, reducing damage taken by 25% for 4 seconds.",
+    "description": "Adrenaline Rush can also be manually activated."
+  },
+  "FinalAssault": {
+    "tier": "3",
+    "description": "Increases Ruthless Onslaught's range by 33.333%, and causes you to lunge at the enemy when close to impact."
+  },
+  "FireDevil": {
+    "tier": "2",
+    "description": "Fire Stomp also surrounds you in flames that deal 17.68 (+4% per level) damage every second for 6 seconds."
+  },
+  "FireEater": {
+    "tier": "3",
+    "description": "Basic Attacks against targets inflicted with Consuming Blaze heal you for 50% of the damage dealt."
+  },
+  "Fireflies": {
+    "tier": "6",
+    "description": "Drastically increases Magic Missiles speed. Its cooldown is reduced by 1 second, and its Mana cost is reduced by 5."
+  },
+  "FiresofHell": {
+    "tier": "7",
+    "description": "Furnace Blast explodes a second time 3 seconds after the initial explosion."
+  },
+  "Firestorm": {
+    "tier": "5",
+    "description": "Fire Stomp waves return to you, dealing 125% damage."
+  },
+  "FirinMahLazorz": {
+    "tier": "7",
+    "description": "Firing Deth Lazor causes all of your Rock-It! Turrets to fire a Deth Lazor of their own that deals 142.48 (+4% per level) damage."
+  },
+  "FirstAid": {
+    "tier": "3",
+    "description": "Activate to heal 35.49% of your max Health over 6 seconds."
+  },
+  "FirstStrike": {
+    "tier": "5",
+    "description": "Basic Attacks deal 25% more damage if you haven't been attacked within the last 5 seconds."
+  },
+  "FishingHook": {
+    "tier": "6",
+    "description": "Hook has an additional 40% range."
+  },
+  "Fishtank": {
+    "tier": "1  Every 5 seconds, reduce the damage taken from the next Hero Basic Attack by 50%.",
+    "description": "Stores up to 2 charges."
+  },
+  "FissionBomb": {
+    "tier": "5",
+    "description": "Increases Living Bomb's explosion radius by 20%."
+  },
+  "FistofJustice": {
+    "tier": "1",
+    "description": "Basic Attacks reduce cooldown of Hammer of Justice by 1 second."
+  },
+  "FistsofFury": {
+    "tier": "5",
+    "description": "Increases Deadly Reach's duration by 50%."
+  },
+  "FlailAxe": {
+    "tier": "2",
+    "description": "Increases the length of Hamstring by 40%."
+  },
+  "Flamethrower": {
+    "tier": "7",
+    "description": "Increases the cast range of Flamestrike by 40%. If you hit 2 or more Heroes, Flamestrike's cooldown is reduced by 4 seconds."
+  },
+  "Flare": {
+    "tier": "1",
+    "description": "Fire a flare at an area, revealing it for 5 seconds."
+  },
+  "FlowRider": {
+    "tier": "5",
+    "description": "While Tailwind is active, your Basic Abilities recharge 100% faster."
+  },
+  "FlowingWounds": {
+    "tier": "6",
+    "description": "Reduces Spectral Scythe's cooldown by 5 seconds if you hit an enemy Hero."
+  },
+  "FocusFire": {
+    "tier": "6  If an entire ammo magazine is unloaded on an enemy, the last bullet will deal 98.28 (+4% per level) bonus damage.",
+    "description": "This is equal to 30% of the total magazine."
+  },
+  "FocusedAttack": {
+    "tier": "2",
+    "description": "Every 10 seconds, your next Basic Attack against a Hero deals 60% additional damage. Basic Attacks reduce this cooldown by 1 second."
+  },
+  "FocusingDiodes": {
+    "tier": "7  Increases the range of the Drakken Laser Drill by 50%.",
+    "description": "Deals increasing damage the longer it remains on a single target, up to 100% extra damage."
+  },
+  "FollowThrough": {
+    "tier": "3",
+    "description": "After using an Ability, your next Basic Attack within 6 seconds deals 40% additional damage."
+  },
+  "ForceArmor": {
+    "tier": "1  When Magic Missiles damages an enemy Hero, you gain a charge of Spell Block, reducing the damage from the next enemy Ability against you by 50%. Can hold up to 4 charges.",
+    "description": "Can only gain 1 charge per cast."
+  },
+  "ForceBarrier": {
+    "tier": "7",
+    "description": "Force Wall range increased by 50% and duration by 1 second."
+  },
+  "ForceofWill": {
+    "tier": "7",
+    "description": "Increases Shield Overload's cooldown reduction from Basic Attacks to 6 seconds."
+  },
+  "ForceWall": {
+    "tier": "4",
+    "description": "Create a wall that blocks all units from moving through it for 2.5 seconds."
+  },
+  "ForcedRecruitment": {
+    "tier": "7",
+    "description": "Reduces General of Hell's cooldown by 10 seconds and gains an additional charge."
+  },
+  "Foresight": {
+    "tier": "2",
+    "description": "Radiant Dash reveals the area around the target for 3 seconds. Only one area can be revealed at a time."
+  },
+  "ForestsWrath": {
+    "tier": "7",
+    "description": "Increases Thornwood Vine's range by 30%, its speed by 20%, and your vision radius by 35%."
+  },
+  "ForkedLightning": {
+    "tier": "6",
+    "description": "Allows Chain Lightning to hold 2 charges that can be used in quick succession."
+  },
+  "FreeRoll": {
+    "tier": "3",
+    "description": "Barrel Roll costs no Mana."
+  },
+  "FrenziedFists": {
+    "tier": "6",
+    "description": "If Surging Fist hits an enemy Hero, your Attack Speed is increased by 100% for 4 seconds."
+  },
+  "FrenzyofKalimdor": {
+    "tier": "7",
+    "description": "Your Basic Attacks deal 10% more damage, and Misha's Basic Attacks slow the target by 20% for 1.25 seconds."
+  },
+  "FreshCorpses": {
+    "tier": "3",
+    "description": "Zombie Wall cooldown reduced by 4 seconds."
+  },
+  "FriendorFoe": {
+    "tier": "2",
+    "description": "Increases the range of Dive by 33% and allows it to be used on allied Heroes without damaging them."
+  },
+  "FrigidWinds": {
+    "tier": "5",
+    "description": "Frozen Tempest reduces enemy Attack Speed by 8% per second, stacking up to 40%."
+  },
+  "FromtheShadows": {
+    "tier": "3",
+    "description": "Enemies knocked against unpathable locations are stunned for an additional 0.5 seconds."
+  },
+  "FrostArmor": {
+    "tier": "2",
+    "description": "Enemy Heroes that attack you are Chilled. Additionally, every 10 seconds you reduce damage taken from the next Hero Basic Attack by 50%."
+  },
+  "FrostPresence": {
+    "tier": "1",
+    "description": "Howling Blast's cooldown is reduced by 5 seconds when it hits an enemy Hero."
+  },
+  "FrostShards": {
+    "tier": "2",
+    "description": "Frostbolt will now pierce the first target to hit an additional target behind them."
+  },
+  "FrostShot": {
+    "tier": "5",
+    "description": "Multishot also slows by 40% for 2 seconds."
+  },
+  "FrostStrike": {
+    "tier": "5",
+    "description": "Reduces Frostmourne Hungers' cooldown by 2 seconds. Frostmourne Hungers also slows the enemy by 40% for 1.5 seconds."
+  },
+  "Frostbitten": {
+    "tier": "3",
+    "description": "Increases the damage bonus of Frostbite from 50% to 65%."
+  },
+  "FrostmourneFeeds": {
+    "tier": "6",
+    "description": "Increases the amount of Basic Attacks empowered by Frostmourne Hungers to 2."
+  },
+  "FrostwolfsGrace": {
+    "tier": "3",
+    "description": "Frostwolf Resilience can be activated to immediately heal you."
+  },
+  "FrozenWastes": {
+    "tier": "2",
+    "description": "Frozen Tempest Mana cost reduced by 4 per second."
+  },
+  "FuelfortheFlame": {
+    "tier": "1",
+    "description": "Gathering a Regeneration Globe increases the duration of your next Consuming Blaze heal by 75%."
+  },
+  "FullKeg": {
+    "tier": "3",
+    "description": "Increases Keg Smash's damage and radius by 50%."
+  },
+  "FullMoonfire": {
+    "tier": "5",
+    "description": "Increases Moonfire's radius by 60% and reduces its Mana cost by 50%."
+  },
+  "FullyLoaded": {
+    "tier": "2",
+    "description": "Reduce Minigun's cooldown by 33.333%."
+  },
+  "FuriousBlow": {
+    "tier": "6",
+    "description": "Increases Seismic Slam damage by 50%, but costs 40 Fury."
+  },
+  "FurnaceBlast": {
+    "tier": "4  After a 3 second delay, fire explodes around you dealing 520 (+4% per level) damage to enemies.",
+    "description": "Can be cast while using Ruthless Onslaught."
+  },
+  "FuryoftheStorm": {
+    "tier": "7",
+    "description": "Every 5 seconds, your next basic attack will deal an additional 94.64 (+4% per level) damage to the target, and 237.12 (+4% per level) damage to all nearby Minions and Mercenaries."
+  },
+  "FuryoftheSunwell": {
+    "tier": "6",
+    "description": "Flamestrike will explode a second time 1.5 seconds later."
+  },
+  "FuryoftheSwarm": {
+    "tier": "2",
+    "description": "Your Basic Attacks splash for 60% damage around the target."
+  },
+  "GaleForce": {
+    "tier": "1",
+    "description": "Increases Blinding Wind damage by 50%."
+  },
+  "GallopingGait": {
+    "tier": "7",
+    "description": "Activate to increase the Movement Speed bonus of Dryad's Swiftness to 80% for 6 seconds."
+  },
+  "Gargantuan": {
+    "tier": "4",
+    "description": "Summon a Gargantuan that guards you for 20 seconds. Deals 157.04 (+4% per level) damage to nearby enemies when summoned, attacks for 202.8 (+4% per level) damage, and can be ordered to stomp, dealing 188.24 (+4% per level) damage."
+  },
+  "GatheringPower": {
+    "tier": "2",
+    "description": "Quest: Hero Takedowns increase Ability Power by 2%, up to 30%. This bonus Ability Power is lost on death."
+  },
+  "GatheringRadiance": {
+    "tier": "6",
+    "description": "Each Hero that Holy Radiance passes through increases the healing and damage of your next Holy Radiance by 8%, to a maximum of 80% increase."
+  },
+  "GatheringStorm": {
+    "tier": "1",
+    "description": "Quest: Every time Hammerang hits a Hero increase its damage by 1.5."
+  },
+  "GetStuffed": {
+    "tier": "7",
+    "description": "Reduces Melee's cooldown by 3 seconds. Hitting an enemy with Melee who is stuck with a Pulse Bomb causes the bomb to instantly explode and knocks the target away from you."
+  },
+  "GhastlyReach": {
+    "tier": "3",
+    "description": "Increases the range of Skeletal Swing by 25%."
+  },
+  "GhostProtocol": {
+    "tier": "7  Activate to gain Stealth.",
+    "description": "You do not lose Stealth from taking damage, attacking, or using Abilities for 2 seconds."
+  },
+  "GiantKiller": {
+    "tier": "5",
+    "description": "Basic Attacks against enemy Heroes deal bonus damage equal to 1.5% of the Hero's maximum Health."
+  },
+  "GiantScorcher": {
+    "tier": "6",
+    "description": "Shadowflame also does 3</c>.5 of a Hero's maximum Health."
+  },
+  "GiantsCurse": {
+    "tier": "5",
+    "description": "Cursed Strikes deals an additional 2% of maximum Health as damage to Heroes."
+  },
+  "Gidbinn": {
+    "tier": "3",
+    "description": "Increases the duration of your Zombie Wall and Corpse Spiders by 33%."
+  },
+  "GilneanRoulette": {
+    "tier": "7",
+    "description": "Marked for the Kill is now refreshed by any damage done to the Vulnerable Hero."
+  },
+  "GiveemtheAxe": {
+    "tier": "6",
+    "description": "Attacking a Hero that is slowed, rooted, or stunned increases your Basic Attack damage by 60% for 3 seconds."
+  },
+  "GiveMeMore": {
+    "tier": "1",
+    "description": "Increases Adrenaline Rush healing by 50%."
+  },
+  "GladiatorsWarShout": {
+    "tier": "7",
+    "description": "All allies affected by Bloodlust now heal for 30% of their Basic Attack damage done to their primary target."
+  },
+  "GlassCannon": {
+    "tier": "5",
+    "description": "Increases your Ability Power by 15%, but decreases your maximum Health by 15%."
+  },
+  "GlimmerofHope": {
+    "tier": "3",
+    "description": "Collecting a Regeneration Globe reduces the cost of your next Ray of Heaven by 50%."
+  },
+  "GluttonousWard": {
+    "tier": "3",
+    "description": "Activate to place a ward on the ground that restores 3.276% of your maximum Health and Mana every second for 10 seconds. Can be cast while channeling All Shall Burn."
+  },
+  "Gluttony": {
+    "tier": "2",
+    "description": "All Shall Burn heals you for 20% of the damage dealt."
+  },
+  "GlyphofDrainLife": {
+    "tier": "1",
+    "description": "Increases the cast range of Drain Life by 25%."
+  },
+  "GlyphOfPolyBomb": {
+    "tier": "7",
+    "description": "Poly Bomb explodes 1 second sooner and the spread radius is increased by 25%."
+  },
+  "GofortheThroat": {
+    "tier": "4",
+    "description": "Leap at an enemy Hero and shapeshift into a Worgen, slashing for 369.2 (+4% per level) damage. If this kills them, the Ability can be used a second time within 10 seconds for free."
+  },
+  "GoblinFusion": {
+    "tier": "6",
+    "description": "Deth Lazor can be charged for 1 additional second to increase its damage bonus by an additional 100%."
+  },
+  "Gorge": {
+    "tier": "4  Consume an enemy Hero, trapping them for 4 seconds. When Gorge ends, the enemy Hero takes 284.96 (+4% per level) damage. The trapped Hero cannot move or act and doesn't take damage from other sources.",
+    "description": "Cannot be used on massive Heroes."
+  },
+  "GraceOfAir": {
+    "tier": "5",
+    "description": "Windfury attacks grant twice as many stacks of Frostwolf Resilience."
+  },
+  "GraduatingRange": {
+    "tier": "6",
+    "description": "While in Siege Mode your standard Basic Attack range increases by 20% every 3 seconds, up to 100%."
+  },
+  "GrandSlam": {
+    "tier": "7",
+    "description": "Damage of Haymaker increased by 25%, Mana cost lowered by 40, and can store 2 charges."
+  },
+  "GravOBomb3000": {
+    "tier": "4",
+    "description": "After a 2 second delay, pull enemies toward the center of an area and deal 261.04 (+4% per level) damage."
+  },
+  "GravitonVortex": {
+    "tier": "5",
+    "description": "Phase Prism pulls and damages an additional enemy Hero near the first, and its cooldown is reduced by 6 seconds."
+  },
+  "GravityCrush": {
+    "tier": "3",
+    "description": "Gravity Lapse causes enemies to take 25% additional damage from Kael'thas for 4 seconds."
+  },
+  "GravityThrow": {
+    "tier": "5",
+    "description": "Increases the duration of Gravity Lapse's stun by 33% and causes it to instantly destroy Minions."
+  },
+  "GreaterCleave": {
+    "tier": "1",
+    "description": "Increases the radius of Cleave by 33%."
+  },
+  "GreaterPolymorph": {
+    "tier": "6",
+    "description": "Increases the duration of Polymorph by 0.75 seconds."
+  },
+  "GreaterSpellShield": {
+    "tier": "5  Upon taking Ability Damage, reduce that damage and further Ability Damage by 75% for 3 seconds.",
+    "description": "Can only trigger once every 30 seconds."
+  },
+  "GrizzledBear": {
+    "tier": "1  Every 5 seconds, reduce the damage taken from the next Hero Basic Attack against Misha by 75%.",
+    "description": "Stores up to 2 charges."
+  },
+  "GroovedSpines": {
+    "tier": "5",
+    "description": "Hunter Killer has its range increased by 35% and damage increased by 20%."
+  },
+  "GroundingBrew": {
+    "tier": "1",
+    "description": "Fortifying Brew reduces all incoming Ability Damage by 25% while drinking."
+  },
+  "Groupies": {
+    "tier": "5",
+    "description": "Guitar Solo also heals nearby allied Heroes for 68.64 (+4% per level) Health every second while it is active."
+  },
+  "GuardianofTirisfal": {
+    "tier": "7",
+    "description": "Minions and Catapults hit by Arcane Rift are instantly killed."
+  },
+  "GuitarHero": {
+    "tier": "3",
+    "description": "While Guitar Solo is active, you heal for 50% of the damage dealt by Basic Attacks."
+  },
+  "HammerGains": {
+    "tier": "2",
+    "description": "Basic Attacks heal for 20% of the damage dealt to the primary target."
+  },
+  "HammeroftheLightbringer": {
+    "tier": "1",
+    "description": "Basic Attacks also restore 8 Mana."
+  },
+  "HammerofTwilight": {
+    "tier": "4",
+    "description": "Passively increases Basic Attack damage by 25%. Activate to swing the Hammer to deal 163.281 (+4.5% per level) damage, push enemies away, and stun for 0.75 seconds."
+  },
+  "HammerTime": {
+    "tier": "6",
+    "description": "Your first Basic Attack against a target slowed by Hammerang will stun them for 0.75 seconds."
+  },
+  "Hammeron": {
+    "tier": "2",
+    "description": "Rockstar lasts 2 seconds longer, and while Rockstar is active your Abilities cost 10 less Mana."
+  },
+  "HamstringShot": {
+    "tier": "3",
+    "description": "Enemies hit by Penetrating Round have a 20% Movement Speed slow for 3 seconds."
+  },
+  "HardenedBones": {
+    "tier": "2",
+    "description": "During Wraith Walk, you take 25% less damage."
+  },
+  "HardenedFocus": {
+    "tier": "6",
+    "description": "While above 80% life, your Basic Ability cooldowns regenerate 50% faster."
+  },
+  "HardenedShield": {
+    "tier": "7",
+    "description": "Activate to reduce damage taken by 75% for 4 seconds."
+  },
+  "HardenedSkin": {
+    "tier": "7",
+    "description": "You and Misha take 75% less damage for 4 seconds."
+  },
+  "Harmony": {
+    "tier": "1",
+    "description": "If Moonfire hits a target, reduce the Mana cost of Regrowth by 10."
+  },
+  "HarvestLife": {
+    "tier": "5",
+    "description": "Drain Life heals for 50% more Health when used on Heroes."
+  },
+  "HarvestVitality": {
+    "tier": "3",
+    "description": "Cursed Strikes heals you for 68.64 (+4% per level) for each Hero hit."
+  },
+  "Haunt": {
+    "tier": "7",
+    "description": "Increases the duration of Horrify by 1 second and feared enemies become Vulnerable, taking 25% increased damage."
+  },
+  "Haymaker": {
+    "tier": "4",
+    "description": "Stun target enemy Hero, and wind up a punch dealing 331.76 (+4% per level) damage and knocking the target back, hitting enemies in the way for 331.76 (+4% per level) damage and knocking them aside."
+  },
+  "Headshot": {
+    "tier": "5",
+    "description": "Reduces your Ability cooldowns by 4 seconds when you kill an enemy Hero."
+  },
+  "HealingStatic": {
+    "tier": "5",
+    "description": "Heal for 5% of your Max Health for each Hero hit by Thunder Clap."
+  },
+  "HealingSurge": {
+    "tier": "5",
+    "description": "Increases Chain Heal's healing on the primary target by 25% and heal an additional target."
+  },
+  "HealingTotem": {
+    "tier": "2",
+    "description": "Activate to place a Totem that heals allies in an area for 1.95% of their maximum Health every second for 10 seconds."
+  },
+  "HealingWard": {
+    "tier": "2",
+    "description": "Activate to place a ward on the ground that heals allies in an area for 1.95% of their maximum Health every second for 10 seconds."
+  },
+  "HealthFunnel": {
+    "tier": "2",
+    "description": "If an enemy dies while under the effect of Drain Life, the cooldown is reduced by 7 seconds."
+  },
+  "Healthstone": {
+    "tier": "5",
+    "description": "Activate to heal for 25% of your maximum Health."
+  },
+  "HeavensFury": {
+    "tier": "7",
+    "description": "While in the air, holy bolts rain down on enemies dealing 78 (+4% per level) damage and reducing the cooldown of Falling Sword by 2 seconds for each enemy hit."
+  },
+  "HeavyBurden": {
+    "tier": "2",
+    "description": "When an enemy Hero is stunned by Detainment Strike, their Movement Speed is slowed by 40% for 3 seconds after the stun."
+  },
+  "HeavyImpact": {
+    "tier": "6",
+    "description": "Enemies hit by Dwarf Toss are stunned for 0.75 seconds."
+  },
+  "HeavySlam": {
+    "tier": "1",
+    "description": "Slam damage increased by 50%"
+  },
+  "Hedonism": {
+    "tier": "5",
+    "description": "Reduces Globe of Annihilation's Mana cost by 30."
+  },
+  "HellforgedArmor": {
+    "tier": "5",
+    "description": "Demon Warriors deal 10.4 (+4% per level) damage to nearby enemies every second and take 50% less damage from non-Heroic sources."
+  },
+  "Hellstorm": {
+    "tier": "7",
+    "description": "Lightning Breath lasts and reaches 50% longer."
+  },
+  "HelpingHand": {
+    "tier": "5",
+    "description": "Hook can also pull allied Heroes (but will not damage them). When used to pull allies, the cooldown is reduced by 50%."
+  },
+  "HerbalCleanse": {
+    "tier": "6",
+    "description": "Healing Brew removes all silences, stuns, slows, roots, and polymorphs and increases the Movement Speed of the target by 20.00% for 3 seconds."
+  },
+  "HeroStalker": {
+    "tier": "2",
+    "description": "Increases Essence gained from Takedowns by 150%."
+  },
+  "HiddenAssault": {
+    "tier": "5",
+    "description": "When you respawn from the Egg, you gain Stealth and 20% Movement Speed for 5.125 seconds."
+  },
+  "HinderingMoonfire": {
+    "tier": "6",
+    "description": "Moonfire slows targets by 25% for 2 seconds."
+  },
+  "HinderingSlime": {
+    "tier": "3",
+    "description": "Increases the slow amount of Slime from 20% to 30%."
+  },
+  "HinderingWinds": {
+    "tier": "5",
+    "description": "Blinding Wind also slows enemy Movement Speed by 25% for 2 seconds."
+  },
+  "HinterlandBlast": {
+    "tier": "4",
+    "description": "After a short delay, deal 497.563 (+4.8% per level) damage to enemies within a long line."
+  },
+  "HiveMaster": {
+    "tier": "7",
+    "description": "Gain a permanent Vampire Locust that attacks a nearby enemy every 3 seconds. The Vampire Locust deals 159.12 (+4% per level) damage and returns to heal you for 38.48 (+4% per level) health."
+  },
+  "Hivemind": {
+    "tier": "7  Symbiote creates an additional Symbiote on a nearby allied Hero.",
+    "description": "This Symbiote mimics the commands of the first, but does half damage and shielding."
+  },
+  "HoldYourGround": {
+    "tier": "5",
+    "description": "Increases Iron Skin's Shield by 20%, and if the Shield is destroyed by damage the cooldown is reduced by 4 seconds."
+  },
+  "HoloStability": {
+    "tier": "2",
+    "description": "Increases the duration of Holo Decoy by 120%."
+  },
+  "HolyArena": {
+    "tier": "7",
+    "description": "Increases duration of Sanctification by 1 second and increases the damage of allies by 25%."
+  },
+  "HolyFire": {
+    "tier": "3",
+    "description": "Deal 18.72 (+4% per level) damage per second to nearby enemies. Basic Attacks against enemy Heroes increase this damage by20% for 3 seconds. This can stack up to 3 times."
+  },
+  "HolyGround": {
+    "tier": "6",
+    "description": "Create a ring that blocks enemies from entering the area teleported to using El'Druin's Might."
+  },
+  "HolyRenewal": {
+    "tier": "6",
+    "description": "Every enemy Hero affected by Shield Glare heals you for 118.56 (+4% per level)."
+  },
+  "HolyShock": {
+    "tier": "5",
+    "description": "Holy Light can be used on an enemy to do 51.878% (+4% per level) of its healing amount as damage and with 6 seconds less cooldown. When used this way, your next Holy Light heals for 50% more."
+  },
+  "Hopelessness": {
+    "tier": "1",
+    "description": "Increases the range of Drain Hope by 25%."
+  },
+  "HoradricReforging": {
+    "tier": "2",
+    "description": "If El'druins Might hits an enemy, its cooldown is reduced by 5 seconds."
+  },
+  "Horrify": {
+    "tier": "4",
+    "description": "After a short delay, deal 124.8 (+4% per level) damage and fear enemy Heroes in the area for 2 seconds."
+  },
+  "HotPursuit": {
+    "tier": "3",
+    "description": "When at 10 stacks of Hatred, the Movement Speed bonus increases to 20% total."
+  },
+  "HoverSiegeMode": {
+    "tier": "6",
+    "description": "You can move at 50% Movement Speed in Siege Mode."
+  },
+  "Humongoid": {
+    "tier": "7",
+    "description": "Gargantuan lasts indefinitely until killed, and deals 100% more damage against non-Heroic targets."
+  },
+  "HungerforPower": {
+    "tier": "3",
+    "description": "Increases Ability Power by 15% but reduces healing received from allies by 25%."
+  },
+  "HungeroftheWolf": {
+    "tier": "6",
+    "description": "Ghost Wolf attacks against Heroes deal an additional 5% of the target's maximum Health and heal you for 5% of your maximum Health."
+  },
+  "HungryBear": {
+    "tier": "2",
+    "description": "Misha's Basic Attacks heal her for 3.9% of her maximum Health."
+  },
+  "HungryforMore": {
+    "tier": "1",
+    "description": "Quest: Gathering a Regeneration Globe increases your maximum Health by 30, up to 900. Reward: Upon reaching 900, increase Movement Speed by 10%."
+  },
+  "HungryHungryStitches": {
+    "tier": "7",
+    "description": "While active, Gorge can be repeatedly recast until the first target is expelled. Increases Gorge damage by 40%."
+  },
+  "HunkaBurningOlaf": {
+    "tier": "5",
+    "description": "Olaf deals 35.36 (+4% per level) damage every second to nearby enemies."
+  },
+  "HuntersBlunderbuss": {
+    "tier": "7",
+    "description": "Human Basic Attacks splash for 100% damage behind the target."
+  },
+  "HuntersOnslaught": {
+    "tier": "3",
+    "description": "Basic Abilities heal for 25% of the damage they deal. Double this bonus versus Heroes."
+  },
+  "HuntersSwiftness": {
+    "tier": "7",
+    "description": "When using Shadowstalk, you and allied Heroes gain 30% Movement Speed for 8 seconds."
+  },
+  "HunterGatherer": {
+    "tier": "1",
+    "description": "Quest: Gathering a Regeneration Globe increases your Health Regeneration by 1 per second, up to 30 per second. Reward: After gathering 30 Globes, Rexxar gains 600 maximum Health."
+  },
+  "HuntressFury": {
+    "tier": "5",
+    "description": "Gain 40% additional Attack Speed for 4 seconds when using Hunter's Mark."
+  },
+  "Hurricane": {
+    "tier": "2",
+    "description": "Reduces the cooldown of Whirlwind by 1 second and Whirlwind removes all slows and roots on Sonya."
+  },
+  "HydraliskTransfusion": {
+    "tier": "5",
+    "description": "Zagara is healed for 75% of the damage dealt by Hunter Killers' Basic Attacks to Heroes."
+  },
+  "HyperShift": {
+    "tier": "1",
+    "description": "Each allied Hero healed by Soothing Mist reduces the cooldown of Phase Shift by 2 seconds."
+  },
+  "HyperCoolingEngines": {
+    "tier": "3",
+    "description": "Reduce the cooldown of Thrusters by 10 seconds."
+  },
+  "HyperfocusCoils": {
+    "tier": "3",
+    "description": "Deth Lazor charges twice as fast."
+  },
+  "Hyperion": {
+    "tier": "4",
+    "description": "Order the Hyperion to make a strafing run dealing 68.64 (+4% per level) damage a second, hitting up to 4 enemies. Also occasionally fires its Yamato Cannon on Structures for 825.76 (+4% per level) damage. Lasts 12 seconds."
+  },
+  "IAMHurrying": {
+    "tier": "3",
+    "description": "Increases the duration of Gall's \"Hurry Up, Oaf!\" by 2 seconds and it no longer fades over time."
+  },
+  "IceBarrier": {
+    "tier": "5",
+    "description": "When Jaina does increased damage from Frostbite, she is shielded for 25% of the total damage dealt. This Shield lasts 4 seconds."
+  },
+  "IceBlock": {
+    "tier": "5",
+    "description": "Activate to place yourself in Stasis and gain Invulnerability for 3 seconds."
+  },
+  "IceFloes": {
+    "tier": "3",
+    "description": "Doubles the width of Cone of Cold and causes each target hit to reduce its cooldown by 1 second, to a maximum of 5 seconds per cast."
+  },
+  "IceLance": {
+    "tier": "3",
+    "description": "When Frostbolt hits a Chilled target its cooldown is reduced by 2 seconds and you regain 10 Mana."
+  },
+  "IceboundFortitude": {
+    "tier": "3",
+    "description": "Activate to reduce damage taken by 25% and reduce the duration of stuns, slows, roots, and polymorphs against you by 75% for 3 seconds."
+  },
+  "IcyVeins": {
+    "tier": "5",
+    "description": "Activate to make your Basic Abilities' cooldowns recharge three times as fast and reduce their Mana cost by 50% for 5 seconds."
+  },
+  "IgnorePain": {
+    "tier": "7",
+    "description": "Activate to reduce damage taken by 75% for 4 seconds. Usable while Whirlwinding."
+  },
+  "Illusionist": {
+    "tier": "5",
+    "description": "Increases Teleport range by 50%, and if you lose more than 20% of your Health at once, its cooldown is instantly refreshed. This cannot happen more than once every 4 seconds."
+  },
+  "Immolation": {
+    "tier": "1",
+    "description": "After using Sweeping Strike, burn nearby enemies for 22.88 (+4% per level) damage a second for 4 seconds."
+  },
+  "ImmortalCoil": {
+    "tier": "3",
+    "description": "You gain the healing effect of Death Coil even when you use it on enemies. If you damage an enemy Hero with it, you also heal for an additional 100% of the damage dealt."
+  },
+  "ImpalingSwarm": {
+    "tier": "3",
+    "description": "Impaling Blades spawns 2 Zerglings that attack your enemies."
+  },
+  "ImpatienceIsaVirtue": {
+    "tier": "6",
+    "description": "Enemies damaged by a Viking's Basic Attack reduce the cooldown of all Viking Abilities by 0.25 seconds."
+  },
+  "ImposingPresence": {
+    "tier": "6",
+    "description": "Heroes and Summons that attack you have their Attack Speed slowed by 40%."
+  },
+  "ImposingWill": {
+    "tier": "5",
+    "description": "Enemies that attack you while shielded have their Attack Speed and Movement Speed slowed by 50% for 2 seconds."
+  },
+  "ImprovedIceBlock": {
+    "tier": "7",
+    "description": "Activate to place yourself in Stasis and gain Invulnerability for 2.5 seconds. When this effect expires, nearby enemies are Chilled."
+  },
+  "ImprovedLifeTap": {
+    "tier": "2",
+    "description": "Life Tap now restores 35% Mana"
+  },
+  "IntheRhythm": {
+    "tier": "2",
+    "description": "Quest: While Minigun is active, Basic Attacks against Heroes permanently increase future Minigun durations by .03 seconds."
+  },
+  "IncendiaryElixir": {
+    "tier": "3",
+    "description": "Quest: Every time you hit an enemy Hero with the explosion damage from Gilnean Cocktail increase its explosion damage by 15, up to 225. Reward: After hitting 15 Heroes, the cooldown is also reduced by 4 seconds."
+  },
+  "IncreasingClarity": {
+    "tier": "1",
+    "description": "Quest: Every time Sacred Sweep hits a Hero in the center, increase the center damage by 2, up to 50. Reward: After hitting 25 Heroes, this center damage bonus is increased to 120."
+  },
+  "Indestructible": {
+    "tier": "7",
+    "description": "Upon taking fatal damage, gain a Shield equal to your maximum Health for 5 seconds. This ability has a 120 second cooldown."
+  },
+  "Indigestion": {
+    "tier": "5",
+    "description": "Using Devour also creates a Retchling that applies Vile Gas Poison when it attacks."
+  },
+  "InfernalGlobe": {
+    "tier": "3",
+    "description": "Globe of Annihilation's cast time is decreased by 40% and its missile speed is increased by 40%."
+  },
+  "Infest": {
+    "tier": "1",
+    "description": "Nearby Ranged Minions deal an additional 200% damage, plus an additional1% per 1000 Siege damage Zagara has dealt. Can be toggled on or off."
+  },
+  "InfestedToads": {
+    "tier": "6",
+    "description": "Toads explode into Corpse Spiders upon death."
+  },
+  "InfusedGrenade": {
+    "tier": "2",
+    "description": "Displacement Grenade's Mana cost is refunded if you hit an enemy Hero."
+  },
+  "InfusedHammer": {
+    "tier": "1",
+    "description": "Refunds 45.00 Mana for each enemy hit."
+  },
+  "InfusedPower": {
+    "tier": "5",
+    "description": "All Shall Burn gains an additional charge level, increasing its maximum damage by 40%."
+  },
+  "Inoculation": {
+    "tier": "6",
+    "description": "Increases Safeguard's initial damage reduction to 50% for the first 1.5 seconds."
+  },
+  "Insatiable": {
+    "tier": "2",
+    "description": "Inner Beast causes Basic Attacks to restore 10 Mana, up to 140."
+  },
+  "InsatiableBlade": {
+    "tier": "3",
+    "description": "Increases Butcher's Brand's healing from 75% to 125% of your Basic Attack damage."
+  },
+  "Insight": {
+    "tier": "1",
+    "description": "Quest: Every 3rd Basic Attack restores 14.56 (+4% per level) Mana and grants a stack of Insight. Reward: Once you have 100 stacks of Insight, every 3rd attack also reduces the cooldown of all your Basic Abilities by 1 second."
+  },
+  "IntensiveCare": {
+    "tier": "5",
+    "description": "When Healing Beam is on a single target for over 3 seconds, its healing amount increases by 25% and Mana cost increases by 4."
+  },
+  "InvigoratingSpores": {
+    "tier": "6",
+    "description": "Using Crippling Spores increases your Attack Speed by 50% for 6 seconds."
+  },
+  "Invigoration": {
+    "tier": "1",
+    "description": "If Hamstring hits a Hero, half of the Mana cost is refunded and the cooldown is reduced by 1 second."
+  },
+  "Invisibility": {
+    "tier": "7  Stealth an allied Hero for 20 seconds.",
+    "description": "2 charges."
+  },
+  "IronFists": {
+    "tier": "1",
+    "description": "Every 3rd Basic Attack deals 125% bonus damage."
+  },
+  "IronforgedMomentum": {
+    "tier": "3",
+    "description": "Basic Attacks reduce your Basic Ability cooldowns by 0.75 seconds."
+  },
+  "Irradiate": {
+    "tier": "3",
+    "description": "Enemies near your Healing Beam's target take 22.88 (+4% per level) damage a second."
+  },
+  "IsThataHealthPack": {
+    "tier": "2",
+    "description": "Increases Regeneration Globe and Healing Fountain healing by 100%."
+  },
+  "Isolation": {
+    "tier": "4",
+    "description": "Launch biomass that hits the first enemy Hero dealing 208 (+4% per level) damage, silencing and slowing them 30% for 3 seconds. Only allows them to see a very short distance for 6 seconds."
+  },
+  "ItsaSabotage": {
+    "tier": "2",
+    "description": "Erik's Basic Attacks against Structures destroy 5 Ammo and deal 140.4 (+4% per level) damage over 10 seconds."
+  },
+  "ItsRainingScrap": {
+    "tier": "7",
+    "description": "Activate to create 5 Scrap near you over 5 seconds."
+  },
+  "Jailors": {
+    "tier": "2",
+    "description": "Bone Prison spawns 2 Skeletal Warriors that fixate on the enemy for 15 seconds. These do not count towards your Raise Skeleton maximum."
+  },
+  "Judgment": {
+    "tier": "4",
+    "description": "After 0.75 seconds, charge an enemy Hero dealing 104 (+4% per level) damage and stunning them for 1.5 seconds. Nearby enemies are knocked away and take 52 (+4% per level) damage."
+  },
+  "Jugof1000Cups": {
+    "tier": "4",
+    "description": "Rapidly tosses brew to the most injured nearby allies, prioritizing Heroes, restoring a total of 1697.28 (+4% per level) Health over 6 seconds."
+  },
+  "Jugof1000000Cups": {
+    "tier": "7",
+    "description": "Jug of 1,000 Cups hits two targets at a time."
+  },
+  "Jump": {
+    "tier": "5",
+    "description": "Makes all Vikings Invulnerable and able to pass over enemies for 1.5 seconds."
+  },
+  "Jumper": {
+    "tier": "3",
+    "description": "Increases Blink's charges by 1."
+  },
+  "JustKeepRockin": {
+    "tier": "3",
+    "description": "While Guitar Solo is active, the duration of stuns, slows, roots, and polymorphs are reduced by 50%."
+  },
+  "KegToss": {
+    "tier": "1",
+    "description": "Increase Keg Smash range by 125%."
+  },
+  "KhalasEmbrace": {
+    "tier": "3",
+    "description": "If Plasma Shield expires, 50% of the Shield remains indefinitely. This effect does not stack."
+  },
+  "KillCommand": {
+    "tier": "7",
+    "description": "Unleash the Boars deals 50% more damage and roots for 1.5 seconds."
+  },
+  "KnightTakesPawn": {
+    "tier": "1",
+    "description": "Condemn deals 171.6 (+4% per level) additional damage to Minions and Mercenaries and stuns them for 3 seconds."
+  },
+  "KungFuHustle": {
+    "tier": "7",
+    "description": "Ability cooldowns refresh 150% faster while Fast Feet is active."
+  },
+  "KwikReleaseCharge": {
+    "tier": "6",
+    "description": "Xplodium Charge gains a second charge."
+  },
+  "LambtotheSlaughter": {
+    "tier": "4",
+    "description": "Throw a hitching post that attaches to the nearest enemy Hero after a 1 second delay. This deals 177.84 (+4% per level) damage and causes the enemy to be chained to the post and Silenced for 3 seconds."
+  },
+  "LandingMomentum": {
+    "tier": "3",
+    "description": "Increases your Movement Speed by 25% for 5 seconds upon landing with Dwarf Toss."
+  },
+  "LargeandInCharge": {
+    "tier": "6",
+    "description": "When Olaf charges enemies, they are stunned for 1 second."
+  },
+  "LastBite": {
+    "tier": "3",
+    "description": "If an enemy dies within 3 seconds of being damaged by Devour, its cooldown is reduced by 12 seconds."
+  },
+  "LawsofHope": {
+    "tier": "2  Regenerating 10.4 (+4% per level) Health per second.",
+    "description": "Activate to heal 20% of your max Health over 4 seconds."
+  },
+  "LeadRain": {
+    "tier": "6",
+    "description": "Overkill also slows enemy movement speed by 20%."
+  },
+  "Leap": {
+    "tier": "4",
+    "description": "Leap into the air, dealing 140.4 (+4% per level) damage to nearby enemies, and stunning them for 1.25 seconds."
+  },
+  "LeapingSpiders": {
+    "tier": "6",
+    "description": "Corpse Spiders leap at their targets and deal 15% more damage."
+  },
+  "LeapingStrike": {
+    "tier": "4",
+    "description": "Leap over an enemy, slowing them by 80% for 0.35 seconds and attacking for 281.84 (+4% per level) damage. Has 2 charges."
+  },
+  "LeechingPlasma": {
+    "tier": "2",
+    "description": "While Plasma Shield is active, 30% of the target's Basic Attack damage against the primary target is returned as Health."
+  },
+  "LeechingRounds": {
+    "tier": "5",
+    "description": "Your Basic Attacks against Heroes heal you for 20% of their damage dealt."
+  },
+  "LeechingScarabs": {
+    "tier": "3",
+    "description": "Beetles heal you for 50% of their damage with each attack if you are nearby."
+  },
+  "LegionofBeetles": {
+    "tier": "2  Automatically spawn a Beetle every 8 seconds.",
+    "description": "Can be toggled on and off."
+  },
+  "LegionofNorthrend": {
+    "tier": "7  3 additional Ghouls are created.",
+    "description": "Ghouls heal for an additional 50% and last 5 seconds longer."
+  },
+  "LetThemWither": {
+    "tier": "6",
+    "description": "Increases Crippling Spores' slow to 50% and causes it to no longer decay."
+  },
+  "LethalAlacrity": {
+    "tier": "2",
+    "description": "Increases Blade Dash range and speed by 30%."
+  },
+  "LethalBlast": {
+    "tier": "1",
+    "description": "Increase the damage of Concussive Blast by 50%."
+  },
+  "LethalDecoy": {
+    "tier": "6",
+    "description": "Holo Decoy deals 40% of Nova's damage."
+  },
+  "LeyLineSeal": {
+    "tier": "4",
+    "description": "After 0.5 seconds, unleash a wave of energy that imprisons enemy Heroes in Stasis for 3 seconds."
+  },
+  "LifeDrain": {
+    "tier": "5",
+    "description": "Shadow Dagger heals you for 38.48 (+4% per level) each time it spreads to an enemy."
+  },
+  "LifeFunnel": {
+    "tier": "5",
+    "description": "Increases the healing of Whirlwind to 30%, tripled versus Heroes."
+  },
+  "LifeLeech": {
+    "tier": "5",
+    "description": "Basic Attacks against enemy Heroes deal bonus damage equal to 1% of the Hero's maximum Health and heal you for the same amount."
+  },
+  "LifeSeed": {
+    "tier": "5",
+    "description": "Nearby damaged allied Heroes will automatically gain the heal over time portion of Regrowth. This effect has a 20 second cooldown."
+  },
+  "LightSpeed": {
+    "tier": "7",
+    "description": "Increases the healing of Resurrect to 100% of the ally's maximum Health, and they also gain 199.68% increased Movement Speed that decays over 4 seconds."
+  },
+  "LightningBond": {
+    "tier": "1",
+    "description": "Casting Lightning Shield on an ally also casts an untalented version on you."
+  },
+  "LightningBreath": {
+    "tier": "4  Become Unstoppable while channeling lightning that deals 832 (+4% per level) damage over 4 seconds.",
+    "description": "The direction of the Lightning changes with your mouse cursor position."
+  },
+  "LightningSerpent": {
+    "tier": "3",
+    "description": "Cloud Serpent's attacks bounce to 3 nearby enemy targets, dealing 15.6 (+4% per level) damage each."
+  },
+  "LingeringApparition": {
+    "tier": "3",
+    "description": "Increases the duration of Wraith Walk by 80%."
+  },
+  "LingeringBlind": {
+    "tier": "2",
+    "description": "Increases the duration of Blinding Wind by 50%."
+  },
+  "LingeringChill": {
+    "tier": "1",
+    "description": "Increases the duration of Chill from 4 seconds to 6 seconds."
+  },
+  "LingeringEssence": {
+    "tier": "5",
+    "description": "Increases Assimilation Shield's duration to 20 seconds."
+  },
+  "LivingTheDream": {
+    "tier": "2",
+    "description": "You gain 5% Ability Power. Quest: Every 5 seconds you are alive you gain an additional 1% Ability Power, up to an additional 15%. These stacks are lost on death."
+  },
+  "LockandLoad": {
+    "tier": "6",
+    "description": "While the Minigun is wound up, gain 15.00% increased Move Speed."
+  },
+  "LockedandLoaded": {
+    "tier": "6",
+    "description": "Reactivate Reload within the last 50% of its cast time to increase your Basic Attack damage by 40% for that magazine."
+  },
+  "LocustBrood": {
+    "tier": "6",
+    "description": "Activate to spawn 3 Locusts at a nearby location."
+  },
+  "LocustNeedles": {
+    "tier": "2",
+    "description": "Basic Attacks deal 60% of your Basic Attack Damage in an area around the target."
+  },
+  "LocustNest": {
+    "tier": "7",
+    "description": "Activate to create a nest that periodically spawns Locusts. Only one Locust Nest can be active at a time."
+  },
+  "LocustSwarm": {
+    "tier": "4",
+    "description": "Deal 68.64 (+4% per level) damage per second in an area around yourself. Each enemy damaged heals you for 18.72 (+4% per level) Health. Lasts 8 seconds."
+  },
+  "LongRangedTurrets": {
+    "tier": "6",
+    "description": "Turret range increased by 40%."
+  },
+  "LongboatRaid": {
+    "tier": "4  Hop into an Unstoppable Longboat that fires at nearby enemies for 116.48 (+4% per level) damage per second and can fire a mortar that deals 213.2 (+4% per level) damage in an area.  The boat has increased Health for each Viking inside. If the boat is destroyed by enemies, all Vikings are stunned for 1.5 seconds. Lasts 15 seconds.",
+    "description": "Requires all surviving Vikings to be nearby."
+  },
+  "Longshot": {
+    "tier": "1",
+    "description": "Increases the cast range of Pinning Shot by 30%. Pinning Shot also increases your next Basic Attack range by 30%."
+  },
+  "Loophole": {
+    "tier": "7",
+    "description": "Temporal Loop hits all enemy Heroes near your initial target."
+  },
+  "LordofTerror": {
+    "tier": "7",
+    "description": "Activate to steal 10% of the maximum Health of nearby enemy Heroes."
+  },
+  "LostSoul": {
+    "tier": "2",
+    "description": "Reduce Shadow Dagger's cooldown by 1.25 seconds each time it spreads to a Hero."
+  },
+  "LoudSpeakers": {
+    "tier": "3",
+    "description": "Increases Face Melt range and knockback by 50%."
+  },
+  "LunarBlaze": {
+    "tier": "3",
+    "description": "Increases the range of Lunar Flare by 40%."
+  },
+  "LunarMomentum": {
+    "tier": "3",
+    "description": "Basic Attacks reduce your Basic Ability cooldowns by 0.6 seconds."
+  },
+  "LunarShower": {
+    "tier": "6",
+    "description": "Using Moonfire reduces the cooldown of your next Moonfire by 0.5 seconds, and increases the damage by 15%. Stacks up to 3 times and resets after 6 seconds."
+  },
+  "Lunge": {
+    "tier": "5",
+    "description": "Increases the range of Dive by 30%."
+  },
+  "LurkerStrain": {
+    "tier": "2",
+    "description": "Burrow grants Stealth for 5 seconds."
+  },
+  "Maelstrom": {
+    "tier": "4",
+    "description": "Deals 76.96 (+4% per level) damage per second to nearby enemies. Lasts for 7 seconds."
+  },
+  "MaelstromShells": {
+    "tier": "2",
+    "description": "Increase standard Basic Attack range by 20%."
+  },
+  "MageArmor": {
+    "tier": "2",
+    "description": "Allies gain Block the first time they use a Portal, reducing damage taken from the next 3 enemy Heroic Basic Attacks by 50%. Lasts 5 seconds."
+  },
+  "MajesticSpan": {
+    "tier": "2",
+    "description": "Increases the radius of Sacred Sweep by 15%."
+  },
+  "ManaAddict": {
+    "tier": "1",
+    "description": "Quest: Gathering a Regeneration Globe increases your maximum Mana by 15. Reward: After gathering 20 Globes, you can also activate Arcane Barrier to gain a Shield equal to 100% of your maximum Mana for 4 seconds. 45 second cooldown."
+  },
+  "ManaAdept": {
+    "tier": "1",
+    "description": "Increases Arcane Rift's Mana refund for hitting enemy Heroes by 100%."
+  },
+  "ManaTap": {
+    "tier": "2",
+    "description": "Activating Verdant Spheres restores 3.9% of your maximum Mana."
+  },
+  "ManaThirst": {
+    "tier": "1",
+    "description": "Skeletal Swing restores 10 Mana per enemy hit."
+  },
+  "ManaTide": {
+    "tier": "2",
+    "description": "Frostwolf Resilience also restores 15 Mana."
+  },
+  "ManicPixie": {
+    "tier": "2",
+    "description": "When Soothing Mist heals an ally with Pixie Dust on them, they heal for an additional 108.16 (+4% per level) over 4 seconds."
+  },
+  "Manticore": {
+    "tier": "2",
+    "description": "Every 3 Basic Attack against the same target deals 60% additional damage."
+  },
+  "MarchofSin": {
+    "tier": "3",
+    "description": "Azmodan can move at 75% speed while channeling All Shall Burn."
+  },
+  "MarchoftheBlackKing": {
+    "tier": "4",
+    "description": "Become Unstoppable and swing your mace three times, healing yourself for 7.03% of your maximum Health for each enemy Hero hit and dealing 190.32 (+4% per level) damage."
+  },
+  "MarchoftheMurlocs": {
+    "tier": "4",
+    "description": "Command a legion of Murlocs to march in a target direction, each one leaping onto the first enemy Hero or Structure they find. Each Murloc deals 130 (+4% per level) damage and slows its target by 15% for 5 seconds. Murlocs deal 50% damage to Structures."
+  },
+  "MarkofMending": {
+    "tier": "6",
+    "description": "Basic Attacks against Marked targets heal for 2.5% maximum Health."
+  },
+  "MarkedforDeath": {
+    "tier": "6",
+    "description": "Dive deals an extra 234 (+4% per level) damage if you hit a target consecutively within 10 seconds."
+  },
+  "MarkedfortheKill": {
+    "tier": "4",
+    "description": "Shapeshift into a Human and fire a bullet that hits the first enemy Hero in its path for 197.6 (+4% per level) damage. For 5 seconds, they are Vulnerable, taking 25% more damage. Each time you deal damage to the Vulnerable Hero, the duration is refreshed."
+  },
+  "MassVortex": {
+    "tier": "2",
+    "description": "Increases the number of enemies hit by Blinding Wind from 2 to 4."
+  },
+  "MasterAssassin": {
+    "tier": "2",
+    "description": "Quest: Hero Takedowns increase your Attack Speed by 1%, up to 15%. Reward: After getting 15 Takedowns, your Attack Speed is increased by an additional 10%."
+  },
+  "MasterofDestruction": {
+    "tier": "1",
+    "description": "Reduces the Mana cost from 16 to 10 per second. Each charge level also increases the range by 10%."
+  },
+  "MasterofFlames": {
+    "tier": "7",
+    "description": "Living Bomb's spread from explosions can now also spread Living Bomb."
+  },
+  "MasterWarpBlade": {
+    "tier": "2",
+    "description": "Every third consecutive Basic Attack against the same target deals 100% bonus damage."
+  },
+  "MechaLord": {
+    "tier": "7",
+    "description": "Basic Attacks deal 200% bonus damage to Heroes."
+  },
+  "Medbay": {
+    "tier": "7",
+    "description": "Medivac heals nearby allies and everyone aboard for 142.48 (+4% per level) Health per second."
+  },
+  "MedivacDropship": {
+    "tier": "4",
+    "description": "Target a location for a Medivac transport. For up to 10.5 seconds before takeoff, allies can right-click to enter the Medivac."
+  },
+  "MedivhCheats": {
+    "tier": "7",
+    "description": "Increase the duration of the Stasis effect by 33.333% and gain the ability to redirect the wave once while it's active."
+  },
+  "MedusaBlades": {
+    "tier": "2",
+    "description": "Basic Attacks deal 33% damage to three nearby targets."
+  },
+  "MegaSmash": {
+    "tier": "5",
+    "description": "Range and arc of Slam increased by 25%."
+  },
+  "MeltingPoint": {
+    "tier": "2",
+    "description": "Frag Grenade deals an additional 384.80 (+4% per level) damage over 10 seconds to Minions and Structures."
+  },
+  "MendingSerpent": {
+    "tier": "2",
+    "description": "Cloud Serpent heals the friendly unit for 22.88 (+4% per level) Health each time it attacks."
+  },
+  "MentalAcuity": {
+    "tier": "2",
+    "description": "Reduces the cooldown of Oracle by 20 seconds."
+  },
+  "MercenaryLord": {
+    "tier": "2",
+    "description": "Friendly non-Boss Mercenaries near you deal 50% more damage. Reduces damage taken from Minions and Mercenaries by 50%."
+  },
+  "MercenaryQueen": {
+    "tier": "1",
+    "description": "Friendly non-Boss Mercenaries near you deal 50% more damage."
+  },
+  "MetabolicBoost": {
+    "tier": "6",
+    "description": "Movement Speed boost on Creep increased to 40%."
+  },
+  "Metamorphosis": {
+    "tier": "4",
+    "description": "Transform into Demon Form at the target location, dealing 47.84 (+4% per level) damage in the area. Temporarily increase your maximum Health by 208 (+4% per level) for each Hero hit. Lasts for 18 seconds."
+  },
+  "MicCheck": {
+    "tier": "2",
+    "description": "Hitting at least 3 targets with Face Melt reduces its cooldown by 5 seconds."
+  },
+  "MightyGust": {
+    "tier": "4",
+    "description": "Push enemies away, and slow their Movement Speed by 40% decaying over 4 seconds."
+  },
+  "MindControl": {
+    "tier": "4",
+    "description": "After a 1 second cast, take control of an enemy Hero's movement and prevent them from doing anything else. Channel lasts 2.5 seconds."
+  },
+  "MineField": {
+    "tier": "6",
+    "description": "Increase the number of mines by 2."
+  },
+  "MiniatureBlackHole": {
+    "tier": "7",
+    "description": "Increases Grav-O-Bomb radius by 25% and damage by 50%."
+  },
+  "Mirrorball": {
+    "tier": "6",
+    "description": "Magic Missiles fires an additional 2 missiles, but its Mana cost is increased by 5."
+  },
+  "Mistified": {
+    "tier": "3",
+    "description": "Reduces the cooldown of Soothing Mist by 0.5 seconds every time you cast a Basic Ability."
+  },
+  "MobiusLoop": {
+    "tier": "3",
+    "description": "Reduces Dragon's Breath's Mana cost and cooldown by 50%, but also reduces its damage by 25%."
+  },
+  "MoltenBlock": {
+    "tier": "5",
+    "description": "Activate to place yourself in Stasis and gain Invulnerability for 3 seconds, damaging nearby enemies for 95.68 (+4% per level) damage per second."
+  },
+  "Moonburn": {
+    "tier": "1",
+    "description": "Increases Moonfire's damage to Minions, Mercenaries, and Monsters by 100%."
+  },
+  "MortalWound": {
+    "tier": "7",
+    "description": "Enemies hit by Spectral Scythe receive 75% less healing for 4 seconds."
+  },
+  "MoshPit": {
+    "tier": "4",
+    "description": "After 0.75 seconds, channel to stun nearby enemies for 4 seconds."
+  },
+  "Mutalisk": {
+    "tier": "6",
+    "description": "Your Hunter Killer now spawns a Mutalisk. Mutalisks have a bounce attack and last for 60 seconds."
+  },
+  "MysticalSpear": {
+    "tier": "5",
+    "description": "Reduces the cooldown of Ancient Spear by 3 seconds. You are pulled to the target location even if you don't hit an enemy."
+  },
+  "NapalmStrike": {
+    "tier": "4",
+    "description": "Deals 170.56 (+4% per level) damage on impact, and leaves a napalm area that deals 52 (+4% per level) damage per second. Lasts for 4 seconds."
+  },
+  "NaturalPerspective": {
+    "tier": "1",
+    "description": "Nature's Toxin reveals enemies for its duration."
+  },
+  "NaturesCulling": {
+    "tier": "3",
+    "description": "Increases Nature's Toxin's damage by 150% to non-Heroes."
+  },
+  "Needlespine": {
+    "tier": "3",
+    "description": "Increases the damage and range of Symbiote's Stab by 20%."
+  },
+  "NeosteelCoating": {
+    "tier": "5",
+    "description": "Activate to reduce Ability Damage taken by 50% for 3 seconds."
+  },
+  "NerazimFury": {
+    "tier": "7",
+    "description": "Shadow Assault grants 30% Life Steal, and the duration is increased by 50%."
+  },
+  "NervesofSteel": {
+    "tier": "6",
+    "description": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds. Usable while Whirlwinding."
+  },
+  "NetherWind": {
+    "tier": "2",
+    "description": "Increases Gravity Lapse's range by 30%. When Gravity Lapse hits an enemy Hero, refund 80 Mana."
+  },
+  "NetworkedCarapace": {
+    "tier": "3",
+    "description": "Using Symbiote's Carapace also applies an untalented Carapace Shield to all nearby allied Heroes, Minions, and Mercenaries."
+  },
+  "NeverEndingMurlocs": {
+    "tier": "7",
+    "description": "Murlocs from March of the Murlocs travel farther and cling to targets for 2 seconds longer."
+  },
+  "NexusBlades": {
+    "tier": "7",
+    "description": "Basic Attacks deal 20% more damage and slow enemy Movement Speed by 20% for 1 second."
+  },
+  "NexusFrenzy": {
+    "tier": "7",
+    "description": "Increases Attack Speed by 20% and Attack Range by 20%."
+  },
+  "Nightmare": {
+    "tier": "7",
+    "description": "Increases Twilight Dream's silence duration to 4 seconds and it also slows enemies by 50%."
+  },
+  "NimbleDefender": {
+    "tier": "5",
+    "description": "If Sweeping Strikes hits an enemy Hero you gain Resistant for 2 seconds, reducing damage taken by 25%."
+  },
+  "NimbleWisp": {
+    "tier": "2",
+    "description": "Increases Wisp Movement Speed by 100% and vision radius by 50%."
+  },
+  "NoEscape": {
+    "tier": "6",
+    "description": "Increases the Movement Speed bonus from using Basic and Heroic Abilities to 25%."
+  },
+  "NordicAttackSquad": {
+    "tier": "5",
+    "description": "Activate to have all Viking Basic Attacks deal bonus damage equal to 1% of a Hero's maximum Health for 5 seconds."
+  },
+  "NorseForce": {
+    "tier": "3",
+    "description": "All Vikings gain a 114.4 (+4% per level) to 228.8 (+4% per level) point Shield, increasing in strength for each Viking alive. Lasts 4 seconds."
+  },
+  "NorthernExposure": {
+    "tier": "6",
+    "description": "Enemies damaged by Cone of Cold are also afflicted with Vulnerable, increasing the damage they take by 25% for 2 seconds."
+  },
+  "NowheretoHide": {
+    "tier": "7",
+    "description": "The Hunt gains unlimited range. You passively reveal enemy Heroes below 25% Health anywhere on the Battleground."
+  },
+  "NumbingBlast": {
+    "tier": "6",
+    "description": "Cone of Cold also roots Chilled targets for 1 second."
+  },
+  "NumbingEruption": {
+    "tier": "2",
+    "description": "Emerging from Burrow knocks nearby enemies back and slows them by 30% for 2 seconds."
+  },
+  "NydusNetwork": {
+    "tier": "4  Passive: Creep spreads 15% farther. Passive: While on Creep, each Basic Attack reduces all of Zagara's cooldowns by .75 seconds.  Summon a Nydus Worm on Creep anywhere that Zagara has vision of. Zagara can enter a Nydus Worm and travel to any other Nydus Worm by right-clicking near it. While inside a Nydus Worm, Zagara regenerates 9.75% Health and Mana per second.",
+    "description": "Stores 2 charges. Maximum of 10 Nydus Worms at a time."
+  },
+  "Obliterate": {
+    "tier": "3",
+    "description": "Frostmourne Hungers also hits enemies near the target for 50% damage."
+  },
+  "OctoGrab": {
+    "tier": "4",
+    "description": "Summon an octopus to stun target enemy Hero for 3.063 seconds while you hit them for 1 damage a second."
+  },
+  "OlaftheStout": {
+    "tier": "1  Every 5 seconds, reduce the damage taken from the next enemy Hero's Basic Attack against Olaf by 75%.",
+    "description": "Stores up to 2 charges."
+  },
+  "Omegastorm": {
+    "tier": "7",
+    "description": "Maelstrom size increased by 25% . Amount of Assimilation Shields generated by Maelstrom increased by 100%."
+  },
+  "OntheProwl": {
+    "tier": "5",
+    "description": "Inner Beast increases your Movement Speed by 30% once it has been active for 3 seconds."
+  },
+  "OneintheChamber": {
+    "tier": "3",
+    "description": "After using an Ability, your next Basic Attack within 3 seconds deals 80% additional damage."
+  },
+  "OneWhoCollects": {
+    "tier": "2",
+    "description": "Increases Essence collected from Minions by 50%."
+  },
+  "OrbitalBFG": {
+    "tier": "7",
+    "description": "Blunt Force Gun's missile orbits the planet every 5 seconds. Only the last missile fired orbits."
+  },
+  "OrbitalBombardment": {
+    "tier": "7  Suppression Pulse gains an additional charge.",
+    "description": "There is a 10 second cooldown between uses."
+  },
+  "OsseinRenewal": {
+    "tier": "3",
+    "description": "Activate to heal 20% of your maximum life over 6 seconds. Half as effective while Undying."
+  },
+  "Overdrive": {
+    "tier": "6",
+    "description": "Activate to increase Ability Power by 25% and Mana costs by 40% for 5 seconds."
+  },
+  "OverflowingLight": {
+    "tier": "5",
+    "description": "When you are above 50% Health, Light of Elune's allied heal is increased by 30%."
+  },
+  "OverflowingQuiver": {
+    "tier": "1",
+    "description": "When a nearby enemy Minion dies, a free Withering Fire is shot. This cannot hit Heroes and has a short cooldown."
+  },
+  "Overload": {
+    "tier": "1",
+    "description": "Increases Psionic Storm's range by 33%."
+  },
+  "Overtake": {
+    "tier": "2",
+    "description": "Basic Attacks while Deadly Reach is active increase your Movement Speed by 30% for 2 seconds."
+  },
+  "OverwhelmingAffliction": {
+    "tier": "6",
+    "description": "Black Arrows now also applies to Heroes, slowing their Movement Speed by 6% for the duration. Stacks up to 5 times."
+  },
+  "OverwhelmingForce": {
+    "tier": "1",
+    "description": "Increases the range and knockback of Shadow Charge by 25%."
+  },
+  "PainDontHurt": {
+    "tier": "2",
+    "description": "Baleog's Basic Attacks and splash damage heal for 20% of the damage dealt. Healing is doubled against Heroes."
+  },
+  "Paralysis": {
+    "tier": "1",
+    "description": "Increases Black Arrows' duration by 75%."
+  },
+  "ParalyzingEnzymes": {
+    "tier": "6",
+    "description": "Drag slows enemies by 50% for 2 seconds after it ends."
+  },
+  "ParalyzingRage": {
+    "tier": "3",
+    "description": "Increases the Movement Speed slow of Skeletal Swing to 60%."
+  },
+  "PartingGift": {
+    "tier": "2",
+    "description": "Recall leaves behind 3 bombs that deal 249.6 (+4% per level) damage each to different targets."
+  },
+  "PastandFutureMe": {
+    "tier": "7",
+    "description": "After casting Sand Blast, leave an echo of yourself behind. The next time you cast Sand Blast, the echo also casts an untalented Sand Blast that does 40% damage."
+  },
+  "PeacefulRepose": {
+    "tier": "7",
+    "description": "Divine Palm's cooldown is set to 5 seconds if the Hero does not die."
+  },
+  "Peekaboo": {
+    "tier": "2",
+    "description": "Phase Shifting to an ally reveals a large area around them and all enemies in it for 6 seconds."
+  },
+  "PeerIntoTheFuture": {
+    "tier": "1",
+    "description": "Activate to reveal the targeted area for 2 seconds. Enemies seen are revealed for 4 seconds."
+  },
+  "PerfectAim": {
+    "tier": "1",
+    "description": "Increases Gilnean Cocktail's range by 30.357% and refunds 50 Mana if it hits an enemy Hero."
+  },
+  "PerfectShot": {
+    "tier": "6",
+    "description": "Hitting an enemy Hero with Snipe reduces the cooldown by 3 seconds."
+  },
+  "PerfectStorm": {
+    "tier": "1",
+    "description": "Reduces Storm Bolt's Mana cost by 25%. Quest: Every time Storm Bolt hits a Hero, increase its damage by 5."
+  },
+  "PerishingFlame": {
+    "tier": "7",
+    "description": "When the Grunts die they explode, dealing 70.72 (+4% per level) damage to nearby enemies."
+  },
+  "PersistentCarapace": {
+    "tier": "1",
+    "description": "Increases Harden Carapace's Shield duration by 3 seconds."
+  },
+  "PesteringBlossom": {
+    "tier": "5",
+    "description": "Increases Noxious Blossom's range by 50%."
+  },
+  "PhaseBulwark": {
+    "tier": "5",
+    "description": "When Shield Overload activates, you take 50% less damage from Abilities for 4 seconds."
+  },
+  "PhaseShield": {
+    "tier": "3",
+    "description": "After finishing the teleport, the target of your Phase Shift gains a 416 (+4% per level) point Shield for 10 seconds."
+  },
+  "Phoenix": {
+    "tier": "4",
+    "description": "Launch a Phoenix to an area, dealing 81.12 (+4% per level) damage to enemies along the way. The Phoenix persists for 7 seconds, attacking enemies for 81.12 (+4% per level) damage and splashing for 50%."
+  },
+  "Photosynthesis": {
+    "tier": "1",
+    "description": "Crippling Spores returns 10 Mana per enemy hit, up to 40 Mana."
+  },
+  "Pierce": {
+    "tier": "2",
+    "description": "Sentinel no longer stops at the first Hero hit, affecting all enemy Heroes along the path."
+  },
+  "PiercingBolt": {
+    "tier": "3",
+    "description": "Penetrates through the first target hit, hitting 1 additional target."
+  },
+  "PiercingLash": {
+    "tier": "5",
+    "description": "Detainment Strike now pierces and hits all enemies in a line."
+  },
+  "PiercingSands": {
+    "tier": "2",
+    "description": "Sand Blast will now hit the first two Heroes in its path."
+  },
+  "PinballWizard": {
+    "tier": "2",
+    "description": "Face Melt does 50% more damage to enemies recently affected by Powerslide."
+  },
+  "PitchPerfect": {
+    "tier": "3  After casting Healing Brew, its cost is reduced by 10 Mana for 6 seconds.",
+    "description": "This effect does not stack."
+  },
+  "PixieBoost": {
+    "tier": "5",
+    "description": "Pixie Dust gives 50% bonus Move Speed, decaying to 20% over 1.5 seconds."
+  },
+  "PlayAgain": {
+    "tier": "4  Summon, fully heal, and revive all Lost Vikings at target location after a Viking channels for 2 seconds.",
+    "description": "Only one Viking may attempt to summon at a time."
+  },
+  "PocketofTime": {
+    "tier": "7",
+    "description": "Removes Slowing Sands Mana cost and increases the slow from 60% to 80%."
+  },
+  "PoisonNova": {
+    "tier": "4",
+    "description": "After a short delay, release poisonous missiles that deal 592.8 (+4% per level) damage to all enemies hit over 10 seconds."
+  },
+  "PoisonedSpear": {
+    "tier": "3",
+    "description": "Ancient Spear deals an additional 100% damage over 4 seconds."
+  },
+  "PolyBomb": {
+    "tier": "4",
+    "description": "Polymorph an enemy Hero, suppressing their attacks and Silencing them for 2 seconds. On expiration, Poly Bomb spreads to other nearby enemy Heroes."
+  },
+  "PortalMastery": {
+    "tier": "1  Medivh can manually place both Portal locations.",
+    "description": "Activate your Trait to cancel an unlinked Portal."
+  },
+  "PowerHungry": {
+    "tier": "1",
+    "description": "Regeneration Globes restore 100% more Mana and grant 10% Ability Power for 20 seconds."
+  },
+  "PowerSurge": {
+    "tier": "3",
+    "description": "Reduces the initial delay of Surging Fist by 50% and it is 100% wider."
+  },
+  "PowerThrow": {
+    "tier": "2",
+    "description": "Increase the range of Hammerang by 40% and the slow duration by 25%."
+  },
+  "PrecisionBarrage": {
+    "tier": "7",
+    "description": "Precision Strike holds 2 charges with a short cooldown."
+  },
+  "PrecisionStrike": {
+    "tier": "4",
+    "description": "After a 1.5 second delay, deals 474.24 (+4% per level) damage to enemies within an area. Unlimited range."
+  },
+  "Prescience": {
+    "tier": "5",
+    "description": "Dimensional Shift will automatically activate when you fall below 15% Health. This effect has a separate 45 second cooldown."
+  },
+  "PresenceOfMind": {
+    "tier": "7",
+    "description": "Increases Pyroblast's explosion radius by 50% and reduces its cooldown by 25 seconds per enemy Hero hit."
+  },
+  "PresstheAdvantage": {
+    "tier": "1",
+    "description": "Run and Gun increases your Basic Attack range by 25% for 4 seconds."
+  },
+  "PressurePoint": {
+    "tier": "6",
+    "description": "Flying Kick slows the target enemy by 90% for 1 second."
+  },
+  "PressurizedGlands": {
+    "tier": "1",
+    "description": "Increases the range of Symbiote's Spike Burst by 25% and decreases the cooldown by 1 second."
+  },
+  "PreventativeCare": {
+    "tier": "5",
+    "description": "Basic Attacks against your Healing Beam target reduce the attacker's Attack Speed by 25% for 2.5 seconds."
+  },
+  "PrimalAggression": {
+    "tier": "1",
+    "description": "Dark Swarm duration increased by .5 seconds and it deals 100% bonus damage to Minions and Mercenaries."
+  },
+  "PrimalIntimidation": {
+    "tier": "6",
+    "description": "Enemies that Basic Attack you or Misha have their Attack Speed slowed by 40%."
+  },
+  "ProToss": {
+    "tier": "1",
+    "description": "Increases the range of Healing Brew by 30%."
+  },
+  "ProblemSolver": {
+    "tier": "5",
+    "description": "Basic Attacks against enemy Heroes deal bonus damage equal to 0.50% of the Hero's maximum Health."
+  },
+  "ProgRock": {
+    "tier": "1",
+    "description": "Quest: Gathering a Regeneration Globe permanently increases the healing per second of Guitar Solo by 3."
+  },
+  "ProlificDispersal": {
+    "tier": "2",
+    "description": "Reduces the cooldown of Toxic Nest by 2 seconds and adds 2 additional charges."
+  },
+  "ProlongedSafeguard": {
+    "tier": "1",
+    "description": "Increases Safeguard's duration by 1 second."
+  },
+  "Promote": {
+    "tier": "2",
+    "description": "Activate to cause an allied lane Minion to take 75% reduced damage from non-Heroic targets and deal 100% bonus damage to non-Heroic targets for 30 seconds. Has 2 charges."
+  },
+  "ProtectioninDeath": {
+    "tier": "1",
+    "description": "When Archangel's Wrath explodes, shield nearby allies for 50% of their max Health for 10 seconds."
+  },
+  "ProtectiveCoating": {
+    "tier": "5",
+    "description": "While on Creep, Zagara takes 20% less damage."
+  },
+  "ProtectivePrison": {
+    "tier": "7",
+    "description": "Allies are also no longer affected by Void Prison."
+  },
+  "ProtectiveShield": {
+    "tier": "2",
+    "description": "Activate to shield an allied Hero for 15% of their max Health for 5 seconds."
+  },
+  "PsiInfusion": {
+    "tier": "1",
+    "description": "Psionic Storm returns 5 Mana for each target initially hit."
+  },
+  "PsiOpRangefinder": {
+    "tier": "1",
+    "description": "Increases Snipe's range by 20% and reduces the Cooldown by 2 seconds."
+  },
+  "PsionicEfficiency": {
+    "tier": "5",
+    "description": "Removes Snipe's Mana cost and increases its range by 10%."
+  },
+  "PsionicPulse": {
+    "tier": "2",
+    "description": "After casting Primal Grasp, deal 37.44 (+4% per level) damage per second to nearby enemies. Lasts 5 seconds."
+  },
+  "PsionicSynergy": {
+    "tier": "3",
+    "description": "Every time Blade Dash hits an enemy Hero, it reduces Shield Overload's cooldown by 4 seconds."
+  },
+  "PsionicWound": {
+    "tier": "6",
+    "description": "Twin Blades final strike causes enemy Heroes to become Vulnerable for 2 seconds, increasing all damage taken by 25%."
+  },
+  "PsychoticBreak": {
+    "tier": "7",
+    "description": "Increases your Ability Damage by 5%. Upon dying, the cooldown on your Heroic Ability is reset and you can continue to use Abilities for 10 seconds."
+  },
+  "PulseRounds": {
+    "tier": "4",
+    "description": "Increases Pulse Bomb's range and charge rate from Basic Attacks against Heroes by 100%."
+  },
+  "PulseStrike": {
+    "tier": "1",
+    "description": "Increases Melee's Pulse Bomb charge from 10% to 20% against Heroes."
+  },
+  "Pulverize": {
+    "tier": "6",
+    "description": "Decreases Slam's cooldown by 2 seconds and it also slows enemies by 75% for 1 second."
+  },
+  "PuncturingArrow": {
+    "tier": "2",
+    "description": "Hungering Arrow range increased by 25% and the number of times it can bounce to 3."
+  },
+  "Punishment": {
+    "tier": "1",
+    "description": "Using an Ability also grants 4 Hatred stacks."
+  },
+  "PurgeEvil": {
+    "tier": "1",
+    "description": "Smite deals 30% more damage to Heroes."
+  },
+  "PurifierBeam": {
+    "tier": "4  Target an enemy Hero with an orbital beam from the Spear of Adun, dealing 191.36 (+4% per level) damage per second for 8 seconds. The beam will chase the target as they move.",
+    "description": "Unlimited range."
+  },
+  "PursuitofFlame": {
+    "tier": "1",
+    "description": "Quest: Hit 40 enemy Heroes with Fel Flame. Reward: Fel Flame's radius is increased by -98.9%."
+  },
+  "PutridBile": {
+    "tier": "4",
+    "description": "Emit bile that deals 38.48 (+4% per level) damage per second to enemies within, slowing them by 35%. You gain 20% Movement Speed while emitting bile. Lasts 8 seconds."
+  },
+  "PutridGround": {
+    "tier": "2",
+    "description": "Enemies hit by Slam are infected with Vile Gas."
+  },
+  "PuttinOnaClinic": {
+    "tier": "3",
+    "description": "Whenever an enemy Minion you have recently damaged is destroyed, your Ability cooldowns are reduced by 1.5 seconds."
+  },
+  "PwnShopGuitar": {
+    "tier": "1",
+    "description": "Reduces Guitar Solo's Mana cost by 60%."
+  },
+  "Pyroblast": {
+    "tier": "4",
+    "description": "After 2 seconds, cast a slow-moving fireball that deals 850.5 (+5% per level) damage to an enemy Hero and 425.25 (+5% per level) damage to enemies nearby."
+  },
+  "Pyromaniac": {
+    "tier": "5",
+    "description": "Each time Living Bomb deals periodic damage, your Basic Ability cooldowns are reduced by 1 second."
+  },
+  "QuantumOverdrive": {
+    "tier": "6",
+    "description": "Activate to increase Ability Power by 20% for 10 seconds."
+  },
+  "QuantumSpike": {
+    "tier": "4",
+    "description": "Pulse Bomb deals an additional 10% of the primary target's maximum Health."
+  },
+  "Quarterback": {
+    "tier": "3",
+    "description": "Increases the range of Frag Grenade by 50%."
+  },
+  "QueensRush": {
+    "tier": "5",
+    "description": "Activate to increase your Movement Speed by 30% for 4 seconds. Queen's Rush is also applied for free on Takedowns."
+  },
+  "Quickening": {
+    "tier": "5",
+    "description": "Reduces Portal cooldown by 50%."
+  },
+  "QuickeningBlessing": {
+    "tier": "3",
+    "description": "If cast on an ally, Light of Elune also increases their Movement Speed by 25% for 3 seconds."
+  },
+  "Quicksilver": {
+    "tier": "5",
+    "description": "Radiant Dashing to an ally gives you and the target 30% bonus Movement Speed for 3 seconds."
+  },
+  "QuicksilverBullets": {
+    "tier": "3",
+    "description": "Increases Human Basic Attack range by 20%."
+  },
+  "RabidWolves": {
+    "tier": "1",
+    "description": "Damaging Heroes with Feral Spirit grants 3 stacks of Frostwolf Resilience."
+  },
+  "RadiatingFaith": {
+    "tier": "7",
+    "description": "Increases Blessed Shield's stun duration by 33% and maximum enemies hit by 2."
+  },
+  "RagnaroknRoll": {
+    "tier": "7",
+    "description": "The Longboat can attack two targets at once and the range of its Mortar is increased by 100%."
+  },
+  "RaidersRecruitment": {
+    "tier": "1  Enemy Minions or captured Mercenaries killed near Raynor grant a stack of Recruitment.  Use 15 stacks to \"recruit\" a Mercenary, instantly defeating them. Does not work on Bosses.  Maximum 100 stacks. If a camp is defeated entirely with Bribe, the camp respawns 50% faster.",
+    "description": "<c val=\"ffff8a\">Current number of Recruitment stacks: <c val=\"#TooltipNumbers\"><d ref=\"$BehaviorStackCount:RaidersRecruitment$\"/></c></c>"
+  },
+  "Railgun": {
+    "tier": "6",
+    "description": "Snipe penetrates through the first enemy hit and deals 50% damage to subsequent targets. Snipe cooldown is reduced by 1 second for each target hit."
+  },
+  "RainofDestruction": {
+    "tier": "4",
+    "description": "Summon a rain of meteors in an area for 7 seconds. Each meteor deals 171.6 (+4% per level) damage in a small area."
+  },
+  "RainofVengeance": {
+    "tier": "4",
+    "description": "Launch 2 waves of Shadow Beasts that deal 364 (+4% per level) damage to enemies within the target area, stunning for 0.5 seconds per wave."
+  },
+  "RaisedMage": {
+    "tier": "7  When a nearby enemy Hero dies, a Frost Mage appears from their corpse to fight for you.",
+    "description": "Also increases the slow of Frost Mages from 30% to 50%."
+  },
+  "Rampage": {
+    "tier": "6",
+    "description": "Fire Stomp increases Diablo's Movement Speed by 20% and Basic Attack damage by 50% for 2 seconds."
+  },
+  "RampantGrowth": {
+    "tier": "2",
+    "description": "Increases the initial heal of Regrowth by 50%."
+  },
+  "RampantHellfire": {
+    "tier": "6",
+    "description": "Fel Flame's damage is increased by 8% for 5 seconds when hitting an enemy Hero. This can stack up to 5 times."
+  },
+  "Rancor": {
+    "tier": "1",
+    "description": "Each Hatred stack increases Attack Speed by 1.5%"
+  },
+  "Ranger": {
+    "tier": "6",
+    "description": "Increases width of Sentinel by 100%. Increases damage dealt based on distance traveled, up to a maximum of +200% damage."
+  },
+  "RangersAmbush": {
+    "tier": "2",
+    "description": "Using Haunting Wave to teleport refills all charges of Withering Fire."
+  },
+  "RangersMark": {
+    "tier": "1",
+    "description": "Lower the Cooldown of Hunter's Mark by 6 seconds."
+  },
+  "RapidChase": {
+    "tier": "2",
+    "description": "Dive grants 15% Movement Speed for 2.188 seconds."
+  },
+  "RapidDisplacement": {
+    "tier": "1",
+    "description": "Reduces the cooldown of Blink by 1.5 seconds."
+  },
+  "RapidFire": {
+    "tier": "3",
+    "description": "Minigun stacks 2 additional times, further increasing your Attack Speed."
+  },
+  "RapidIncubation": {
+    "tier": "3",
+    "description": "Channel to regenerate up to 25% of your Health and Mana over 3 seconds."
+  },
+  "RapidProjection": {
+    "tier": "2",
+    "description": "Reduces Holo Decoy's cooldown and Mana cost by 40%."
+  },
+  "RapidRegeneration": {
+    "tier": "6",
+    "description": "Burrow heals you for 374.4 (+4% per level) Health over 2 seconds."
+  },
+  "RathmasBlessing": {
+    "tier": "3",
+    "description": "Raising a Skeletal Warrior heals you for 57.2 (+4% per level)."
+  },
+  "RavenFamiliar": {
+    "tier": "3",
+    "description": "A Raven Familiar joins allies that use a Portal. The Raven will dive at the ally's next Basic Attack target for 118.56 (+4% per level) damage."
+  },
+  "RavensIntellect": {
+    "tier": "1",
+    "description": "Raven Form increases Medivh's Mana Regeneration by 100%."
+  },
+  "RavenousSpirit": {
+    "tier": "4",
+    "description": "Channel a Ravenous Spirit that deals 195.52 (+4% per level) damage per second. Cannot move while channeling. Lasts for 8 seconds."
+  },
+  "RaynorsRaiders": {
+    "tier": "4",
+    "description": "Summon two Stealthed Banshees that attack an enemy. Each Banshee deals 44.928 (+4% per level) damage a second and lasts 22 seconds. Can reactivate the Ability to retarget the Banshees."
+  },
+  "Reabsorption": {
+    "tier": "6",
+    "description": "Upon expiration, Force of Will heals the target for 50% of the damage it absorbed."
+  },
+  "Reach": {
+    "tier": "1",
+    "description": "Increases the range of Holy Light and Flash of Light by 40%."
+  },
+  "ReachingthroughTime": {
+    "tier": "5",
+    "description": "Increases Sand Blast and Dragon's Breath's range by 25%."
+  },
+  "ReactiveParry": {
+    "tier": "1  Using Twin Blades reduces damage taken from the next Hero Basic Attack by 50%.",
+    "description": "Stores up to 2 charges."
+  },
+  "ReactiveSpark": {
+    "tier": "5",
+    "description": "Reduces Lightning Shield's cooldown by 3 seconds and the duration does not start until an enemy is nearby."
+  },
+  "Reanimation": {
+    "tier": "1  You can gather Regeneration Globes while Undying. Quest:",
+    "description": "Gathering a Regeneration Globe increases your Health Regeneration by 1 per second, up to 30 per second. Reward: After gathering 30 Globes, you also respawn 10 seconds faster."
+  },
+  "Rebirth": {
+    "tier": "7",
+    "description": "Increases Phoenix duration by 100%. You may order the Phoenix to move to a different location once while the Phoenix is alive."
+  },
+  "Reciprocate": {
+    "tier": "3",
+    "description": "When your shield expires, it explodes for 176.8 (+4% per level) damage to nearby enemies."
+  },
+  "Reconstitution": {
+    "tier": "1",
+    "description": "Health Restoration bonus on Creep increased by 200%."
+  },
+  "Redemption": {
+    "tier": "7",
+    "description": "After Eternal Devotion ends, return to 50% of your maximum Health at your spirit's location. This effect has a 180 second cooldown."
+  },
+  "ReduceReuseRecycle": {
+    "tier": "2",
+    "description": "Enemy Minions that die near you have a 15% chance to drop Scrap."
+  },
+  "ReflexiveBlock": {
+    "tier": "3",
+    "description": "Dive reduces the damage taken from the next 2 Hero Basic Attacks by 75%. Lasts 3 seconds."
+  },
+  "RegenerationMaster": {
+    "tier": "1",
+    "description": "Quest: Gathering a Regeneration Globe increases your Health Regeneration by 1 per second, up to 30. Reward: After gathering 30 Regeneration Globes, you also gain 500 Health."
+  },
+  "RegenerativeBile": {
+    "tier": "7",
+    "description": "Putrid Bile lasts 2 seconds longer, grants an additional 10% Movement Speed and heals for 51.635% (+4% per level) of the damage dealt."
+  },
+  "RegenerativeMicrobes": {
+    "tier": "1",
+    "description": "Symbiote's Carapace heals the target for 70.72 (+4% per level) Health per second over 4 seconds."
+  },
+  "Reinforce": {
+    "tier": "1  Using a Basic Ability reduces damage taken from the next Hero Basic Attack by 75%.",
+    "description": "Stores up to 2 charges."
+  },
+  "ReinforceStructure": {
+    "tier": "1",
+    "description": "Plasma Shield is 100% stronger and lasts 100% longer when cast on Structures."
+  },
+  "RejuvenatingBubble": {
+    "tier": "6",
+    "description": "Safety Bubble restores 50% of your Health."
+  },
+  "Relentless": {
+    "tier": "5",
+    "description": "Reduces the duration of stuns, slows, and roots against your Hero by 50%."
+  },
+  "RelentlessLeader": {
+    "tier": "5",
+    "description": "Reduces the duration of stuns, slows, and roots against you by 50%. Once every 5 seconds, if you are stunned you knock nearby enemies away."
+  },
+  "RelentlessPredator": {
+    "tier": "6",
+    "description": "Reduces the duration of stuns, slows, roots, and polymorphs against you by 75% while in Worgen form."
+  },
+  "RelentlessSoldier": {
+    "tier": "3",
+    "description": "Reduces the duration of stuns, slows, and roots against your Hero by 33%."
+  },
+  "Remorseless": {
+    "tier": "6",
+    "description": "After using an Ability, your next Basic Attack within 3 seconds deals 40% additional damage."
+  },
+  "RemorselessWinter": {
+    "tier": "6",
+    "description": "Enemy Heroes that remain within Frozen Tempest for 3 seconds are rooted for 1.75 seconds. This effect can only happen once every 10 seconds."
+  },
+  "RemoteDelivery": {
+    "tier": "2",
+    "description": "Increases Holo Decoy cast range by 100% and its sight range by 50%"
+  },
+  "RendingCleave": {
+    "tier": "6",
+    "description": "Cleave deals an additional 50% damage over 5 seconds."
+  },
+  "RenewedSwing": {
+    "tier": "6",
+    "description": "Skeletal Swing can be recast again for free within 3 seconds for 50% damage."
+  },
+  "RepeatedOffense": {
+    "tier": "2",
+    "description": "Quest: Every time Detainment Strike stuns a Hero, increase the stun damage by 10, up to 60. Reward: After stunning 6 Heroes, increase this damage bonus to 200."
+  },
+  "RepeatingArrow": {
+    "tier": "3",
+    "description": "The cooldown for Hungering Arrow is reset when Vault is used."
+  },
+  "RepellingStrike": {
+    "tier": "5",
+    "description": "Enemies hit by Detainment Strike are knocked back 35% farther."
+  },
+  "Repulsion": {
+    "tier": "7",
+    "description": "Increases Wave of Force knockback distance by 150% and increases its cast range by 100%."
+  },
+  "ReservoirofHope": {
+    "tier": "6",
+    "description": "Quest: Each maximum energy Ray of Heaven Auriel casts increases the maximum amount of energy that can be stored by 75."
+  },
+  "Resistant": {
+    "tier": "1",
+    "description": "While in Siege Mode, the duration of Stuns, Slows, and Roots are reduced by 75%."
+  },
+  "Resonation": {
+    "tier": "6",
+    "description": "Psionic Storm targets are slowed by 25% for 1 second."
+  },
+  "RestlessWolves": {
+    "tier": "5",
+    "description": "If Feral Spirit hits an enemy Hero, its cooldown is reduced by 50%."
+  },
+  "RestorativeFumes": {
+    "tier": "2",
+    "description": "Whenever Vile Gas damages an enemy Hero, you are healed for 28.08 (+4% per level) Health."
+  },
+  "Resurrect": {
+    "tier": "4",
+    "description": "Channel on the spirit of a dead ally for 3 seconds, bringing them back to life with 50% of their maximum health at the location where they died."
+  },
+  "Retribution": {
+    "tier": "2",
+    "description": "Cooldown is lowered by 0.5 seconds for each target hit by Smite."
+  },
+  "Reverberation": {
+    "tier": "1",
+    "description": "Heroes and Summons hit by Thunder Clap have their Attack Speed reduced by 50% for 3 seconds."
+  },
+  "RevitalizingMist": {
+    "tier": "7",
+    "description": "Healing another Hero with Soothing Mist increases their healing received from Soothing Mist by 25% for 6 seconds. Stacks 3 times."
+  },
+  "RevolutionOverdrive": {
+    "tier": "3  Gain 10% Movement Speed while affected by Inspire.",
+    "description": "Increase this bonus by 5% for each allied Hero nearby when Inspire is cast."
+  },
+  "Rewind": {
+    "tier": "7",
+    "description": "Activate to reset the cooldowns of your Basic Abilities."
+  },
+  "Ricochet": {
+    "tier": "5",
+    "description": "Your Basic Attacks have a 50% chance to hit another nearby enemy, prioritizing Heroes."
+  },
+  "RideTheLightning": {
+    "tier": "2",
+    "description": "Chain Lightning can hit 2 additional enemies for 50% damage."
+  },
+  "RideTheWind": {
+    "tier": "6",
+    "description": "Increases Windfury's Movement Speed bonus from 30% to 40%. Windfury attacks increase the Movement Speed duration by 1 second."
+  },
+  "RighteousAssault": {
+    "tier": "1",
+    "description": "Reduces the cooldown of Sacred Sweep by 2 seconds for each enemy Hero hit, up to a total of 4 seconds."
+  },
+  "RighteousDefense": {
+    "tier": "6",
+    "description": "Healing a Hero with Holy Light reduces all damage they take by 50% for 2 seconds."
+  },
+  "RighteousSmash": {
+    "tier": "1",
+    "description": "Punish restores 10 Mana per enemy hit."
+  },
+  "RingofFire": {
+    "tier": "3",
+    "description": "After using Breath of Fire, ignite in a fiery aura, dealing 31.2 (+4% per level) damage every second to nearby enemies for 5 seconds."
+  },
+  "RingofFrost": {
+    "tier": "4",
+    "description": "After a 1.5 second delay, create a Ring of Frost in an area that deals 322.4 (+4% per level) damage and roots enemies for 3 seconds. The ring persists for 3 seconds afterward, Chilling any enemies who touch it."
+  },
+  "RisingDread": {
+    "tier": "5",
+    "description": "Dread Orb does 25% more damage on the second bounce and 75% more damage the third bounce."
+  },
+  "RisingStorm": {
+    "tier": "6",
+    "description": "Every time Lighting Shield damages an enemy Hero, increase that Lightning Shield's damage by 10%. Stacks up to 20 times."
+  },
+  "Roar": {
+    "tier": "2",
+    "description": "Increases Punish damage by 50%."
+  },
+  "RoboGoblin": {
+    "tier": "4",
+    "description": "Basic Attacks deal 200% bonus damage to non-Heroes. Activate to order any nearby Rock-It! Turrets to focus a target."
+  },
+  "RockItTurretXL": {
+    "tier": "3",
+    "description": "Rock-It! Turrets attack up to 2 additonal enemies for 60% damage."
+  },
+  "Rollback": {
+    "tier": "2",
+    "description": "Rune Bomb now returns to you, damaging enemies in its path."
+  },
+  "RollingLikeaStone": {
+    "tier": "1",
+    "description": "Increases the range of Powerslide by 25%."
+  },
+  "RollingThunder": {
+    "tier": "1",
+    "description": "Increases Chain Lightning's range by 30% and attacking enemies recently hit by Chain Lightning restores 10 Mana."
+  },
+  "RoyalFocus": {
+    "tier": "2",
+    "description": "If your body takes no damage during Wraith Walk's duration, the cooldown is reduced to 4 seconds. Wraith Walk also increases the damage of your next Skeletal Swing within 5 seconds by 50%."
+  },
+  "RuinousAffliction": {
+    "tier": "6",
+    "description": "Corruption deals an additional 81.12 (+4% per level) damage on impact. If the enemy is hit by all three strikes, the third strike deals 242.32 (+4% per level) damage."
+  },
+  "RuneTap": {
+    "tier": "3",
+    "description": "Every 3rd Basic Attack heals you for 3.9% of your max Health."
+  },
+  "RunedGauntlet": {
+    "tier": "2",
+    "description": "Rune Bomb increases your next Basic Attack by 75%."
+  },
+  "RunicFeedback": {
+    "tier": "5",
+    "description": "Gall's Runic Blast reduces your Rune Bomb cooldown by 1.25 seconds per enemy hit."
+  },
+  "RunicPersistence": {
+    "tier": "2",
+    "description": "Using Runic Blast no longer destroys Rune Bomb."
+  },
+  "RunningWild": {
+    "tier": "5",
+    "description": "Increases Darkflight and Disengage's range by 35%."
+  },
+  "SafetySprint": {
+    "tier": "6",
+    "description": "Increases Fast Feet's Movement Speed bonus from 10% to 20%."
+  },
+  "Salvation": {
+    "tier": "6",
+    "description": "Each allied Hero that is affected by Righteousness increases Tyrael's Shield amount by 45%."
+  },
+  "Sanctification": {
+    "tier": "4",
+    "description": "After 0.5 seconds create a field of holy energy that makes allied Heroes Invulnerable. Lasts 3 seconds."
+  },
+  "SavageCharge": {
+    "tier": "5",
+    "description": "Ruthless Onslaught deals bonus damage to Heroes equal to 10% of their maximum Health."
+  },
+  "SavortheFlavor": {
+    "tier": "3",
+    "description": "Using Devour on an enemy Hero permanently increases your Health Regeneration by 2 per second."
+  },
+  "ScentedTincture": {
+    "tier": "1",
+    "description": "Gilnean Cocktail reveals enemy Heroes for 10 seconds."
+  },
+  "ScorchedEarth": {
+    "tier": "7",
+    "description": "An additional set of lasers blast the ground 5 times per second, dealing 41.6 (+4% per level) damage in an area."
+  },
+  "ScoutingDrone": {
+    "tier": "1  Places a Scouting Drone at target location, granting vision of a large area around it for 45 seconds. This drone cannot be hidden and is killed by enemies with 2 Basic Attacks.",
+    "description": "Stores up to 2 charges."
+  },
+  "ScrapoMaticSmelter": {
+    "tier": "1",
+    "description": "Increases the Mana restored from Scrap by 100%."
+  },
+  "Scryer": {
+    "tier": "5",
+    "description": "Oracle duration increased by 3 seconds and grants 20% increased Movement Speed."
+  },
+  "SearedFlesh": {
+    "tier": "2",
+    "description": "Every third consecutive Basic Attack against the same target deals 75% bonus damage."
+  },
+  "SearingArrows": {
+    "tier": "2  Activate to increase Basic Attack damage by 50% for 5 seconds.",
+    "description": "Each attack costs 10 Mana."
+  },
+  "SearingAttacks": {
+    "tier": "3",
+    "description": "Activate to increase Basic Attack damage by 50% for 5 seconds. Each attack costs 15 Mana."
+  },
+  "SearingLight": {
+    "tier": "1",
+    "description": "Ray of Heaven also deals damage to enemies in the area equal to 30% of the energy consumed."
+  },
+  "SeasonedMarksman": {
+    "tier": "1",
+    "description": "Quest: Every Minion killed near you grants 0.2 Attack Damage, and Takedowns grant 0.5 Attack Damage, to a max of 40 damage. Reward: Upon gaining 40 bonus Attack Damage, you can also activate Seasoned Marksman to increase your Attack Speed by 30% for 3 seconds. 60 second cooldown."
+  },
+  "SecondOpinion": {
+    "tier": "6",
+    "description": "Reduces Displacement Grenade's cooldown by 2 seconds and it now holds a second charge."
+  },
+  "SecondStrike": {
+    "tier": "6",
+    "description": "After casting Psionic Storm, you may cast Psionic Storm again for free within 3 seconds. The damage does not stack."
+  },
+  "SecondSweep": {
+    "tier": "6",
+    "description": "Store up to 2 charges of Sweeping Strike."
+  },
+  "SecretWeapon": {
+    "tier": "3",
+    "description": "Increases Hammerang's range by 30% and Basic Attacks deal 60% bonus damage while Hammerang is in flight."
+  },
+  "Seeker": {
+    "tier": "3",
+    "description": "If three Magic Missiles hit the same target, the third one deals an additional 130 (+4% per level) damage."
+  },
+  "Serenity": {
+    "tier": "7",
+    "description": "Increases Tranquility's healing by 25% and it also restores 5 Mana per second."
+  },
+  "SerpentSidekick": {
+    "tier": "6",
+    "description": "You also gain a Cloud Serpent whenever you cast it on another ally."
+  },
+  "SerratedSpines": {
+    "tier": "2",
+    "description": "Quest: Each Basic Attack against a Hero increases Zagara's Attack Damage by 0.3."
+  },
+  "SevenSidedStrike": {
+    "tier": "4",
+    "description": "Become Invulnerable and strike 7 times over 1.813 seconds. Each strike hits the highest Health nearby Hero for 7% of their maximum Health."
+  },
+  "Shackler": {
+    "tier": "1",
+    "description": "While Bone Armor is active, you slow nearby enemies by 35% for 1 second."
+  },
+  "Shade": {
+    "tier": "1",
+    "description": "While Bone Armor is active, you evade all Basic Attacks, but increases the cooldown of Bone Armor by 20 seconds."
+  },
+  "ShadeForm": {
+    "tier": "3",
+    "description": "Haunting Wave grants Stealth for 3 seconds. Activating the teleport does not break the Stealth."
+  },
+  "ShadowAssault": {
+    "tier": "4",
+    "description": "Your Basic Attacks cause you to charge at enemies and have 20% increased Attack Speed. Lasts for 4 seconds."
+  },
+  "ShadowBoltVolley": {
+    "tier": "4",
+    "description": "After 1 second, unleash 19.375 Shadow Bolts over 3.875 seconds, each dealing 107.12 (+4% per level) damage to the first target hit. The bolts fire towards your mouse."
+  },
+  "ShadowShield": {
+    "tier": "1",
+    "description": "Evasion grants a 148.72 (+4% per level) point Shield for 5 seconds."
+  },
+  "ShadowSpike": {
+    "tier": "3",
+    "description": "No longer decloak when using Singularity Spike. Range increased by 20%."
+  },
+  "ShadowWolf": {
+    "tier": "2",
+    "description": "When entering Ghost Wolf, you are Stealthed for 4.13 seconds."
+  },
+  "Shadowflare": {
+    "tier": "6",
+    "description": "Increases Shadowflame's width by 50%. Enemies hit are slowed by 25% for 1 second."
+  },
+  "Shadowfury": {
+    "tier": "7",
+    "description": "Shadow Bolt Volley hits all enemies in its path."
+  },
+  "Shadowstalk": {
+    "tier": "4  Stealth all allied Heroes and heal them for 249.6 (+4% per level) over 8 seconds.",
+    "description": "At the conclusion of Shadowstalk, they receive a burst of 98.8 (+4% per level) healing."
+  },
+  "ShakeItOff": {
+    "tier": "6",
+    "description": "Reduces the duration of the next Stun or Root against you by 75%. Can only trigger once every 10 seconds."
+  },
+  "ShandosClarity": {
+    "tier": "1",
+    "description": "Reduces Innervate's cooldown by 10 seconds."
+  },
+  "SharpenedBlades": {
+    "tier": "1",
+    "description": "Impaling Blades deals 25% more damage."
+  },
+  "ShatteredGround": {
+    "tier": "2",
+    "description": "Increases Seismic Slam splash damage to 75% of primary target damage."
+  },
+  "ShedExoskeleton": {
+    "tier": "3",
+    "description": "Using Harden Carapace increases your Movement Speed by 30% for 3 seconds."
+  },
+  "ShieldBattery": {
+    "tier": "2",
+    "description": "Reduces Shield Overload's cooldown by 8 seconds if it lasts for the full duration."
+  },
+  "ShieldDust": {
+    "tier": "5",
+    "description": "Pixie Dust reduces Ability damage taken by 40%."
+  },
+  "ShieldofHope": {
+    "tier": "7",
+    "description": "Activate to grant all nearby allied Heroes a shield for 3 seconds equal to 50% of the amount of Health they are missing."
+  },
+  "ShieldSequencer": {
+    "tier": "6",
+    "description": "After casting Safeguard, you can cast it a second time within 3 seconds at no cost."
+  },
+  "ShieldSurge": {
+    "tier": "6",
+    "description": "Increases Shield Overload's Shields by 100%, but decays to the normal amount over 3 seconds."
+  },
+  "ShiftingSands": {
+    "tier": "6",
+    "description": "Hitting an enemy Hero with Sand Blast increases your Ability Power by 8% for the next 10 seconds. This bonus can be stacked up to 40%, and the duration is refreshed whenever you damage enemy Heroes with Sand Blast."
+  },
+  "ShishKabob": {
+    "tier": "6",
+    "description": "Hook can pull up to 2 targets."
+  },
+  "ShootingStar": {
+    "tier": "6",
+    "description": "Lunar Flare does 50% more damage. Hitting an enemy Hero will also refund the Mana cost."
+  },
+  "ShotofFury": {
+    "tier": "1",
+    "description": "Increases your maximum Fury by 50. You can also activate your Trait to gain 50 Fury. Usable while Whirlwinding."
+  },
+  "Shove": {
+    "tier": "1",
+    "description": "Nudge Cho a small distance in the direction you choose."
+  },
+  "ShowStopper": {
+    "tier": "5",
+    "description": "Reduces all damage taken by 25% for 4 seconds after using Powerslide."
+  },
+  "ShredderGrenade": {
+    "tier": "1",
+    "description": "Increases the explosion radius of Frag Grenade by 25%."
+  },
+  "ShrinkRay": {
+    "tier": "5",
+    "description": "Activate to reduce an enemy Hero's damage by 50% and Movement Speed by 50% for 4 seconds."
+  },
+  "ShrugItOff": {
+    "tier": "1",
+    "description": "Run and Gun grants Resistant for 3 seconds, reducing the damage you take by 25%."
+  },
+  "SiegingWrath": {
+    "tier": "1",
+    "description": "Quest: Every time Globe of Annihilation hits an Hero, its damage is increased by 4, up to 100.Reward: After hitting 25 Heroes, the range of Globe of Annihilation is increased by 33% and its damage is increased by an additional 100."
+  },
+  "SinforSin": {
+    "tier": "6",
+    "description": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount. Can be cast while channeling All Shall Burn."
+  },
+  "SinsGrasp": {
+    "tier": "2",
+    "description": "Activate to curse an enemy Hero, dealing 257.4 (+4% per level) damage over 8 seconds. Minion kills reduce this cooldown by 5 seconds. Can be cast while channeling All Shall Burn."
+  },
+  "SinsExposed": {
+    "tier": "3",
+    "description": "Shield Glare marks enemies for 4 seconds. The next time any ally damages them, they take 70.72 (+4% per level) extra damage and the mark is removed."
+  },
+  "SiphontheDead": {
+    "tier": "5",
+    "description": "Activate to heal 15.6% of your maximum Health over 3 seconds."
+  },
+  "SiphoningArrow": {
+    "tier": "1",
+    "description": "50% of the damage dealt by Hungering Arrow is returned as Health to Valla."
+  },
+  "SiphoningImpact": {
+    "tier": "1",
+    "description": "If the targeted enemy dies within 1.5 seconds, Kerrigan heals for 10.15% of her maximum Health."
+  },
+  "SiphoningRunes": {
+    "tier": "2",
+    "description": "Runic Blast heals for 20% of the damage dealt against Heroes."
+  },
+  "SiphoningToxin": {
+    "tier": "3",
+    "description": "As long as you have Nature's Toxin active on an enemy you heal for 18.72 (+4% per level) Health a second."
+  },
+  "SixthSense": {
+    "tier": "5",
+    "description": "Evasion reduces the damage you take from the next 2 Abilities by 75% while it's active."
+  },
+  "SizzlinAttacks": {
+    "tier": "3",
+    "description": "Activate to increase Basic Attack damage by 50.00% for 5 seconds. Each attack costs 5 Mana."
+  },
+  "SkeletalMages": {
+    "tier": "4",
+    "description": "Summons 4 Frost Mages in a line that attack nearby enemies for 48.75 (+4% per level) damage a second and slow them by 30% for 2 seconds. Last up to 15 seconds."
+  },
+  "SkeletonMastery": {
+    "tier": "6",
+    "description": "Increases the maximum Skeletal Warriors you can have to 6 and increases their damage by 50%."
+  },
+  "Skullcracker": {
+    "tier": "3",
+    "description": "Every 3rd Basic Attack against the same target will stun them for 0.25 seconds."
+  },
+  "SkyboundWisp": {
+    "tier": "2",
+    "description": "Wisp can see over obstacles and reveals the area for 4 seconds after dying."
+  },
+  "Slaughterhouse": {
+    "tier": "7",
+    "description": "Lamb to the Slaughter now chains all enemy Heroes in range."
+  },
+  "Sledgehammer": {
+    "tier": "2",
+    "description": "Deals 400% damage to non-Heroic enemies. Destroys 4 ammo from Structures."
+  },
+  "SleightofHand": {
+    "tier": "6",
+    "description": "Reduces Reload time by 50%. This equals 20% more damage per second."
+  },
+  "SlimeAdvantage": {
+    "tier": "3",
+    "description": "Your Basic Attacks deal 100% bonus damage to Slimed targets."
+  },
+  "SlimyEnd": {
+    "tier": "6",
+    "description": "Slime is used on death."
+  },
+  "SlimyPufferfish": {
+    "tier": "6",
+    "description": "The Pufferfish casts Slime at its location upon landing."
+  },
+  "Slipstream": {
+    "tier": "1",
+    "description": "Increases the amount of time Recalled by 1 second."
+  },
+  "SlowingMines": {
+    "tier": "3",
+    "description": "Increase the Movement Speed slow of Spider Mines to 40%, and the duration to 2 seconds."
+  },
+  "SlowingSands": {
+    "tier": "4",
+    "description": "Place a sand vortex that greatly slows enemies inside it. The longer it is active the more it slows, up to 60% after 3 seconds."
+  },
+  "SnipeMaster": {
+    "tier": "3",
+    "description": "Hitting an enemy Hero with Snipe permanently increases the damage of Snipe by 15%. Stacks up to 5 times. All stacks are lost if Snipe fails to hit an enemy Hero."
+  },
+  "SnowCrash": {
+    "tier": "6",
+    "description": "Increases the number of Blizzard waves from 2 to 3."
+  },
+  "Snowstorm": {
+    "tier": "6",
+    "description": "Increases the radius of Blizzard by 30%."
+  },
+  "SolariteReaper": {
+    "tier": "3",
+    "description": "Increases the damage of the first dash of Blade Dash by 150%."
+  },
+  "SomaTransference": {
+    "tier": "5",
+    "description": "Symbiote's Spike Burst heals the host for 66.56 (+4% per level) Health per enemy Hero hit."
+  },
+  "SoothingBreeze": {
+    "tier": "6",
+    "description": "Breath of Heaven removes silences, blinds, slows and roots."
+  },
+  "SoulCatcher": {
+    "tier": "2",
+    "description": "Black Soulstone passively generates a Soul every 4 seconds."
+  },
+  "SoulFeast": {
+    "tier": "1",
+    "description": "Black Soulstone increases your Health Regeneration by 3% per Soul."
+  },
+  "SoulSteal": {
+    "tier": "3",
+    "description": "Increases the amount of Health gained from Black Soulstone by 50%."
+  },
+  "SpatialEcho": {
+    "tier": "3",
+    "description": "Hero Takedowns grant 2 charges of Blink."
+  },
+  "SpatialEfficiency": {
+    "tier": "5",
+    "description": "Symbiote's Stab gains 1 additional charge and its Cooldown is reduced by .5 seconds."
+  },
+  "SpecializedToxin": {
+    "tier": "6",
+    "description": "Increases the damage dealt to Heroes from Voodoo Ritual by 100%."
+  },
+  "SpectralLeech": {
+    "tier": "7",
+    "description": "Basic Attacks against enemy Heroes deal bonus damage equal to 5% of the Hero's maximum Health and heal you for the same amount."
+  },
+  "SpeedMetal": {
+    "tier": "6",
+    "description": "Rockstar also gives 20% Movement Speed for 2 seconds."
+  },
+  "SpeedofTwilight": {
+    "tier": "5",
+    "description": "When Dread Orb hits an enemy Hero, gain 30% Movement Speed for 5 seconds."
+  },
+  "SpellShield": {
+    "tier": "5  Upon taking Ability Damage, reduce that damage and further Ability Damage by 50% for 3 seconds.",
+    "description": "Can only trigger once every 30 seconds."
+  },
+  "SpiderCluster": {
+    "tier": "2",
+    "description": "Corpse Spiders creates 3 more spiders over 3 seconds."
+  },
+  "SpinToWin": {
+    "tier": "3",
+    "description": "Activate to have each Viking deal 105.04 (+4% per level) damage to nearby enemies."
+  },
+  "SpiritBond": {
+    "tier": "7",
+    "description": "Increases the duration of Bestial Wrath by50% and Misha's Basic Attacks heal Rexxar for 50% of her damage dealt during Bestial Wrath."
+  },
+  "SpiritJourney": {
+    "tier": "2",
+    "description": "Feral Spirit travels 50% farther."
+  },
+  "SpiritwalkersGrace": {
+    "tier": "2",
+    "description": "Reduces Chain Heal's Mana cost from 65 to 45."
+  },
+  "SplinterShot": {
+    "tier": "5",
+    "description": "Withering Fire hits a second target for 30.16 (+4% per level) damage."
+  },
+  "SplinteredSpear": {
+    "tier": "3",
+    "description": "Using Noxious Blossom causes your next Basic Attack to hit up to 4 enemies. These extra attacks can apply Nature's Toxin."
+  },
+  "SpraynPray": {
+    "tier": "5",
+    "description": "Increases Overkill's range by 25%."
+  },
+  "Sprint": {
+    "tier": "5",
+    "description": "Activate to gain 75% Movement Speed for 3 seconds."
+  },
+  "SpurredOnward": {
+    "tier": "1",
+    "description": "Increase the initial speed boost of Hurry Up, Oaf! to 70%. Hurry Up, Oaf! cooldown reduced by 2 seconds when hitting an enemy Hero with an Ability."
+  },
+  "SpyGames": {
+    "tier": "1",
+    "description": "After standing still for 3 seconds, Erik gains Stealth and his Sight Radius is increased by 75%. The Stealth persists for 3 seconds after moving."
+  },
+  "StablePortal": {
+    "tier": "1",
+    "description": "Increases Portal duration by 50%."
+  },
+  "StageDive": {
+    "tier": "4",
+    "description": "Leap to target location, landing after 2.75 seconds, dealing 343.2 (+4% per level) damage to enemies in the area, and slowing them by 50% for 3 seconds."
+  },
+  "StarWoodSpear": {
+    "tier": "6",
+    "description": "Using Crippling Spores increases your Basic Attack range by 50% for 6 seconds."
+  },
+  "Starfall": {
+    "tier": "4",
+    "description": "Deal 94.64 (+4% per level) damage per second and slow enemies by 20% in an area. Lasts 8 seconds."
+  },
+  "StaticCharge": {
+    "tier": "3",
+    "description": "Enemies damaged by Psionic Storm are marked with Static Charge. Your Basic Attacks consume the Static Charge to deal 54.08 (+4% per level) damage."
+  },
+  "StaticShield": {
+    "tier": "2",
+    "description": "Gain a Shield equal to 4% of your maximum Health after every Lightning Rod strike. Lasts 4 seconds and stacks."
+  },
+  "SteelResolve": {
+    "tier": "5",
+    "description": "Increases Inspire's duration by 50% and causes Adrenaline Rush to also apply Inspire."
+  },
+  "StickyBomb": {
+    "tier": "4",
+    "description": "Increases Pulse Bomb's radius by 50% and enemies hit are slowed by 70% for 3 seconds."
+  },
+  "StickyFlare": {
+    "tier": "5",
+    "description": "Targets are slowed by 40% Movement Speed for 2 seconds."
+  },
+  "StimDrone": {
+    "tier": "4",
+    "description": "Grant an allied Hero 75% Attack Speed and 25% Movement Speed for 10 seconds."
+  },
+  "StimPack": {
+    "tier": "5",
+    "description": "After using Run and Gun, gain 20.00% Attack Speed and 20.00% Movement Speed for 3 seconds"
+  },
+  "StoneWolves": {
+    "tier": "3",
+    "description": "Increases the duration of Feral Spirit's root from 1 second to 1.5 seconds."
+  },
+  "Stoneform": {
+    "tier": "6",
+    "description": "Activate to heal for 40% of your maximum Health over 10 seconds. Second Wind is disabled during this time."
+  },
+  "Stoneskin": {
+    "tier": "6",
+    "description": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds."
+  },
+  "StormFront": {
+    "tier": "5",
+    "description": "Increases the cast range of Blizzard by 100%."
+  },
+  "StormofVengeance": {
+    "tier": "7",
+    "description": "Increases the number of Shadow Beast waves to 4."
+  },
+  "StormShield": {
+    "tier": "7",
+    "description": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds."
+  },
+  "StormEarthFire": {
+    "tier": "4  Split into three elemental spirits for 15.15 seconds, each with 50% of your maximum Health, and enables two new leaping attacks for use.",
+    "description": "Storm attacks at range for 61.36 (+4% per level) damage. Earth attacks slowly for 38.48 (+4% per level) damage and slows enemies by 25%. Fire attacks quickly for 17.68 (+4% per level) damage."
+  },
+  "Stormcaller": {
+    "tier": "2",
+    "description": "When Lightning Shield damages an enemy Hero it restores 4 Mana, up to 40."
+  },
+  "Strafe": {
+    "tier": "4",
+    "description": "Rapidly attack nearby visible enemies for 70.72 (+4% per level) damage per hit, prioritizing heroes over minions. Valla is able to move and use Vault while strafing. Lasts for 4 seconds."
+  },
+  "StranglingVines": {
+    "tier": "3",
+    "description": "Entangling Roots deals 100% more damage."
+  },
+  "Subdue": {
+    "tier": "5",
+    "description": "Increases Punish's slow to 80% decaying over 3 seconds."
+  },
+  "SummonSindragosa": {
+    "tier": "4  Deals 239.2 (+4% per level) damage and slows enemies by 60% for 3.5 seconds.",
+    "description": "Also disables non-Heroic enemies and Structures for 20 seconds."
+  },
+  "SummonUltralisk": {
+    "tier": "4",
+    "description": "Summon an Ultralisk that attacks the target to deal 104 (+4% per level) damage. Attacks splash to nearby enemies for 50% damage. Can reactivate the Ability to retarget the Ultralisk. Lasts for 20 seconds."
+  },
+  "SummonWaterElemental": {
+    "tier": "4  Summons a Water Elemental at target location. The Water Elemental's Basic Attacks do 81.12 (+4% per level) damage, splash for 25% damage and Chill. Can reactivate the Ability to retarget the Water Elemental.",
+    "description": "Lasts 20 seconds."
+  },
+  "SunKingsFury": {
+    "tier": "3",
+    "description": "Living Bombs that spread to enemy Heroes deal 30% more damage."
+  },
+  "Sundering": {
+    "tier": "4",
+    "description": "After a short delay, sunder the earth in a long line, dealing 284.96 (+4% per level) damage and shoving enemies to the side, stunning them for 1.25 seconds."
+  },
+  "SunfireEnchantment": {
+    "tier": "3",
+    "description": "Activating Verdant Spheres causes your next Basic Attack to instead shoot a spell dealing 171.6 (+4% per level) damage."
+  },
+  "SuperiorSchematics": {
+    "tier": "6",
+    "description": "Increase Rock-It! Turrets damage by 25% when you are within their attack range."
+  },
+  "SuppressionPulse": {
+    "tier": "4",
+    "description": "Fire a large area pulse from the Spear of Adun, dealing 118.56 (+4% per level) damage and Blinding enemies for 4 seconds. Unlimited range."
+  },
+  "SurgeofStamina": {
+    "tier": "5",
+    "description": "After using Surging Fist, the duration of stuns, slows, roots, and polymorphs applied to you are reduced by 50% for 5 seconds."
+  },
+  "SurgingDash": {
+    "tier": "1",
+    "description": "Increases Surging Fist range and speed by 50%."
+  },
+  "SurgingWinds": {
+    "tier": "5",
+    "description": "Gain 5% Ability Power for 8 seconds for every enemy hit by Blinding Wind. Additional enemies hit refresh the duration of this buff and further increase Ability Power. Stacks up to 4 times."
+  },
+  "SurvivalInstincts": {
+    "tier": "1",
+    "description": "Increases Locust's Health by 50% and duration by 40%."
+  },
+  "SurvivalistTraining": {
+    "tier": "1",
+    "description": "Regeneration Globes restore 100% more Mana."
+  },
+  "SustainedAnomaly": {
+    "tier": "2",
+    "description": "The Singularity Spike explodes for area damage and slows, regardless if it hits a target or not."
+  },
+  "SustainedCarapace": {
+    "tier": "2",
+    "description": "Increases the Shield amount of Symbiote's Carapace by 40% and allows it to persist after Symbiote ends."
+  },
+  "SwiftPursuit": {
+    "tier": "5",
+    "description": "Increases your Movement Speed by 20% while in a bush and 2 seconds after leaving."
+  },
+  "SwiftReflexes": {
+    "tier": "2",
+    "description": "Every 4 seconds Chen can dodge an enemy Hero's Basic Attack, preventing all of its damage."
+  },
+  "SwiftRetribution": {
+    "tier": "2",
+    "description": "Increases Smite's Movement Speed by 10% and duration by 1 second."
+  },
+  "SwiftSweep": {
+    "tier": "1",
+    "description": "Increases the cast speed of Sacred Sweep by 50%."
+  },
+  "Symbiosis": {
+    "tier": "3",
+    "description": "Every time Dark Swarm damages an enemy Hero, reduce its cooldown by 0.5 seconds."
+  },
+  "SymbioticArmor": {
+    "tier": "5",
+    "description": "Anub'arak's Beetles are also granted a Shield equal to 270.40 (+4% per level)."
+  },
+  "SystemShock": {
+    "tier": "6",
+    "description": "Displacement Grenade slows enemies by 50% for 4 seconds. The slow amount decays over its duration."
+  },
+  "TacticalEspionage": {
+    "tier": "1",
+    "description": "While Cloaked, Nova gains 4 Mana per second."
+  },
+  "TakingFlight": {
+    "tier": "2",
+    "description": "Increases Spirit Swoop's range by 20%. If Spirit Swoop hits an enemy Hero, the Mana cost is refunded."
+  },
+  "TalRashasElements": {
+    "tier": "7  Using Abilities grants 5% Ability Power, to a maximum of 20%.",
+    "description": "This bonus is reset when the same Ability is used within a chain."
+  },
+  "TargetPurified": {
+    "tier": "7",
+    "description": "If the target of Purifier Beam dies, it automatically recasts on the nearest visible enemy Hero."
+  },
+  "TasteforBlood": {
+    "tier": "1",
+    "description": "Quest: Enemies that die within 1 second of being hit by Globe of Annihilation increase its damage by 2, up to 500."
+  },
+  "TazerRounds": {
+    "tier": "1",
+    "description": "Increases the duration of Pinning Shot's slow to 4 seconds."
+  },
+  "TemperedbyDiscipline": {
+    "tier": "5",
+    "description": "Gain up to 10 stacks of Discipline after Hatred stacks are maxed. Basic Attacks heal for 3% of damage dealt to the primary target per Discipline stack."
+  },
+  "TempestFury": {
+    "tier": "6",
+    "description": "The final strike of Windfury hits 3 times for 75% normal damage."
+  },
+  "TemplarsZeal": {
+    "tier": "2",
+    "description": "Blade Dash cooldown recharges 100% faster while you are below 50% Health."
+  },
+  "TemporalFlux": {
+    "tier": "7",
+    "description": "Disintegrate gradually slows enemies caught in its beam, to a maximum of 60%."
+  },
+  "TemporalLoop": {
+    "tier": "4",
+    "description": "Choose an enemy Hero. After 3 seconds, they will teleport back to the location where you cast Temporal Loop on them."
+  },
+  "TenaciousRoots": {
+    "tier": "6",
+    "description": "Entangling Roots grows 25% larger, lasts 25% longer, and roots targets for 0.5 seconds longer."
+  },
+  "Tenderizer": {
+    "tier": "3",
+    "description": "Basic Attacks slow enemy Movement Speed by 25% for 1.5 seconds."
+  },
+  "ThatstheStuff": {
+    "tier": "5",
+    "description": "Minigun heals you for 100% of the bonus damage it deals to Heroes."
+  },
+  "TheBiggerTheyAre": {
+    "tier": "2",
+    "description": "Increases Minigun damage bonus to 4% while enemy Heroes are above 40% Health, but Minigun no longer has any effect on targets below 40%."
+  },
+  "TheCrusadeMarchesOn": {
+    "tier": "3",
+    "description": "Basic and Heroic Abilities lower the cooldown of Iron Skin by 1.5 seconds."
+  },
+  "TheGoodStuff": {
+    "tier": "3",
+    "description": "Healing Brew heals for an additional 62.4 (+4% per level) Health over 6 seconds."
+  },
+  "TheHunt": {
+    "tier": "4",
+    "description": "Charge to target unit, dealing 261.04 (+4% per level) damage on impact and stunning for 1 second."
+  },
+  "TheMastersTouch": {
+    "tier": "3",
+    "description": "Quest: Hit 30 enemy Heroes with Arcane Rift without dying. Reward: Permanently increases the damage dealt by 75 and cooldown reduction for hitting a Hero by 1 second."
+  },
+  "TheNetherCalls": {
+    "tier": "7",
+    "description": "Increases Twisting Nether's slow by 10% and damage by 10% for every second channeled, to a maximum of 40% increase."
+  },
+  "TheSequel": {
+    "tier": "7",
+    "description": "Reduces the Lost Vikings' death timer by 50%."
+  },
+  "TheWillOfGall": {
+    "tier": "7  Gall can activate Will of Gall to make you Unstoppable for 2 seconds.",
+    "description": "60 second cooldown."
+  },
+  "ThickSkin": {
+    "tier": "2",
+    "description": "Using Darkflight reduces the damage taken from the next 2 Hero Basic Attacks by 50% while a Worgen."
+  },
+  "ThingoftheDeep": {
+    "tier": "5",
+    "description": "Increases the range of your Basic Abilities by 25%."
+  },
+  "ThirdWind": {
+    "tier": "2",
+    "description": "Increases Health Restoration rate to 80.08 (+4% per level) per second, and raises Health threshold to 60% Health for improved 159.12 (+4% per level) per second Restoration."
+  },
+  "ThirstingBlade": {
+    "tier": "3",
+    "description": "Betrayer's Thirst's healing from Basic Attacks is increased from 30% to 50% while Sweeping Strike's damage bonus is active."
+  },
+  "ThornwoodVine": {
+    "tier": "4",
+    "description": "Send forth vines that deal 170.56 (+4% per level) damage to all enemies in a line. Can hold 3 charges."
+  },
+  "ThrillofBattle": {
+    "tier": "3",
+    "description": "Activate to double the cooldown reduction from Basic Attacks for 8 seconds."
+  },
+  "ThrilloftheHunt": {
+    "tier": "5",
+    "description": "Your Basic Attacks increase both you and Misha's Movement Speed by 25% for 2 seconds."
+  },
+  "ThrowingAxes": {
+    "tier": "3",
+    "description": "Increases your Basic Attack range by 25%."
+  },
+  "ThunderBurn": {
+    "tier": "2",
+    "description": "Thunder Clap leaves a zone on the ground that explodes after 2 seconds dealing 49.92 (+4% per level) damage and applying a 25% slow for 2.5 seconds."
+  },
+  "ThunderStrike": {
+    "tier": "5",
+    "description": "Thunder Clap deals 300% damage if only one target is hit."
+  },
+  "Thunderstrikes": {
+    "tier": "5",
+    "description": "Lightning Rod deals 20% more damage each subsequent strike."
+  },
+  "TidalWaves": {
+    "tier": "5",
+    "description": "Reduces Chain Heal's cooldown by 1 second for each Hero healed."
+  },
+  "TimeOut": {
+    "tier": "5",
+    "description": "Activate to place yourself in Stasis and gain Invulnerability for up to 7 seconds. Can be reactivated to end the effect early."
+  },
+  "TimelessCreature": {
+    "tier": "1",
+    "description": "Increases the duration of Cloud Serpent by 50%."
+  },
+  "TimelostWisp": {
+    "tier": "2",
+    "description": "Wisp costs no Mana and its cooldown recharges 125% faster while no Wisp is active."
+  },
+  "TimewalkersPursuit": {
+    "tier": "1",
+    "description": "Quest: Gathering a Regeneration Globe increases your Mana Regeneration by 0.102, up to 1.523. Reward: After gathering 15 Globes you also gain 5% Ability Power."
+  },
+  "TissueRegeneration": {
+    "tier": "1",
+    "description": "Quest: Each time you collect 50 Essence, permanently increase your Health Regeneration by 5, up to 50."
+  },
+  "TitanGrenade": {
+    "tier": "6",
+    "description": "Frag Grenade deals bonus damage to Heroes equal to 5% of their maximum Health."
+  },
+  "TitanKiller": {
+    "tier": "6",
+    "description": "Twin Blades attacks against Heroes deal an additional 2.5% of the target's maximum Health in damage."
+  },
+  "ToadAffinity": {
+    "tier": "3",
+    "description": "Plague of Toads restores 5 Mana and reduces its cooldown by 1 second for each enemy hit."
+  },
+  "ToadsofHugeness": {
+    "tier": "5",
+    "description": "Plague of Toads damage and area is increased by 20% after each hop."
+  },
+  "ToothandClaw": {
+    "tier": "7",
+    "description": "Worgen Basic Attacks cleave for 100% damage."
+  },
+  "Torrasque": {
+    "tier": "7",
+    "description": "The Ultralisk morphs into an egg when it dies. If the egg isn't killed within 4 seconds, a new Ultralisk is born."
+  },
+  "TotalRecall": {
+    "tier": "7",
+    "description": "Recall's cooldown is increased by 8 seconds, but it heals you equal to the amount of Health you lost during that time."
+  },
+  "TotemicProjection": {
+    "tier": "3",
+    "description": "Reactivate Earthbind Totem to move an existing totem to a new location once."
+  },
+  "TourBus": {
+    "tier": "7",
+    "description": "Mosh Pit refreshes the cooldown of Powerslide. You can Powerslide during Mosh Pit, which also increases its duration by 2 seconds."
+  },
+  "ToxicGas": {
+    "tier": "3",
+    "description": "Increases Vile Gas' radius by 25% and its damage by 50%."
+  },
+  "TracerRounds": {
+    "tier": "1",
+    "description": "Your Basic Attacks reveal enemies for 4 seconds."
+  },
+  "TragOulsEssence": {
+    "tier": "2",
+    "description": "Gain 8 Mana when you raise a Skeletal Warrior."
+  },
+  "TrailofFrost": {
+    "tier": "5",
+    "description": "Increases Howling Blast's range by 30% and causes it to also root enemies between you and the target for 1.25 seconds."
+  },
+  "Tranquility": {
+    "tier": "4",
+    "description": "Heals 83.2 (+4% per level) Health per second to nearby allied Heroes over 10 seconds."
+  },
+  "Transcendence": {
+    "tier": "1",
+    "description": "Every 3rd Basic Attack heals the lowest nearby allied Hero for 75.92 (+4% per level)."
+  },
+  "Transfusion": {
+    "tier": "7  Increases the duration of Stim Drone by 2 seconds.",
+    "description": "You also gain the effect of Stim Drone when cast on an ally."
+  },
+  "Transgression": {
+    "tier": "7",
+    "description": "Seven-Sided Strike hits 4 additional times."
+  },
+  "TraumaTrigger": {
+    "tier": "1",
+    "description": "You gain an untalented Safeguard automatically if you take damage while below 50% Health. This effect has a 20 second cooldown."
+  },
+  "TriOptimal": {
+    "tier": "3",
+    "description": "The cooldown of Verdant Spheres is refreshed by 2 seconds per target hit with Gravity Lapse."
+  },
+  "TripleStrike": {
+    "tier": "5",
+    "description": "Increases Twin Blades's number of Basic Attacks to 3, but increase its cooldown by 1 second."
+  },
+  "TripleTap": {
+    "tier": "4",
+    "description": "Locks in on the target Hero, then fires 3 shots that hit the first Hero or Structure they come in contact with for 351.52 (+4% per level) damage each."
+  },
+  "Triumvirate": {
+    "tier": "2",
+    "description": "If Arcane Orb hits an enemy Hero after traveling at least 65% of its base range, the cooldown is reduced by 5 seconds."
+  },
+  "TrueshotAura": {
+    "tier": "6",
+    "description": "You passively grant 15% Basic Attack damage to nearby allied Heroes."
+  },
+  "Tufferfish": {
+    "tier": "2",
+    "description": "Pufferfish take an additional attack before being disarmed."
+  },
+  "Tumble": {
+    "tier": "6",
+    "description": "Vault gains an additional charge, allowing it to be cast twice in quick succession."
+  },
+  "TumorClutch": {
+    "tier": "2",
+    "description": "Creep Tumor Mana cost removed. Cooldown decreased to10 seconds."
+  },
+  "TurretStorage": {
+    "tier": "5",
+    "description": "Increases Rock-It! Turret maximum charges from 2 to 3."
+  },
+  "TwilightArchon": {
+    "tier": "7",
+    "description": "Increases Archon's initial Shield and Attack Damage by 50%, and increases Basic Attack range in Archon form by 35%."
+  },
+  "TwilightDream": {
+    "tier": "4",
+    "description": "After a short delay, deal 388.96 (+4% per level) damage in a large area around you, silencing enemies making them unable to use Abilities for 3 seconds. Also passively increases your Mana Regeneration by 1.5."
+  },
+  "TwilightNova": {
+    "tier": "6",
+    "description": "After the first bounce, 2 extra bombs bounce to the sides once."
+  },
+  "TwilightVeil": {
+    "tier": "6",
+    "description": "Consuming Blaze reduces damage taken from Abilities by 50% for 2 seconds per enemy Hero hit."
+  },
+  "TwinSpheres": {
+    "tier": "6",
+    "description": "Verdant Spheres gains a second charge."
+  },
+  "TwistingNether": {
+    "tier": "4",
+    "description": "After 1 second, nearby enemies are slowed by 50% while you channel, up to 5 seconds. Activate to deal 435.75 (+5% per level) damage."
+  },
+  "TwoForOne": {
+    "tier": "6",
+    "description": "Increases the number of allies healed by Healing Brew to 2, but increases the cooldown by 1.5 seconds."
+  },
+  "TyrantMaw": {
+    "tier": "7",
+    "description": "Devouring Maw deals 50% more damage and when you get a Takedown reduce its cooldown by 25 seconds."
+  },
+  "UltimateEvolution": {
+    "tier": "4",
+    "description": "Clone target allied Hero and control it for 20 seconds. Abathur has perfected the clone, granting it 20% Ability Power, 20% bonus Attack Damage, and 10% bonus Movement Speed. Cannot use their Heroic Ability."
+  },
+  "Unbound": {
+    "tier": "2",
+    "description": "Allows Sweeping Strike to go over walls and terrain. If Sweeping Strike doesn't hit any enemies, the cooldown is reduced by 4 seconds."
+  },
+  "Underking": {
+    "tier": "2",
+    "description": "Increases Burrow Charge range by 20% and damage by 100%."
+  },
+  "UnendingHatred": {
+    "tier": "1",
+    "description": "Quest: Every Minion you kill gives you 0.1 Attack Damage. Every Takedown gives 1 Attack Damage. Reward: Once you reach 20 Attack Damage, receive an additional 10 Attack damage."
+  },
+  "UnfairAdvantage": {
+    "tier": "5",
+    "description": "Nature's Toxin deals 50% more damage to Heroes that are slowed."
+  },
+  "UnfetteredAssault": {
+    "tier": "5",
+    "description": "Increases Razor Swipe's lunge distance by 60%."
+  },
+  "UnfurlingSpray": {
+    "tier": "1",
+    "description": "Increases Soothing Mist's range by 20%."
+  },
+  "UnleashtheBoars": {
+    "tier": "4",
+    "description": "Release a herd of boars that track down all enemy Heroes in a direction, dealing 114.4 (+4% per level) damage, revealing, and slowing enemies by 40% for 5 seconds."
+  },
+  "Unleashed": {
+    "tier": "7",
+    "description": "If the free cast of Go for the Throat kills its target, another free cast is provided that deals 35% more damage, up to 140%."
+  },
+  "UnrelentingPursuit": {
+    "tier": "2",
+    "description": "Reduces the cooldown of Ruthless Onslaught by 33.333% upon impact."
+  },
+  "UnstableAnomaly": {
+    "tier": "2",
+    "description": "When Polymorph ends, deal 118.56 (+4% per level) damage to the target and all nearby enemies."
+  },
+  "UnstablePoison": {
+    "tier": "3  Minions that die under the effects of Black Arrows explode, dealing 120.64 (+4% per level) damage to nearby enemies.",
+    "description": "Does not damage Heroes or Structures."
+  },
+  "UnstoppableForce": {
+    "tier": "7",
+    "description": "Increases the duration of Avatar by 30%, and the duration of Disables are reduced by 75% while in Avatar."
+  },
+  "UntappedPotential": {
+    "tier": "7",
+    "description": "Increases duration by 2 seconds. Additionally, gain an extra 5% Movement Speed whenever an enemy is hit, up to 100%."
+  },
+  "Untouchable": {
+    "tier": "2",
+    "description": "Quest: Takedowns increase your Basic Attack damage by 2%, up to 30%. These bonuses are lost on death."
+  },
+  "UnyieldingDespair": {
+    "tier": "6",
+    "description": "Every second Drain Hope is active, its cooldown is reduced by 1 second."
+  },
+  "Updraft": {
+    "tier": "2",
+    "description": "Increases Barrel Roll's range and Shield amount by 40%."
+  },
+  "UpgradedBallistics": {
+    "tier": "2",
+    "description": "Displacement Grenade travels 50% faster and enemies directly impacted take 33% more damage."
+  },
+  "Upheaval": {
+    "tier": "4",
+    "description": "After 1 second pull enemies towards your direction, slowing them by 25% for 3 seconds and dealing 104 (+4% per level) damage."
+  },
+  "UrticatingSpines": {
+    "tier": "5",
+    "description": "Casting Harden Carapace will also deal 83.2 (+4% per level) damage to nearby enemies. Deals double damage against Heroes."
+  },
+  "VampiricAssault": {
+    "tier": "2",
+    "description": "Basic Attacks heal for 15.00% of the damage dealt to the primary target."
+  },
+  "VampiricStrike": {
+    "tier": "2",
+    "description": "Basic Attacks heal for 25.00% of the damage dealt to the primary target."
+  },
+  "Vengeance": {
+    "tier": "7",
+    "description": "Strafe also fires penetrating bolts in a line for 35.36 (+4% per level) damage every 0.25 seconds."
+  },
+  "VengefulRoots": {
+    "tier": "2",
+    "description": "Entangling Roots also spawns a Treant that does 66.56 (+4% per level) damage per second and lasts 10 seconds."
+  },
+  "VentralSacs": {
+    "tier": "3",
+    "description": "(PH) Infested Drop spawns 3 Roachlings and they take 25% reduced damage from non-Heroes."
+  },
+  "Versatile": {
+    "tier": "2",
+    "description": "Increases the Mana return of Innervate to 30%."
+  },
+  "Viciousness": {
+    "tier": "1",
+    "description": "Increases Inner Beast's duration to 4 seconds, and causes Ability damage to also refresh its duration."
+  },
+  "Victuals": {
+    "tier": "1",
+    "description": "Heal for 3% of your Maximum Health when you collect Fresh Meat. Meat continues to drop at maximum stacks."
+  },
+  "VigorousAssault": {
+    "tier": "2",
+    "description": "Basic Attacks heal for 15% of the damage dealt to the primary target."
+  },
+  "VigorousStrike": {
+    "tier": "2",
+    "description": "Basic Attacks heal for 25% of the damage dealt to the primary target."
+  },
+  "VikingBribery": {
+    "tier": "1  Kill enemy Minions to gain stacks of Bribe.  Use 40 stacks to bribe target Mercenary, instantly defeating them.",
+    "description": "Does not work on Bosses."
+  },
+  "VikingFuryoftheStorm": {
+    "tier": "7  Every 5 seconds, your next Basic Attack will deal an additional 42.64 (+4% per level) damage to the target, and 109.2 (+4% per level) damage to all nearby Minions and Mercenaries.",
+    "description": "Each Viking has their own cooldown."
+  },
+  "VileCleaver": {
+    "tier": "2",
+    "description": "Basic Attacks create a cloud of Vile Gas on the target."
+  },
+  "VileNest": {
+    "tier": "3",
+    "description": "Toxic Nests slow enemy Movement Speed by 40% for 2.5 seconds."
+  },
+  "VisceralAttacks": {
+    "tier": "5",
+    "description": "Worgen Basic Attacks reduce Razor Swipe's cooldown by 1 second."
+  },
+  "ViscousAcid": {
+    "tier": "3",
+    "description": "Banelings slow enemies by 20% for 1.5 seconds."
+  },
+  "VoidPrison": {
+    "tier": "4",
+    "description": "Slows time in an area to a near standstill, making allies and enemies invulnerable and unable to act for 5 seconds. You are not affected."
+  },
+  "VoidSlash": {
+    "tier": "3",
+    "description": "Cleave deals 30% increased damage if used from Cloak or within 1 second of being Cloaked."
+  },
+  "VolatileAcid": {
+    "tier": "1",
+    "description": "Banelings can travel 50% further before exploding and their damage to Minions, Mercenaries, and Structures is increased by 50%."
+  },
+  "VolatileMutation": {
+    "tier": "6",
+    "description": "Ultimate Evolution clones and Monstrosities deal 142.48 (+4% per level) damage to nearby enemies every 3 seconds and when they die."
+  },
+  "VorpalBlade": {
+    "tier": "2",
+    "description": "Activate to teleport to the last non-structure target you attacked within 3 seconds."
+  },
+  "WailingArrow": {
+    "tier": "4",
+    "description": "Shoot an arrow that can be reactivated to deal 237.12 (+4% per level) damage and silence enemies in an area making them unable to use Abilities for 2.5 seconds. The arrow detonates automatically when it reaches maximum range."
+  },
+  "WanderingKeg": {
+    "tier": "4",
+    "description": "Roll around inside an Unstoppable barrel, dealing 61.36 (+4% per level) damage to enemies in the way and knocking them back. Lasts for 5 seconds."
+  },
+  "WarPaint": {
+    "tier": "1",
+    "description": "Basic Attacks heal you for 30% of the damage dealt."
+  },
+  "WarpSickness": {
+    "tier": "3",
+    "description": "Phase Prism also slows the enemy's Movement Speed by 35% for 4 seconds."
+  },
+  "WaterDragon": {
+    "tier": "4",
+    "description": "Summon a Water Dragon that after a delay hits the nearest enemy Hero and all enemies near them, dealing 330.72 (+4% per level) damage and slowing their Movement Speed by 70% for 4 seconds."
+  },
+  "WaveOfForce": {
+    "tier": "4",
+    "description": "Knock away all enemies from an area and deal 168 (+5% per level) damage."
+  },
+  "WaveofLight": {
+    "tier": "1",
+    "description": "Each Hero healed by Holy Radiance returns 8 Mana and reduces the cooldown by 1 second, up to a maximum of 40 Mana and 5 seconds."
+  },
+  "WayoftheHundredFists": {
+    "tier": "3",
+    "description": "Radiant Dashing to an enemy causes you to launch a volley of blows dealing 255.84 (+4% per level) total damage instead of a Basic Attack."
+  },
+  "Weaken": {
+    "tier": "3",
+    "description": "Increases Cursed Strikes Attack Speed slow from 40% to 75%."
+  },
+  "WhirlingDervish": {
+    "tier": "5",
+    "description": "Reduces the duration of stuns, slows, and roots against your Hero while Dark Swarm is active by 50%."
+  },
+  "WildVigor": {
+    "tier": "3",
+    "description": "Using Crippling Spores increases the damage of your next 4 Basic Attacks by 50%."
+  },
+  "WildfireBear": {
+    "tier": "5",
+    "description": "Misha deals 29.12 (+4% per level) damage per second to nearby enemies."
+  },
+  "WillofHeaven": {
+    "tier": "6",
+    "description": "Allies with Bestow Hope gain 20% Attack Speed."
+  },
+  "WilloftheForsaken": {
+    "tier": "5",
+    "description": "Activate to become Unstoppable and gain 30% Movement Speed for 3 seconds."
+  },
+  "WillingVessel": {
+    "tier": "2",
+    "description": "Increases the healing from Drain Hope to 30% of your maximum Health and Drain Essence to 15% of your maximum Health."
+  },
+  "WindShear": {
+    "tier": "3",
+    "description": "Reduces the cooldown of Windfury by 4 seconds."
+  },
+  "WindTunnel": {
+    "tier": "7",
+    "description": "Mighty Gust creates a wind tunnel for 4 seconds. Enemies caught in the tunnel will periodically be pushed back."
+  },
+  "Windrunner": {
+    "tier": "5",
+    "description": "Teleporting with Haunting Wave fully recharges your Withering Fire. Haunting Wave can be cast a second time for free within 5 seconds after teleporting."
+  },
+  "WindsofCelerity": {
+    "tier": "5",
+    "description": "Increases Raven Form's Movement Speed bonus by 50%."
+  },
+  "WintersReach": {
+    "tier": "1",
+    "description": "Increases the range of Frostbolt by 30%."
+  },
+  "Wintermute": {
+    "tier": "7",
+    "description": "Increases the cast range of Water Elemental by 50%, and the Water Elemental will now mimic your Basic Abilities for 50% damage."
+  },
+  "WiththeWind": {
+    "tier": "2",
+    "description": "Increases Withering Fire's range by 25%."
+  },
+  "WitheringBarrage": {
+    "tier": "2",
+    "description": "Increase Withering Fire charges by 1. Charges can be fired 33% faster."
+  },
+  "WizenedDuelist": {
+    "tier": "3",
+    "description": "Quest: Hero takedowns increase Basic Attack damage by 3%, up to 30%. This bonus is lost on death."
+  },
+  "WolfRun": {
+    "tier": "1",
+    "description": "Increases the Movement Speed of Ghost Wolf from 30% to 40%."
+  },
+  "Wolfheart": {
+    "tier": "1",
+    "description": "While Inner Beast is active, each Basic Attack lowers its cooldown by 0.8 seconds."
+  },
+  "Worldbreaker": {
+    "tier": "7",
+    "description": "Sundering travels indefinitely."
+  },
+  "Wormhole": {
+    "tier": "5",
+    "description": "For 2 seconds, you can activate Blink again to return to the point where it was cast from."
+  },
+  "WrathofCod": {
+    "tier": "5",
+    "description": "Increase Pufferfish's damage by 35% against Slimed targets."
+  },
+  "WrathofHeaven": {
+    "tier": "6",
+    "description": "Allies with Bestow Hope gain 10% Ability Power."
+  },
+  "WrathoftheBerserker": {
+    "tier": "4",
+    "description": "Increase damage dealt by 40%. Reduce the duration of stuns, slows, and roots against you by 50%. Lasts 15 seconds, and extends by 1 second for every 10 Fury gained."
+  },
+  "XTraLargeBombs": {
+    "tier": "5",
+    "description": "Increases Xplodium Charge range and radius by 30%."
+  },
+  "ZealotCharge": {
+    "tier": "6",
+    "description": "Increase Twin Blades' charge distance by 100%."
+  },
+  "Zealotry": {
+    "tier": "3",
+    "description": "Increases the duration of Righteousness by 50%, and reduces its cooldown by 2 seconds."
+  },
+  "ZeisVengeance": {
+    "tier": "3",
+    "description": "Arcane Orb does an additional 25% more damage to enemies far away."
+  }
+}
