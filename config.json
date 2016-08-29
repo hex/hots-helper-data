@@ -1,0 +1,10 @@
+{
+  "updated": "2016-08-29T11:52:11.057Z",
+  "endpoints": {
+    "heroes": "https://raw.githubusercontent.com/hex/hots-crawler/master/data/heroes.json"
+  },
+  "assetBundlesURL": "https://s3.amazonaws.com/hots.helper/AssetBundles/",
+  "assetBundles": {
+    "heroGraphics": "heroes"
+  }
+}
