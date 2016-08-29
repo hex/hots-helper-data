@@ -1,7 +1,7 @@
 {
   "updated": "2016-08-29T12:01:58.294Z",
   "endpoints": {
-    "heroes": "https://raw.githubusercontent.com/hex/hots-crawler/master/data/heroes.json"
+    "heroes": "https://raw.githubusercontent.com/hex/hots-helper-data/master/heroes.json"
   },
   "assetBundlesURL": "https://s3.amazonaws.com/hots.helper/AssetBundles/",
   "assetBundles": {
