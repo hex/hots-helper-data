@@ -230,7 +230,7 @@
           "name": "Advanced Artillery",
           "description": "Increase damage to distant enemies",
           "longDescription": "Increase the damage bonus to long distance enemies by 10%.",
-          "winRate": 53.8,
+          "winRate": 53.7,
           "popularity": 54.8,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AdvancedArtillery.png"
         },
@@ -238,15 +238,15 @@
           "name": "Resistant",
           "description": "Disabling effects reduced while in Siege Mode",
           "longDescription": "While in Siege Mode, the duration of Stuns, Slows, and Roots are reduced by 75%.",
-          "winRate": 6,
-          "popularity": 51.8,
+          "winRate": 5.9,
+          "popularity": 51.7,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Resistant.png"
         },
         {
           "name": "Ambush",
           "description": "Stealth and extra damage in Siege Mode",
           "longDescription": "Stealth when entering Siege Mode. Your next Basic Attack from Siege Mode will deal 100% more damage. Lose Stealth when Basic Attacking, using an Ability, taking damage, or returning to Tank Mode.",
-          "winRate": 29.1,
+          "winRate": 29.2,
           "popularity": 54.9,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Ambush.png"
         },
@@ -272,8 +272,8 @@
           "name": "Focused Attack",
           "description": "Periodically empower Basic Attacks against Heroes",
           "longDescription": "Every 10 seconds, your next Basic Attack against a Hero deals 60% additional damage. Basic Attacks reduce this cooldown by 1 second.",
-          "winRate": 62.8,
-          "popularity": 55.3,
+          "winRate": 62.9,
+          "popularity": 55.2,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png"
         },
         {
@@ -291,7 +291,7 @@
           "description": "Increase slow amount and duration",
           "longDescription": "Increase the Movement Speed slow of Spider Mines to 40%, and the duration to 2 seconds.",
           "winRate": 2.4,
-          "popularity": 53.9,
+          "popularity": 53.6,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SlowingMines.png"
         },
         {
@@ -299,7 +299,7 @@
           "description": "Thrusters cooldown reduced",
           "longDescription": "Reduce the cooldown of Thrusters by 10 seconds.",
           "winRate": 28.3,
-          "popularity": 53.1,
+          "popularity": 53.2,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HyperCoolingEngines.png"
         },
         {
@@ -325,7 +325,7 @@
           "description": "Fire damaging napalm at enemies",
           "longDescription": "Deals 170.56 (+4% per level) damage on impact, and leaves a napalm area that deals 52 (+4% per level) damage per second. Lasts for 4 seconds.",
           "winRate": 64.2,
-          "popularity": 55,
+          "popularity": 54.9,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NapalmStrike.png"
         }
       ],
@@ -334,7 +334,7 @@
           "name": "Giant Killer",
           "description": "Empowers your Basic Attacks against Heroes",
           "longDescription": "Basic Attacks against enemy Heroes deal bonus damage equal to 1.5% of the Hero's maximum Health.",
-          "winRate": 61.6,
+          "winRate": 61.7,
           "popularity": 54.9,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GiantKiller.png"
         },
@@ -351,15 +351,15 @@
           "description": "Middle Spider Mine knocks back",
           "longDescription": "Middle Spider Mine knocks target back a short distance.",
           "winRate": 1.9,
-          "popularity": 55.8,
+          "popularity": 55.5,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BullheadMines.png"
         },
         {
           "name": "Barricade",
           "description": "Concussive Blast creates a wall",
           "longDescription": "Create a wall of path blocking debris for 4 seconds.",
-          "winRate": 7,
-          "popularity": 49.7,
+          "winRate": 6.9,
+          "popularity": 49.3,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Barricade.png"
         }
       ],
@@ -377,7 +377,7 @@
           "description": "Spawn 2 more mines",
           "longDescription": "Increase the number of mines by 2.",
           "winRate": 2,
-          "popularity": 55.9,
+          "popularity": 55.2,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MineField.png"
         },
         {
@@ -385,7 +385,7 @@
           "description": "Move slowly in Siege Mode",
           "longDescription": "You can move at 50% Movement Speed in Siege Mode.",
           "winRate": 25.1,
-          "popularity": 60.6,
+          "popularity": 60.5,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HoverSiegeMode.png"
         },
         {
@@ -393,7 +393,7 @@
           "description": "Gradually increase range in Siege Mode",
           "longDescription": "While in Siege Mode your standard Basic Attack range increases by 20% every 3 seconds, up to 100%.",
           "winRate": 58.5,
-          "popularity": 60.1,
+          "popularity": 60.2,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GraduatingRange.png"
         },
         {
@@ -401,7 +401,7 @@
           "description": "Activate to gain a Shield",
           "longDescription": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.",
           "winRate": 6.8,
-          "popularity": 51.2,
+          "popularity": 51,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneskin.png"
         }
       ],
@@ -410,7 +410,7 @@
           "name": "Orbital BFG",
           "description": "BFG repeatedly travels through the map",
           "longDescription": "Blunt Force Gun's missile orbits the planet every 5 seconds. Only the last missile fired orbits.",
-          "winRate": 23.4,
+          "winRate": 23.3,
           "popularity": 66.6,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/OrbitalBFG.png"
         },
@@ -418,8 +418,8 @@
           "name": "Advanced Lava Strike",
           "description": "Increased range and impact damage",
           "longDescription": "Napalm Strike's range is increased by 75% and its impact does 50% more damage.",
-          "winRate": 8,
-          "popularity": 58.1,
+          "winRate": 7.9,
+          "popularity": 57.9,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AdvancedLavaStrike.png"
         },
         {
@@ -435,7 +435,7 @@
           "description": "Increases Attack Speed and Range",
           "longDescription": "Increases Attack Speed by 20% and Attack Range by 20%.",
           "winRate": 65.7,
-          "popularity": 67.2,
+          "popularity": 67.1,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusFrenzy.png"
         }
       ]
@@ -644,8 +644,8 @@
           "name": "Siphoning Impact",
           "description": "Ravage heals Kerrigan",
           "longDescription": "If the targeted enemy dies within 1.5 seconds, Kerrigan heals for 10.15% of her maximum Health.",
-          "winRate": 31.3,
-          "popularity": 49.6,
+          "winRate": 31.2,
+          "popularity": 49.5,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SiphoningImpact.png"
         },
         {
@@ -653,7 +653,7 @@
           "description": "Impaling Blades deals more damage",
           "longDescription": "Impaling Blades deals 25% more damage.",
           "winRate": 57.5,
-          "popularity": 55.1,
+          "popularity": 55.2,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SharpenedBlades.png"
         },
         {
@@ -679,7 +679,7 @@
           "description": "Ravage refunds Mana on kill and increases damage",
           "longDescription": "If Ravage kills the target, it restores 75% of its Mana cost and increases the damage of your next Ravage by 25%.",
           "winRate": 27.8,
-          "popularity": 48.5,
+          "popularity": 48.4,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CleanKill.png"
         },
         {
@@ -687,7 +687,7 @@
           "description": "Damage nearby enemies",
           "longDescription": "After casting Primal Grasp, deal 37.44 (+4% per level) damage per second to nearby enemies. Lasts 5 seconds.",
           "winRate": 46.1,
-          "popularity": 56.3,
+          "popularity": 56.4,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PsionicPulse.png"
         },
         {
@@ -737,7 +737,7 @@
           "description": "Basic Attacks reduce Ability cooldowns",
           "longDescription": "Basic Attacks reduce your Basic Ability cooldowns by 0.6 seconds.",
           "winRate": 49,
-          "popularity": 55.9,
+          "popularity": 56,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BladedMomentum.png"
         }
       ],
@@ -755,7 +755,7 @@
           "description": "Summon an Ultralisk to chase a target",
           "longDescription": "Summon an Ultralisk that attacks the target to deal 104 (+4% per level) damage. Attacks splash to nearby enemies for 50% damage. Can reactivate the Ability to retarget the Ultralisk. Lasts for 20 seconds.",
           "winRate": 6.1,
-          "popularity": 53.3,
+          "popularity": 53.4,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SummonUltralisk.png"
         }
       ],
@@ -780,8 +780,8 @@
           "name": "Queen's Rush",
           "description": "Takedowns increase Move Speed",
           "longDescription": "Activate to increase your Movement Speed by 30% for 4 seconds. Queen's Rush is also applied for free on Takedowns.",
-          "winRate": 4.9,
-          "popularity": 50.4,
+          "winRate": 4.8,
+          "popularity": 50.3,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/QueensRush.png"
         }
       ],
@@ -799,7 +799,7 @@
           "description": "Activate to steal Health from your target",
           "longDescription": "Activate to deal 10% of target enemy Hero's Max Health and gain Assimilation Shields for twice that amount.",
           "winRate": 15.4,
-          "popularity": 55.6,
+          "popularity": 55.7,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EssenceforEssence.png"
         },
         {
@@ -807,7 +807,7 @@
           "description": "Activate to empower your Abilities for extra Mana",
           "longDescription": "Activate to increase Ability Power by 25% and Mana costs by 40% for 5 seconds.",
           "winRate": 3,
-          "popularity": 54.1,
+          "popularity": 54.2,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Overdrive.png"
         }
       ],
@@ -824,7 +824,7 @@
           "name": "Torrasque",
           "description": "Ultralisk spawns a new Ultralisk on death",
           "longDescription": "The Ultralisk morphs into an egg when it dies. If the egg isn't killed within 4 seconds, a new Ultralisk is born.",
-          "winRate": 2.7,
+          "winRate": 2.8,
           "popularity": 63.3,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Torrasque.png"
         },
@@ -833,7 +833,7 @@
           "description": "Basic Attacks deal more damage and slow",
           "longDescription": "Basic Attacks deal 20% more damage and slow enemy Movement Speed by 20% for 1 second.",
           "winRate": 33,
-          "popularity": 68.5,
+          "popularity": 68.4,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusBlades.png"
         },
         {
@@ -841,7 +841,7 @@
           "description": "Activate to teleport a short distance",
           "longDescription": "Activate to teleport to a nearby location.",
           "winRate": 30.2,
-          "popularity": 64.2,
+          "popularity": 64.3,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png"
         }
       ]
@@ -1294,7 +1294,7 @@
           "description": "Increases range",
           "longDescription": "Increases the range of Frostbolt by 30%.",
           "winRate": 26.3,
-          "popularity": 51.5,
+          "popularity": 51.4,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WintersReach.png"
         },
         {
@@ -1310,7 +1310,7 @@
           "description": "Increases slow amount",
           "longDescription": "Increases the slow of Chill from 25% to 30%.",
           "winRate": 20.1,
-          "popularity": 52.6,
+          "popularity": 52.7,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeepChill.png"
         },
         {
@@ -1328,7 +1328,7 @@
           "description": "Pierces first target",
           "longDescription": "Frostbolt will now pierce the first target to hit an additional target behind them.",
           "winRate": 31.4,
-          "popularity": 53,
+          "popularity": 52.9,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FrostShards.png"
         },
         {
@@ -1354,15 +1354,15 @@
           "description": "Increases area and cooldown reduction",
           "longDescription": "Doubles the width of Cone of Cold and causes each target hit to reduce its cooldown by 1 second, to a maximum of 5 seconds per cast.",
           "winRate": 9,
-          "popularity": 51.3,
+          "popularity": 51.4,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/IceFloes.png"
         },
         {
           "name": "Frostbitten",
           "description": "Increases damage bonus",
           "longDescription": "Increases the damage bonus of Frostbite from 50% to 65%.",
-          "winRate": 72.8,
-          "popularity": 52.5,
+          "winRate": 72.9,
+          "popularity": 52.6,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Frostbitten.png"
         },
         {
@@ -1388,7 +1388,7 @@
           "description": "Summons Water Elemental to fight for you",
           "longDescription": "Lasts 20 seconds.",
           "winRate": 6.3,
-          "popularity": 51.8,
+          "popularity": 51.9,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SummonWaterElemental.png"
         }
       ],
@@ -1406,7 +1406,7 @@
           "description": "Ability damage dealt gives Jaina Shields",
           "longDescription": "When Jaina does increased damage from Frostbite, she is shielded for 25% of the total damage dealt. This Shield lasts 4 seconds.",
           "winRate": 45.3,
-          "popularity": 54.5,
+          "popularity": 54.6,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/IceBarrier.png"
         },
         {
@@ -1414,7 +1414,7 @@
           "description": "Reduces cooldowns and Mana costs",
           "longDescription": "Activate to make your Basic Abilities' cooldowns recharge three times as fast and reduce their Mana cost by 50% for 5 seconds.",
           "winRate": 18.6,
-          "popularity": 54.2,
+          "popularity": 54.1,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/IcyVeins.png"
         }
       ],
@@ -1440,7 +1440,7 @@
           "description": "Roots Chilled targets",
           "longDescription": "Cone of Cold also roots Chilled targets for 1 second.",
           "winRate": 15.8,
-          "popularity": 55.1,
+          "popularity": 55,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NumbingBlast.png"
         }
       ],
@@ -1449,7 +1449,7 @@
           "name": "Cold Snap",
           "description": "Secondary frost explosion occurs",
           "longDescription": "The center of the ring also explodes with frost after the first ring expires.",
-          "winRate": 25.7,
+          "winRate": 25.6,
           "popularity": 63,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ColdSnap.png"
         },
@@ -1458,14 +1458,14 @@
           "description": "Increases cast range and Elemental mimics Basic Abilities",
           "longDescription": "Increases the cast range of Water Elemental by 50%, and the Water Elemental will now mimic your Basic Abilities for 50% damage.",
           "winRate": 3.2,
-          "popularity": 63.2,
+          "popularity": 63.3,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Wintermute.png"
         },
         {
           "name": "Improved Ice Block",
           "description": "Gain Invulnerability and Chill enemies",
           "longDescription": "Activate to place yourself in Stasis and gain Invulnerability for 2.5 seconds. When this effect expires, nearby enemies are Chilled.",
-          "winRate": 56.8,
+          "winRate": 56.9,
           "popularity": 62.4,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ImprovedIceBlock.png"
         },
@@ -1474,7 +1474,7 @@
           "description": "Increases Spell Damage and restores Mana",
           "longDescription": "Activate to instantly restore 400 Mana and increase Ability Power by 15% for 10 seconds.",
           "winRate": 14.3,
-          "popularity": 64.7,
+          "popularity": 64.8,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ArcanePower.png"
         }
       ]
@@ -1967,14 +1967,14 @@
           "description": "Regen Globes increase Health Regen",
           "longDescription": "Quest: Gathering a Regeneration Globe increases your Health Regeneration by 1 per second, up to 30. Reward: After gathering 30 Regeneration Globes, you also gain 500 Health.",
           "winRate": 58.4,
-          "popularity": 53,
+          "popularity": 53.2,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png"
         },
         {
           "name": "Keg Toss",
           "description": "Increase Keg Smash range",
           "longDescription": "Increase Keg Smash range by 125%.",
-          "winRate": 1.9,
+          "winRate": 2,
           "popularity": null,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/KegToss.png"
         },
@@ -1982,7 +1982,7 @@
           "name": "Grounding Brew",
           "description": "Fortifying Brew reduces Ability Damage",
           "longDescription": "Fortifying Brew reduces all incoming Ability Damage by 25% while drinking.",
-          "winRate": 28.9,
+          "winRate": 28.8,
           "popularity": 49.8,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GroundingBrew.png"
         },
@@ -1991,7 +1991,7 @@
           "description": "Increase duration of the burn from Breath of Fire",
           "longDescription": "Breath of Fire's burn effect when used on Brew-soaked targets is increased by 2 seconds.",
           "winRate": 10.8,
-          "popularity": 52.4,
+          "popularity": 52.5,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ConsumingFlame.png"
         }
       ],
@@ -2009,7 +2009,7 @@
           "description": "Increase damage of Flying Kick",
           "longDescription": "Increase the damage of Flying Kick by 50%.",
           "winRate": 10.2,
-          "popularity": 48,
+          "popularity": 48.4,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeadlyStrike.png"
         },
         {
@@ -2017,7 +2017,7 @@
           "description": "All healing effects increased",
           "longDescription": "Increases regeneration effects and all healing received by 30%.",
           "winRate": 70,
-          "popularity": 53.5,
+          "popularity": 53.6,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AmplifiedHealing.png"
         },
         {
@@ -2025,7 +2025,7 @@
           "description": "Increases Breath of Fire size and reduces Brew cost",
           "longDescription": "Increases Breath of Fire's range and arc by 30% and the Brew cost is reduced by 10.",
           "winRate": 3.7,
-          "popularity": 43.3,
+          "popularity": 43.6,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeepBreath.png"
         }
       ],
@@ -2042,7 +2042,7 @@
           "name": "Combat Stance",
           "description": "Shields from Fortifying Brew last longer",
           "longDescription": "Shields from Fortifying Brew last for an additional 3 seconds after drinking stops.",
-          "winRate": 7.6,
+          "winRate": 7.5,
           "popularity": 47,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CombatStance.png"
         },
@@ -2051,7 +2051,7 @@
           "description": "Gain bonuses based on current level of Brew",
           "longDescription": "While at or below 50 Brew, gain 20% Movement Speed. While at or above 50 Brew, regenerate an additional 18.72 (+4% per level) Health per second.",
           "winRate": 85.9,
-          "popularity": 52.8,
+          "popularity": 52.9,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BrewmastersBalance.png"
         },
         {
@@ -2069,7 +2069,7 @@
           "description": "Roll around in the barrel and knock away enemies",
           "longDescription": "Roll around inside an Unstoppable barrel, dealing 61.36 (+4% per level) damage to enemies in the way and knocking them back. Lasts for 5 seconds.",
           "winRate": 69,
-          "popularity": 52.2,
+          "popularity": 52.4,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WanderingKeg.png"
         },
         {
@@ -2094,16 +2094,16 @@
           "name": "A Touch of Honey",
           "description": "Increase Keg Smash slow",
           "longDescription": "Increase the slow from Keg Smash to 40%.",
-          "winRate": 13.2,
-          "popularity": 52.9,
+          "winRate": 13.3,
+          "popularity": 53.3,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ATouchofHoney.png"
         },
         {
           "name": "Enough to Share",
           "description": "Fortifying Brew Shields nearby allied Heroes",
           "longDescription": "Fortifying Brew also Shields nearby allied Heroes for 56.16 (+4% per level) per second.",
-          "winRate": 49.7,
-          "popularity": 53.3,
+          "winRate": 49.6,
+          "popularity": 53.4,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EnoughtoShare.png"
         },
         {
@@ -2111,7 +2111,7 @@
           "description": "Halves duration of disables",
           "longDescription": "Reduces the duration of stuns, slows, and roots against your Hero by 50%.",
           "winRate": 33.3,
-          "popularity": 51.5,
+          "popularity": 51.6,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Relentless.png"
         }
       ],
@@ -2128,16 +2128,16 @@
           "name": "Bolder Flavor",
           "description": "Increase Shields from Fortifying Brew",
           "longDescription": "Increase Shield generation rate and maximum amount from Fortifying Brew by 40%.",
-          "winRate": 29.3,
-          "popularity": 52.1,
+          "winRate": 29.2,
+          "popularity": 52.2,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BolderFlavor.png"
         },
         {
           "name": "Pressure Point",
           "description": "Flying Kick massively slows target",
           "longDescription": "Flying Kick slows the target enemy by 90% for 1 second.",
-          "winRate": 60.6,
-          "popularity": 56,
+          "winRate": 60.7,
+          "popularity": 56.1,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PressurePoint.png"
         },
         {
@@ -2145,7 +2145,7 @@
           "description": "Bonus damage on next Basic Attack after using Flying Kick",
           "longDescription": "The next Basic Attack after using Flying Kick deals 100% bonus damage.",
           "winRate": 6.9,
-          "popularity": 57.8,
+          "popularity": 58,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CombinationAttack.png"
         }
       ],
@@ -2155,7 +2155,7 @@
           "description": "Increases duration and impacts increase Movement Speed",
           "longDescription": "Increases duration by 2 seconds. Additionally, gain an extra 5% Movement Speed whenever an enemy is hit, up to 100%.",
           "winRate": 11.7,
-          "popularity": 58.4,
+          "popularity": 58.6,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/UntappedPotential.png"
         },
         {
@@ -2171,15 +2171,15 @@
           "description": "Activate to gain a Shield",
           "longDescription": "Activate to reduce damage taken by 75% for 4 seconds.",
           "winRate": 51.4,
-          "popularity": 60.7,
+          "popularity": 60.8,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png"
         },
         {
           "name": "Bolt of the Storm",
           "description": "Activate to teleport a short distance",
           "longDescription": "Activate to teleport to a nearby location.",
-          "winRate": 16.8,
-          "popularity": 67.9,
+          "winRate": 16.9,
+          "popularity": 67.6,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png"
         }
       ]
@@ -2202,7 +2202,7 @@
           "description": "Regen Globes increase Mana Regeneration",
           "longDescription": "Quest: Gathering Regeneration Globes increases your Mana Regeneration by 0.102 per second, up to 2.538 per second. Reward: After gathering 25 Globes, also increase your maximum Mana by 100.",
           "winRate": 48.7,
-          "popularity": 49.8,
+          "popularity": 49.7,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ConjurersPursuit.png"
         },
         {
@@ -2210,7 +2210,7 @@
           "description": "Increases Healing Brew range",
           "longDescription": "Increases the range of Healing Brew by 30%.",
           "winRate": 12.8,
-          "popularity": 47.3,
+          "popularity": 47.4,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ProToss.png"
         },
         {
@@ -2226,7 +2226,7 @@
           "description": "Increases Blinding Wind damage",
           "longDescription": "Increases Blinding Wind damage by 50%.",
           "winRate": 15,
-          "popularity": 52.1,
+          "popularity": 52,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GaleForce.png"
         }
       ],
@@ -2236,7 +2236,7 @@
           "description": "Activate to place a ward which heals in an area",
           "longDescription": "Activate to place a ward on the ground that heals allies in an area for 1.95% of their maximum Health every second for 10 seconds.",
           "winRate": 9.2,
-          "popularity": 46.2,
+          "popularity": 46.1,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HealingWard.png"
         },
         {
@@ -2259,8 +2259,8 @@
           "name": "Lingering Blind",
           "description": "Increases the duration of Blinding Wind",
           "longDescription": "Increases the duration of Blinding Wind by 50%.",
-          "winRate": 6.7,
-          "popularity": 50.7,
+          "winRate": 6.6,
+          "popularity": 50.8,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LingeringBlind.png"
         }
       ],
@@ -2277,7 +2277,7 @@
           "name": "The Good Stuff",
           "description": "Healing Brew also heals over time",
           "longDescription": "Healing Brew heals for an additional 62.4 (+4% per level) Health over 6 seconds.",
-          "winRate": 46.8,
+          "winRate": 46.9,
           "popularity": 51.3,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TheGoodStuff.png"
         },
@@ -2285,8 +2285,8 @@
           "name": "Lightning Serpent",
           "description": "Cloud Serpent's attacks bounce",
           "longDescription": "Cloud Serpent's attacks bounce to 3 nearby enemy targets, dealing 15.6 (+4% per level) damage each.",
-          "winRate": 25,
-          "popularity": 56.3,
+          "winRate": 24.9,
+          "popularity": 56.2,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LightningSerpent.png"
         },
         {
@@ -2304,7 +2304,7 @@
           "description": "Rapidly heal nearby allies",
           "longDescription": "Rapidly tosses brew to the most injured nearby allies, prioritizing Heroes, restoring a total of 1697.28 (+4% per level) Health over 6 seconds.",
           "winRate": 91.1,
-          "popularity": 51.2,
+          "popularity": 51.1,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Jugof1000Cups.png"
         },
         {
@@ -2312,7 +2312,7 @@
           "description": "Damages and heavily slows nearest enemy Hero",
           "longDescription": "Summon a Water Dragon that after a delay hits the nearest enemy Hero and all enemies near them, dealing 330.72 (+4% per level) damage and slowing their Movement Speed by 70% for 4 seconds.",
           "winRate": 8.9,
-          "popularity": 56.3,
+          "popularity": 56.2,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WaterDragon.png"
         }
       ],
@@ -2346,7 +2346,7 @@
           "description": "Activate to reduce an enemy Hero's damage",
           "longDescription": "Activate to reduce an enemy Hero's damage by 50% and Movement Speed by 50% for 4 seconds.",
           "winRate": 35.5,
-          "popularity": 52.4,
+          "popularity": 52.3,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShrinkRay.png"
         }
       ],
@@ -2356,7 +2356,7 @@
           "description": "Periodically reduces Stuns or Roots",
           "longDescription": "Reduces the duration of the next Stun or Root against you by 75%. Can only trigger once every 10 seconds.",
           "winRate": 9.1,
-          "popularity": 50.5,
+          "popularity": 50.7,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShakeItOff.png"
         },
         {
@@ -2364,14 +2364,14 @@
           "description": "Increases Fast Feet Move Speed",
           "longDescription": "Increases Fast Feet's Movement Speed bonus from 10% to 20%.",
           "winRate": 7.5,
-          "popularity": 52.2,
+          "popularity": 52,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SafetySprint.png"
         },
         {
           "name": "Two For One",
           "description": "Healing Brew heals twice but longer cooldown",
           "longDescription": "Increases the number of allies healed by Healing Brew to 2, but increases the cooldown by 1.5 seconds.",
-          "winRate": 48.8,
+          "winRate": 48.9,
           "popularity": 53.7,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TwoForOne.png"
         },
@@ -2379,8 +2379,8 @@
           "name": "Serpent Sidekick",
           "description": "Also gives you a Cloud Serpent when cast on allies",
           "longDescription": "You also gain a Cloud Serpent whenever you cast it on another ally.",
-          "winRate": 34.6,
-          "popularity": 59.6,
+          "winRate": 34.5,
+          "popularity": 59.5,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SerpentSidekick.png"
         }
       ],
@@ -2398,7 +2398,7 @@
           "description": "Summons two dragons",
           "longDescription": "After hitting a target with Water Dragon, another dragon is summoned at the point of impact.",
           "winRate": 4.5,
-          "popularity": 71.6,
+          "popularity": 71.5,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DoubleDragon.png"
         },
         {
@@ -2444,7 +2444,7 @@
           "name": "Block",
           "description": "Periodically reduces incoming Basic Attacks",
           "longDescription": "Stores up to 2 charges.",
-          "winRate": 9.7,
+          "winRate": 9.6,
           "popularity": 53.2,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Block.png"
         },
@@ -2452,7 +2452,7 @@
           "name": "Rolling Thunder",
           "description": "Increases Chain Lightning range and attacks restore Mana",
           "longDescription": "Increases Chain Lightning's range by 30% and attacking enemies recently hit by Chain Lightning restores 10 Mana.",
-          "winRate": 77.3,
+          "winRate": 77.4,
           "popularity": 51.7,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RollingThunder.png"
         },
@@ -2461,14 +2461,14 @@
           "description": "Feral Spirit grants more Frostwolf Resilience",
           "longDescription": "Damaging Heroes with Feral Spirit grants 3 stacks of Frostwolf Resilience.",
           "winRate": 5.8,
-          "popularity": 48.2,
+          "popularity": 48.1,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RabidWolves.png"
         },
         {
           "name": "Seasoned Marksman",
           "description": "Kill enemies to empower Basic Attacks",
           "longDescription": "Quest: Every Minion killed near you grants 0.2 Attack Damage, and Takedowns grant 0.5 Attack Damage, to a max of 40 damage. Reward: Upon gaining 40 bonus Attack Damage, you can also activate Seasoned Marksman to increase your Attack Speed by 30% for 3 seconds. 60 second cooldown.",
-          "winRate": 7.3,
+          "winRate": 7.2,
           "popularity": 47.3,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SeasonedMarksman.png"
         }
@@ -2487,7 +2487,7 @@
           "description": "Increases Feral Spirit range",
           "longDescription": "Feral Spirit travels 50% farther.",
           "winRate": 5.7,
-          "popularity": 47.6,
+          "popularity": 47.5,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpiritJourney.png"
         },
         {
@@ -2495,7 +2495,7 @@
           "description": "Frostwolf Resilience also restores Mana",
           "longDescription": "Frostwolf Resilience also restores 15 Mana.",
           "winRate": 5.9,
-          "popularity": 49.9,
+          "popularity": 49.8,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ManaTide.png"
         },
         {
@@ -2503,7 +2503,7 @@
           "description": "Activate to deal damage over time",
           "longDescription": "Activate to poison an enemy Hero, dealing 366.08 (+4% per level) damage over 10 seconds.",
           "winRate": 14.8,
-          "popularity": 49.8,
+          "popularity": 49.7,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Envenom.png"
         }
       ],
@@ -2513,7 +2513,7 @@
           "description": "Reduces Windfury cooldown",
           "longDescription": "Reduces the cooldown of Windfury by 4 seconds.",
           "winRate": 23.2,
-          "popularity": 48.6,
+          "popularity": 48.5,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WindShear.png"
         },
         {
@@ -2537,7 +2537,7 @@
           "description": "Activate Frostwolf Resilience to instantly heal",
           "longDescription": "Frostwolf Resilience can be activated to immediately heal you.",
           "winRate": 2,
-          "popularity": 48,
+          "popularity": 48.1,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FrostwolfsGrace.png"
         }
       ],
@@ -2546,16 +2546,16 @@
           "name": "Sundering",
           "description": "Damages, pushes, and stuns enemies in a line",
           "longDescription": "After a short delay, sunder the earth in a long line, dealing 284.96 (+4% per level) damage and shoving enemies to the side, stunning them for 1.25 seconds.",
-          "winRate": 96.2,
-          "popularity": 51.6,
+          "winRate": 96.1,
+          "popularity": 51.5,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Sundering.png"
         },
         {
           "name": "Earthquake",
           "description": "Slows enemies in a massive area",
           "longDescription": "Summon a massive Earthquake that periodically slows enemies in the area by 70%. Lasts for 10 seconds.",
-          "winRate": 3.8,
-          "popularity": 50.2,
+          "winRate": 3.9,
+          "popularity": 50.1,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Earthquake.png"
         }
       ],
@@ -2565,7 +2565,7 @@
           "description": "Reduces Feral Spirit cooldown on Hero impact",
           "longDescription": "If Feral Spirit hits an enemy Hero, its cooldown is reduced by 50%.",
           "winRate": 2.6,
-          "popularity": 51.6,
+          "popularity": 51.5,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RestlessWolves.png"
         },
         {
@@ -2598,16 +2598,16 @@
           "name": "Forked Lightning",
           "description": "Chain Lightning gains another charge",
           "longDescription": "Allows Chain Lightning to hold 2 charges that can be used in quick succession.",
-          "winRate": 22.2,
-          "popularity": 55.6,
+          "winRate": 22.3,
+          "popularity": 55.5,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ForkedLightning.png"
         },
         {
           "name": "Tempest Fury",
           "description": "Windfury's final strike hits 3 times",
           "longDescription": "The final strike of Windfury hits 3 times for 75% normal damage.",
-          "winRate": 70.7,
-          "popularity": 54.4,
+          "winRate": 70.6,
+          "popularity": 54.3,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TempestFury.png"
         },
         {
@@ -2615,7 +2615,7 @@
           "description": "Increases Windfury Move Speed and extends duration on attack",
           "longDescription": "Increases Windfury's Movement Speed bonus from 30% to 40%. Windfury attacks increase the Movement Speed duration by 1 second.",
           "winRate": 2.6,
-          "popularity": 55.3,
+          "popularity": 55.2,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RideTheWind.png"
         },
         {
@@ -2648,7 +2648,7 @@
           "name": "Nexus Blades",
           "description": "Basic Attacks deal more damage and slow",
           "longDescription": "Basic Attacks deal 20% more damage and slow enemy Movement Speed by 20% for 1 second.",
-          "winRate": 43.8,
+          "winRate": 43.9,
           "popularity": 63.4,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusBlades.png"
         },
@@ -2680,7 +2680,7 @@
           "description": "Reduce Mana cost of Light of Elune",
           "longDescription": "Reduce the Mana cost of Light of Elune by 15.",
           "winRate": 18.7,
-          "popularity": 50.2,
+          "popularity": 50.1,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CelestialAttunement.png"
         },
         {
@@ -2688,7 +2688,7 @@
           "description": "Reduce Cooldown of Hunter's Mark",
           "longDescription": "Lower the Cooldown of Hunter's Mark by 6 seconds.",
           "winRate": 31.1,
-          "popularity": 50.5,
+          "popularity": 50.6,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RangersMark.png"
         },
         {
@@ -2696,7 +2696,7 @@
           "description": "Kill enemies to empower Basic Attacks",
           "longDescription": "Quest: Every Minion killed near you grants 0.2 Attack Damage, and Takedowns grant 0.5 Attack Damage, to a max of 40 damage. Reward: Upon gaining 40 bonus Attack Damage, you can also activate Seasoned Marksman to increase your Attack Speed by 30% for 3 seconds. 60 second cooldown.",
           "winRate": 11.6,
-          "popularity": 51.3,
+          "popularity": 51.1,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SeasonedMarksman.png"
         },
         {
@@ -2714,7 +2714,7 @@
           "description": "Sentinel hits multiple targets",
           "longDescription": "Sentinel no longer stops at the first Hero hit, affecting all enemy Heroes along the path.",
           "winRate": 51.1,
-          "popularity": 51.3,
+          "popularity": 51.2,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Pierce.png"
         },
         {
@@ -2722,7 +2722,7 @@
           "description": "Periodically empower Basic Attacks against Heroes",
           "longDescription": "Every 10 seconds, your next Basic Attack against a Hero deals 60% additional damage. Basic Attacks reduce this cooldown by 1 second.",
           "winRate": 12,
-          "popularity": 51.1,
+          "popularity": 51,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png"
         },
         {
@@ -2763,7 +2763,7 @@
           "name": "Lunar Blaze",
           "description": "Lunar Flare increased range",
           "longDescription": "Increases the range of Lunar Flare by 40%.",
-          "winRate": 44.6,
+          "winRate": 44.7,
           "popularity": 49.8,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LunarBlaze.png"
         },
@@ -2772,7 +2772,7 @@
           "description": "Basic Attacks reduce Ability cooldowns",
           "longDescription": "Basic Attacks reduce your Basic Ability cooldowns by 0.6 seconds.",
           "winRate": 42.8,
-          "popularity": 52.9,
+          "popularity": 52.8,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LunarMomentum.png"
         },
         {
@@ -2780,7 +2780,7 @@
           "description": "Activate to heal and rearm Structures",
           "longDescription": "3 seconds.",
           "winRate": 2.9,
-          "popularity": 52.9,
+          "popularity": 52.7,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CalldownMULE.png"
         }
       ],
@@ -2816,22 +2816,22 @@
           "description": "Gain Attack Speed when using Hunter's Mark",
           "longDescription": "Gain 40% additional Attack Speed for 4 seconds when using Hunter's Mark.",
           "winRate": 12.1,
-          "popularity": 50.7,
+          "popularity": 50.6,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HuntressFury.png"
         },
         {
           "name": "Sprint",
           "description": "Activate to increase Move Speed",
           "longDescription": "Activate to gain 75% Movement Speed for 3 seconds.",
-          "winRate": 6.4,
-          "popularity": 52.1,
+          "winRate": 6.5,
+          "popularity": 51.9,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Sprint.png"
         },
         {
           "name": "Shrink Ray",
           "description": "Activate to reduce an enemy Hero's damage",
           "longDescription": "Activate to reduce an enemy Hero's damage by 50% and Movement Speed by 50% for 4 seconds.",
-          "winRate": 18,
+          "winRate": 17.9,
           "popularity": 50.3,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShrinkRay.png"
         }
@@ -2842,7 +2842,7 @@
           "description": "Gain Attack Damage aura",
           "longDescription": "You passively grant 15% Basic Attack damage to nearby allied Heroes.",
           "winRate": 38.7,
-          "popularity": 54.9,
+          "popularity": 55,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TrueshotAura.png"
         },
         {
@@ -2850,7 +2850,7 @@
           "description": "Marked enemies heal attackers",
           "longDescription": "Basic Attacks against Marked targets heal for 2.5% maximum Health.",
           "winRate": 7.2,
-          "popularity": 50.4,
+          "popularity": 50.3,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MarkofMending.png"
         },
         {
@@ -2866,7 +2866,7 @@
           "description": "Lunar Flare deals extra damage and refunds Mana on hit",
           "longDescription": "Lunar Flare does 50% more damage. Hitting an enemy Hero will also refund the Mana cost.",
           "winRate": 8.4,
-          "popularity": 56.1,
+          "popularity": 55.9,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShootingStar.png"
         }
       ],
@@ -2891,8 +2891,8 @@
           "name": "Nexus Frenzy",
           "description": "Increases Attack Speed and Range",
           "longDescription": "Increases Attack Speed by 20% and Attack Range by 20%.",
-          "winRate": 15.5,
-          "popularity": 63.2,
+          "winRate": 15.4,
+          "popularity": 63.3,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusFrenzy.png"
         },
         {
@@ -2907,8 +2907,8 @@
           "name": "Rewind",
           "description": "Activate to reset cooldowns",
           "longDescription": "Activate to reset the cooldowns of your Basic Abilities.",
-          "winRate": 17.2,
-          "popularity": 65.7,
+          "winRate": 17.3,
+          "popularity": 65.6,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png"
         }
       ]
@@ -2931,14 +2931,14 @@
           "description": "Periodically reduces incoming Basic Attacks",
           "longDescription": "Stores up to 2 charges.",
           "winRate": 34.4,
-          "popularity": 52.6,
+          "popularity": 52.5,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Block.png"
         },
         {
           "name": "Eternal Hunger",
           "description": "Empower Frostmourne Hungers",
           "longDescription": "Quest: Using Frostmourne Hungers on an enemy Hero permanently increases the Mana it restores by 4, up to 40. Reward: After hitting 10 Heroes with Frostmourne Hungers, also increase its damage bonus by 25%.",
-          "winRate": 48.9,
+          "winRate": 48.8,
           "popularity": 50.4,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EternalHunger.png"
         },
@@ -2957,7 +2957,7 @@
           "description": "Frozen Tempest Mana cost reduced",
           "longDescription": "Frozen Tempest Mana cost reduced by 4 per second.",
           "winRate": 17.2,
-          "popularity": 47.9,
+          "popularity": 47.8,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FrozenWastes.png"
         },
         {
@@ -2972,8 +2972,8 @@
           "name": "Biting Cold",
           "description": "Frozen Tempest damage increased",
           "longDescription": "Frozen Tempest damage increased by 30%.",
-          "winRate": 58.8,
-          "popularity": 52.8,
+          "winRate": 58.7,
+          "popularity": 52.7,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BitingCold.png"
         }
       ],
@@ -2983,7 +2983,7 @@
           "description": "Consecutive Basic Attacks heal you",
           "longDescription": "Every 3rd Basic Attack heals you for 3.9% of your max Health.",
           "winRate": 22.6,
-          "popularity": 49.9,
+          "popularity": 49.8,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RuneTap.png"
         },
         {
@@ -2999,7 +2999,7 @@
           "description": "Activate to reduce damage taken by and reduce the duration of stuns, slows, roots, and polymorphs against you by for seconds.",
           "longDescription": "Activate to reduce damage taken by 25% and reduce the duration of stuns, slows, roots, and polymorphs against you by 75% for 3 seconds.",
           "winRate": 22.2,
-          "popularity": 49.3,
+          "popularity": 49.2,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/IceboundFortitude.png"
         }
       ],
@@ -3017,7 +3017,7 @@
           "description": "Disables enemies and Structures",
           "longDescription": "Also disables non-Heroic enemies and Structures for 20 seconds.",
           "winRate": 57.9,
-          "popularity": 52.1,
+          "popularity": 52,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SummonSindragosa.png"
         }
       ],
@@ -3027,7 +3027,7 @@
           "description": "Increases Howling Blast range and roots on the way",
           "longDescription": "Increases Howling Blast's range by 30% and causes it to also root enemies between you and the target for 1.25 seconds.",
           "winRate": 37.2,
-          "popularity": 50.6,
+          "popularity": 50.7,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TrailofFrost.png"
         },
         {
@@ -3043,7 +3043,7 @@
           "description": "Frozen Tempest reduces enemy Attack Speed by per second, stacking up to .",
           "longDescription": "Frozen Tempest reduces enemy Attack Speed by 8% per second, stacking up to 40%.",
           "winRate": 43.3,
-          "popularity": 52.2,
+          "popularity": 52.1,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FrigidWinds.png"
         }
       ],
@@ -3052,7 +3052,7 @@
           "name": "Remorseless Winter",
           "description": "Enemy Heroes that remain within Frozen Tempest for seconds are rooted for seconds. This effect can only happen once every seconds.",
           "longDescription": "Enemy Heroes that remain within Frozen Tempest for 3 seconds are rooted for 1.75 seconds. This effect can only happen once every 10 seconds.",
-          "winRate": 52.3,
+          "winRate": 52.4,
           "popularity": 54.4,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RemorselessWinter.png"
         },
@@ -3061,7 +3061,7 @@
           "description": "Increases number of Frostmourne Hungers attacks",
           "longDescription": "Increases the amount of Basic Attacks empowered by Frostmourne Hungers to 2.",
           "winRate": 27.7,
-          "popularity": 55.2,
+          "popularity": 55.1,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FrostmourneFeeds.png"
         },
         {
@@ -3087,14 +3087,14 @@
           "description": "Increases Sindragosa range and disable duration",
           "longDescription": "Enemy Heroes are rooted for 2 seconds, and then slowed by 60% for 3.5 seconds.",
           "winRate": 31.6,
-          "popularity": 62.9,
+          "popularity": 62.8,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AbsoluteZero.png"
         },
         {
           "name": "Death's Advance",
           "description": "Passively increases your Movement Speed by . Activate to increase this bonus to for seconds.",
           "longDescription": "Passively increases your Movement Speed by 10%. Activate to increase this bonus to 30% for 3 seconds.",
-          "winRate": 11.9,
+          "winRate": 12,
           "popularity": 67.3,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeathsAdvance.png"
         },
@@ -3345,7 +3345,7 @@
           "description": "Increases Mana regen while Cloaked",
           "longDescription": "While Cloaked, Nova gains 4 Mana per second.",
           "winRate": 6.2,
-          "popularity": 49.6,
+          "popularity": 49.8,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TacticalEspionage.png"
         },
         {
@@ -3404,7 +3404,7 @@
           "name": "One in the Chamber",
           "description": "Using an Ability empowers next Basic Attack",
           "longDescription": "After using an Ability, your next Basic Attack within 3 seconds deals 80% additional damage.",
-          "winRate": 59.5,
+          "winRate": 59.6,
           "popularity": 52.1,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/OneintheChamber.png"
         },
@@ -3413,15 +3413,15 @@
           "description": "Attack slower but hit harder",
           "longDescription": "Your Basic Attacks deal 250% damage, but your Attack Speed is proportionally slower.",
           "winRate": 11.8,
-          "popularity": 48.6,
+          "popularity": 48.8,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AntiArmorShells.png"
         },
         {
           "name": "Snipe Master",
           "description": "Increases Snipe damage from hitting Heroes",
           "longDescription": "Hitting an enemy Hero with Snipe permanently increases the damage of Snipe by 15%. Stacks up to 5 times. All stacks are lost if Snipe fails to hit an enemy Hero.",
-          "winRate": 28.7,
-          "popularity": 48.5,
+          "winRate": 28.6,
+          "popularity": 48.6,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SnipeMaster.png"
         }
       ],
@@ -3431,7 +3431,7 @@
           "description": "Fire at a target 3 times",
           "longDescription": "Locks in on the target Hero, then fires 3 shots that hit the first Hero or Structure they come in contact with for 351.52 (+4% per level) damage each.",
           "winRate": 43.9,
-          "popularity": 49.3,
+          "popularity": 49.4,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TripleTap.png"
         },
         {
@@ -3456,8 +3456,8 @@
           "name": "Psionic Efficiency",
           "description": "Removes Snipe Mana cost and increases range",
           "longDescription": "Removes Snipe's Mana cost and increases its range by 10%.",
-          "winRate": 22.7,
-          "popularity": 49.7,
+          "winRate": 22.6,
+          "popularity": 49.8,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PsionicEfficiency.png"
         },
         {
@@ -3465,7 +3465,7 @@
           "description": "Snipe deals damage in an area",
           "longDescription": "Snipe also deals 50% damage to enemies near the impact.",
           "winRate": 17.7,
-          "popularity": 51.1,
+          "popularity": 51,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ExplosiveRound.png"
         }
       ],
@@ -3475,7 +3475,7 @@
           "description": "Reduces Snipe cooldown versus Heroes",
           "longDescription": "Hitting an enemy Hero with Snipe reduces the cooldown by 3 seconds.",
           "winRate": 11.8,
-          "popularity": 48.8,
+          "popularity": 48.7,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PerfectShot.png"
         },
         {
@@ -3490,7 +3490,7 @@
           "name": "Lethal Decoy",
           "description": "Holo Decoy does damage",
           "longDescription": "Holo Decoy deals 40% of Nova's damage.",
-          "winRate": 33.3,
+          "winRate": 33.4,
           "popularity": 56.3,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LethalDecoy.png"
         }
@@ -3501,7 +3501,7 @@
           "description": "Triple Tap cooldown resets on Hero kills",
           "longDescription": "Triple Tap's cooldown is reset if it kills an enemy Hero.",
           "winRate": 36,
-          "popularity": 61.6,
+          "popularity": 61.7,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FastReload.png"
         },
         {
@@ -3517,7 +3517,7 @@
           "description": "Activate to reset cooldowns",
           "longDescription": "Activate to reset the cooldowns of your Basic Abilities.",
           "winRate": 22.7,
-          "popularity": 67,
+          "popularity": 67.1,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png"
         },
         {
@@ -3790,7 +3790,7 @@
           "name": "Power Hungry",
           "description": "Regen Globes give Ability Power and more Mana",
           "longDescription": "Regeneration Globes restore 100% more Mana and grant 10% Ability Power for 20 seconds.",
-          "winRate": 38.6,
+          "winRate": 38.5,
           "popularity": 50.9,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PowerHungry.png"
         },
@@ -3807,7 +3807,7 @@
           "description": "Teleport costs no Mana when out of combat",
           "longDescription": "If you haven't taken damage in the last 5 seconds, Teleport costs no mana and its cooldown is decreased by 2 seconds.",
           "winRate": 7.8,
-          "popularity": 50.9,
+          "popularity": 50.8,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AetherWalker.png"
         }
       ],
@@ -3817,7 +3817,7 @@
           "description": "Magic Missiles marks enemies for bonus damage",
           "longDescription": "Basic Attacking a target recently hit by a Magic Missile does an extra 90.48 (+4% per level) damage.",
           "winRate": 11.6,
-          "popularity": 52.4,
+          "popularity": 52.3,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ChargedBlast.png"
         },
         {
@@ -3851,7 +3851,7 @@
           "description": "Arcane Orb does more damage from afar",
           "longDescription": "Arcane Orb does an additional 25% more damage to enemies far away.",
           "winRate": 20.1,
-          "popularity": 46.2,
+          "popularity": 46.1,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ZeisVengeance.png"
         },
         {
@@ -3877,7 +3877,7 @@
           "description": "Damage and knock enemies back",
           "longDescription": "Knock away all enemies from an area and deal 168 (+5% per level) damage.",
           "winRate": 20.5,
-          "popularity": 49.7,
+          "popularity": 49.6,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WaveOfForce.png"
         }
       ],
@@ -3936,7 +3936,7 @@
           "name": "Diamond Skin",
           "description": "Teleport grants a Shield",
           "longDescription": "When you Teleport, gain 20% of your maximum Health as a Shield for 4 seconds.",
-          "winRate": 39.5,
+          "winRate": 39.4,
           "popularity": 53.7,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DiamondSkin.png"
         }
@@ -3947,7 +3947,7 @@
           "description": "Disintegrate slows enemies",
           "longDescription": "Disintegrate gradually slows enemies caught in its beam, to a maximum of 60%.",
           "winRate": 45.4,
-          "popularity": 60.1,
+          "popularity": 60,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TemporalFlux.png"
         },
         {
@@ -3955,7 +3955,7 @@
           "description": "Increases cast range and knockback distance",
           "longDescription": "Increases Wave of Force knockback distance by 150% and increases its cast range by 100%.",
           "winRate": 12,
-          "popularity": 59.3,
+          "popularity": 59.2,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Repulsion.png"
         },
         {
@@ -3971,7 +3971,7 @@
           "description": "Use Disintegrate repeatedly, but no other Abilities",
           "longDescription": "Activate to enter Archon form, allowing you to repeatedly use Disintegrate, but be unable to cast other Abilities.",
           "winRate": 9.7,
-          "popularity": 63.8,
+          "popularity": 63.7,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ArchonPurePower.png"
         }
       ]
@@ -4044,7 +4044,7 @@
           "description": "Reduces Penetrating Round cooldown when hitting a Hero",
           "longDescription": "Lowers the cooldown of Penetrating Round by 4 seconds if it hits an enemy Hero.",
           "winRate": 3.1,
-          "popularity": 43.2,
+          "popularity": 43.3,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ConfidentAim.png"
         }
       ],
@@ -4070,7 +4070,7 @@
           "description": "Adrenaline Rush activateable, grants Resistant",
           "longDescription": "Adrenaline Rush can also be manually activated.",
           "winRate": 14.8,
-          "popularity": 47,
+          "popularity": 46.9,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FightorFlight.png"
         },
         {
@@ -4078,7 +4078,7 @@
           "description": "Reduces cooldowns when killing enemy minions",
           "longDescription": "Whenever an enemy Minion you have recently damaged is destroyed, your Ability cooldowns are reduced by 1.5 seconds.",
           "winRate": 4,
-          "popularity": 47.6,
+          "popularity": 47.7,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PuttinOnaClinic.png"
         }
       ],
@@ -4087,7 +4087,7 @@
           "name": "Hyperion",
           "description": "Call down a strafing Battlecruiser",
           "longDescription": "Order the Hyperion to make a strafing run dealing 68.64 (+4% per level) damage a second, hitting up to 4 enemies. Also occasionally fires its Yamato Cannon on Structures for 825.76 (+4% per level) damage. Lasts 12 seconds.",
-          "winRate": 86.2,
+          "winRate": 86.1,
           "popularity": 50.9,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Hyperion.png"
         },
@@ -4095,7 +4095,7 @@
           "name": "Raynor's Raiders",
           "description": "Summon a pair of Banshee escorts",
           "longDescription": "Summon two Stealthed Banshees that attack an enemy. Each Banshee deals 44.928 (+4% per level) damage a second and lasts 22 seconds. Can reactivate the Ability to retarget the Banshees.",
-          "winRate": 13.8,
+          "winRate": 13.9,
           "popularity": 47.8,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RaynorsRaiders.png"
         }
@@ -4114,7 +4114,7 @@
           "description": "Penetrating Round gains a second charge",
           "longDescription": "Penetrating Round gains a second charge.",
           "winRate": 13.7,
-          "popularity": 47.1,
+          "popularity": 47.3,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DoubleBarreled.png"
         },
         {
@@ -4148,7 +4148,7 @@
           "description": "Penetrating Round does more damage per target hit and has increased width",
           "longDescription": "Penetrating Round damage is increased by 20% for each additional target hit up to 100%, and the width is increased by 50%.",
           "winRate": 7.6,
-          "popularity": 49.6,
+          "popularity": 49.7,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ClusterRound.png"
         },
         {
@@ -4166,7 +4166,7 @@
           "description": "More shots dealing area damage",
           "longDescription": "An additional set of lasers blast the ground 5 times per second, dealing 41.6 (+4% per level) damage in an area.",
           "winRate": 8.3,
-          "popularity": 60.9,
+          "popularity": 61.1,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ScorchedEarth.png"
         },
         {
@@ -4174,7 +4174,7 @@
           "description": "Banshees stay cloaked and attack more frequently",
           "longDescription": "Banshees remain Stealthed while attacking and fire 50% more frequently.",
           "winRate": 2,
-          "popularity": 54.9,
+          "popularity": 54.6,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DuskWings.png"
         },
         {
@@ -4182,7 +4182,7 @@
           "description": "Hero deaths lower Heroic cooldown",
           "longDescription": "Whenever a Hero (ally or enemy) is killed, the cooldown of your Heroic Ability is reduced by 15 seconds.",
           "winRate": 2,
-          "popularity": 60.4,
+          "popularity": 60.6,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ACardtoPlay.png"
         },
         {
@@ -4198,7 +4198,7 @@
           "description": "Activate to teleport a short distance",
           "longDescription": "Activate to teleport to a nearby location.",
           "winRate": 3.1,
-          "popularity": 56.6,
+          "popularity": 56.5,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png"
         }
       ]
@@ -5348,15 +5348,15 @@
           "description": "Increases Twin Blades damage to non-Heroes",
           "longDescription": "Twin Blades attacks deal 150% bonus damage to non-Heroes.",
           "winRate": 14.1,
-          "popularity": 49.7,
+          "popularity": 49.6,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AmateurOpponent.png"
         },
         {
           "name": "Seasoned Marksman",
           "description": "Kill enemies to empower Basic Attacks",
           "longDescription": "Quest: Every Minion killed near you grants 0.2 Attack Damage, and Takedowns grant 0.5 Attack Damage, to a max of 40 damage. Reward: Upon gaining 40 bonus Attack Damage, you can also activate Seasoned Marksman to increase your Attack Speed by 30% for 3 seconds. 60 second cooldown.",
-          "winRate": 26.5,
-          "popularity": 51.2,
+          "winRate": 26.6,
+          "popularity": 51.3,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SeasonedMarksman.png"
         }
       ],
@@ -5374,15 +5374,15 @@
           "description": "Increases the range and speed of Blade Dash",
           "longDescription": "Increases Blade Dash range and speed by 30%.",
           "winRate": 30.5,
-          "popularity": 52.3,
+          "popularity": 52.4,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LethalAlacrity.png"
         },
         {
           "name": "Chrono Surge",
           "description": "Phase Prism grants Attack Speed",
           "longDescription": "Hitting an enemy Hero with Phase Prism grants 40% bonus Attack Speed for 4 seconds.",
-          "winRate": 9.4,
-          "popularity": 49.4,
+          "winRate": 9.5,
+          "popularity": 49.5,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ChronoSurge.png"
         },
         {
@@ -5390,7 +5390,7 @@
           "description": "Blade Dash recharges faster when at low Health",
           "longDescription": "Blade Dash cooldown recharges 100% faster while you are below 50% Health.",
           "winRate": 43.5,
-          "popularity": 49.3,
+          "popularity": 49.2,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TemplarsZeal.png"
         }
       ],
@@ -5400,7 +5400,7 @@
           "description": "Phase Prism slows enemies",
           "longDescription": "Phase Prism also slows the enemy's Movement Speed by 35% for 4 seconds.",
           "winRate": 3.9,
-          "popularity": 49.9,
+          "popularity": 49.8,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WarpSickness.png"
         },
         {
@@ -5408,7 +5408,7 @@
           "description": "Increases Blade Dash damage",
           "longDescription": "Increases the damage of the first dash of Blade Dash by 150%.",
           "winRate": 24.4,
-          "popularity": 51.9,
+          "popularity": 52.1,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SolariteReaper.png"
         },
         {
@@ -5424,7 +5424,7 @@
           "description": "Abilities increase Basic Attack damage",
           "longDescription": "After using an Ability, your next Basic Attack within 6 seconds deals 40% additional damage.",
           "winRate": 14,
-          "popularity": 49.7,
+          "popularity": 49.6,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FollowThrough.png"
         }
       ],
@@ -5434,7 +5434,7 @@
           "description": "Damage and Blind enemies in a large area",
           "longDescription": "Fire a large area pulse from the Spear of Adun, dealing 118.56 (+4% per level) damage and Blinding enemies for 4 seconds. Unlimited range.",
           "winRate": 44,
-          "popularity": 50.1,
+          "popularity": 50.2,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SuppressionPulse.png"
         },
         {
@@ -5452,15 +5452,15 @@
           "description": "Shield Overload reduces incoming Ability Damage",
           "longDescription": "When Shield Overload activates, you take 50% less damage from Abilities for 4 seconds.",
           "winRate": 49.2,
-          "popularity": 48.4,
+          "popularity": 48.3,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PhaseBulwark.png"
         },
         {
           "name": "Triple Strike",
           "description": "Twin Blades strikes 3 times but increases cooldown",
           "longDescription": "Increases Twin Blades's number of Basic Attacks to 3, but increase its cooldown by 1 second.",
-          "winRate": 42,
-          "popularity": 52.8,
+          "winRate": 42.1,
+          "popularity": 52.9,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TripleStrike.png"
         },
         {
@@ -5468,7 +5468,7 @@
           "description": "Reduces Phase Prism cooldown and pull another Hero",
           "longDescription": "Phase Prism pulls and damages an additional enemy Hero near the first, and its cooldown is reduced by 6 seconds.",
           "winRate": 2.4,
-          "popularity": 48.6,
+          "popularity": 48.8,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GravitonVortex.png"
         },
         {
@@ -5493,15 +5493,15 @@
           "name": "Zealot Charge",
           "description": "Increase Twin Blades charge distance",
           "longDescription": "Increase Twin Blades' charge distance by 100%.",
-          "winRate": 18.5,
-          "popularity": 55.5,
+          "winRate": 18.6,
+          "popularity": 55.7,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ZealotCharge.png"
         },
         {
           "name": "Titan Killer",
           "description": "Twin Blades deals more damage versus Heroes",
           "longDescription": "Twin Blades attacks against Heroes deal an additional 2.5% of the target's maximum Health in damage.",
-          "winRate": 18.2,
+          "winRate": 18.1,
           "popularity": 55.2,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TitanKiller.png"
         },
@@ -5510,7 +5510,7 @@
           "description": "Twin Blades makes enemies take more damage",
           "longDescription": "Twin Blades final strike causes enemy Heroes to become Vulnerable for 2 seconds, increasing all damage taken by 25%.",
           "winRate": 6.5,
-          "popularity": 54.8,
+          "popularity": 54.9,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PsionicWound.png"
         }
       ],
@@ -5520,22 +5520,22 @@
           "description": "Suppression Pulse gains an additional charge",
           "longDescription": "There is a 10 second cooldown between uses.",
           "winRate": 7.7,
-          "popularity": 58.6,
+          "popularity": 58.4,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/OrbitalBombardment.png"
         },
         {
           "name": "Target Purified",
           "description": "Purifier Beam recasts if target dies",
           "longDescription": "If the target of Purifier Beam dies, it automatically recasts on the nearest visible enemy Hero.",
-          "winRate": 16.5,
-          "popularity": 62.7,
+          "winRate": 16.4,
+          "popularity": 62.9,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TargetPurified.png"
         },
         {
           "name": "Force of Will",
           "description": "Increases Shield Overload Basic Attack reduction",
           "longDescription": "Increases Shield Overload's cooldown reduction from Basic Attacks to 6 seconds.",
-          "winRate": 51.3,
+          "winRate": 51.2,
           "popularity": 59.3,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ForceofWill.png"
         },
@@ -5544,7 +5544,7 @@
           "description": "Basic Attacks deal more damage and slow",
           "longDescription": "Basic Attacks deal 20% more damage and slow enemy Movement Speed by 20% for 1 second.",
           "winRate": 24.6,
-          "popularity": 64.9,
+          "popularity": 65,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusBlades.png"
         }
       ]
@@ -5566,15 +5566,15 @@
           "name": "Rolling Like a Stone",
           "description": "Increased range on Powerslide",
           "longDescription": "Increases the range of Powerslide by 25%.",
-          "winRate": 70.8,
-          "popularity": 49.7,
+          "winRate": 70.9,
+          "popularity": 49.6,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RollingLikeaStone.png"
         },
         {
           "name": "Block",
           "description": "Periodically reduces incoming Basic Attacks",
           "longDescription": "Stores up to 2 charges.",
-          "winRate": 15.8,
+          "winRate": 15.7,
           "popularity": 50.9,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Block.png"
         },
@@ -5583,7 +5583,7 @@
           "description": "Reduces Guitar Solo Mana cost",
           "longDescription": "Reduces Guitar Solo's Mana cost by 60%.",
           "winRate": 2,
-          "popularity": 44.3,
+          "popularity": 44.2,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PwnShopGuitar.png"
         },
         {
@@ -5591,7 +5591,7 @@
           "description": "Regen Globes increase Guitar Solo healing",
           "longDescription": "Quest: Gathering a Regeneration Globe permanently increases the healing per second of Guitar Solo by 3.",
           "winRate": 11.4,
-          "popularity": 50.4,
+          "popularity": 50.3,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ProgRock.png"
         }
       ],
@@ -5601,7 +5601,7 @@
           "description": "Increases width and speed of Powerslide",
           "longDescription": "Increases Powerslide's width by 100% and you slide 30% faster.",
           "winRate": 88.3,
-          "popularity": 50.4,
+          "popularity": 50.3,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DoubleNeckedGuitar.png"
         },
         {
@@ -5609,7 +5609,7 @@
           "description": "Rockstar lasts longer, decreases Mana cost of Abilities",
           "longDescription": "Rockstar lasts 2 seconds longer, and while Rockstar is active your Abilities cost 10 less Mana.",
           "winRate": 6.4,
-          "popularity": 46.3,
+          "popularity": 46.4,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Hammeron.png"
         },
         {
@@ -5624,8 +5624,8 @@
           "name": "Pinball Wizard",
           "description": "Increases Face Melt damage after Powerslide",
           "longDescription": "Face Melt does 50% more damage to enemies recently affected by Powerslide.",
-          "winRate": 3.2,
-          "popularity": 47.5,
+          "winRate": 3.1,
+          "popularity": 47.7,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PinballWizard.png"
         }
       ],
@@ -5643,7 +5643,7 @@
           "description": "Basic Attacks heal you during Guitar Solo",
           "longDescription": "While Guitar Solo is active, you heal for 50% of the damage dealt by Basic Attacks.",
           "winRate": 17.6,
-          "popularity": 47.7,
+          "popularity": 47.6,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GuitarHero.png"
         },
         {
@@ -5669,7 +5669,7 @@
           "description": "Nearby enemies must dance",
           "longDescription": "After 0.75 seconds, channel to stun nearby enemies for 4 seconds.",
           "winRate": 95.9,
-          "popularity": 50.1,
+          "popularity": 50,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MoshPit.png"
         },
         {
@@ -5686,15 +5686,15 @@
           "name": "Groupies",
           "description": "Guitar Solo heals nearby allied Heroes",
           "longDescription": "Guitar Solo also heals nearby allied Heroes for 68.64 (+4% per level) Health every second while it is active.",
-          "winRate": 22.1,
-          "popularity": 51.5,
+          "winRate": 22.2,
+          "popularity": 51.4,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Groupies.png"
         },
         {
           "name": "Face Smelt",
           "description": "Face Melt slows enemies",
           "longDescription": "Face Melt slows enemies by 80% fading over 2 seconds.",
-          "winRate": 33.7,
+          "winRate": 33.8,
           "popularity": 52.3,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FaceSmelt.png"
         },
@@ -5711,7 +5711,7 @@
           "description": "Reduces incoming Ability Damage",
           "longDescription": "Can only trigger once every 30 seconds.",
           "winRate": 14.5,
-          "popularity": 48,
+          "popularity": 47.8,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpellShield.png"
         }
       ],
@@ -5721,7 +5721,7 @@
           "description": "Move Speed is added to Rockstar",
           "longDescription": "Rockstar also gives 20% Movement Speed for 2 seconds.",
           "winRate": 24.4,
-          "popularity": 55.1,
+          "popularity": 55,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpeedMetal.png"
         },
         {
@@ -5729,7 +5729,7 @@
           "description": "Abilities cause area damage",
           "longDescription": "Using a Basic or Heroic Ability releases two pulses of 61.36 (+4% per level) damage. The first occurs instantly, the second occurs 2 seconds later.",
           "winRate": 28.4,
-          "popularity": 57.6,
+          "popularity": 57.5,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EchoPedal.png"
         },
         {
@@ -5745,7 +5745,7 @@
           "description": "Enemy Basic Attacks are slowed",
           "longDescription": "Heroes and Summons that attack you have their Attack Speed slowed by 40%.",
           "winRate": 36.8,
-          "popularity": 51.2,
+          "popularity": 51.1,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ImposingPresence.png"
         }
       ],
@@ -5779,7 +5779,7 @@
           "description": "Activate to grant Shields to all nearby allies",
           "longDescription": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
           "winRate": 14.5,
-          "popularity": 66.4,
+          "popularity": 66.3,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png"
         },
         {
@@ -5787,7 +5787,7 @@
           "description": "Activate to teleport a short distance",
           "longDescription": "Activate to teleport to a nearby location.",
           "winRate": 20.1,
-          "popularity": 67.9,
+          "popularity": 67.8,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png"
         }
       ]
@@ -6045,7 +6045,7 @@
           "description": "Regen Globes increase Health Regen",
           "longDescription": "Quest: Gathering a Regeneration Globe increases your Health Regeneration by 1 per second, up to 30. Reward: After gathering 30 Regeneration Globes, you also gain 500 Health.",
           "winRate": 13.3,
-          "popularity": 47.3,
+          "popularity": 47.2,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png"
         }
       ],
@@ -6071,7 +6071,7 @@
           "description": "Spawn Beetles periodically",
           "longDescription": "Can be toggled on and off.",
           "winRate": 33.3,
-          "popularity": 51.9,
+          "popularity": 51.8,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LegionofBeetles.png"
         }
       ],
@@ -6081,7 +6081,7 @@
           "description": "Harden Carapace increases Move Speed",
           "longDescription": "Using Harden Carapace increases your Movement Speed by 30% for 3 seconds.",
           "winRate": 22.8,
-          "popularity": 49.1,
+          "popularity": 49,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShedExoskeleton.png"
         },
         {
@@ -6089,7 +6089,7 @@
           "description": "Reduces Harden Carapace cooldown",
           "longDescription": "While Harden Carapace is active, taking damage from enemy Abilities reduces its cooldown by 0.75 seconds, up to 3 seconds.",
           "winRate": 45.8,
-          "popularity": 48.9,
+          "popularity": 48.8,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ChitinousPlating.png"
         },
         {
@@ -6097,7 +6097,7 @@
           "description": "Beetles heal you",
           "longDescription": "Beetles heal you for 50% of their damage with each attack if you are nearby.",
           "winRate": 31.4,
-          "popularity": 51.9,
+          "popularity": 51.8,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LeechingScarabs.png"
         }
       ],
@@ -6106,15 +6106,15 @@
           "name": "Locust Swarm",
           "description": "Damages enemies and heals you",
           "longDescription": "Deal 68.64 (+4% per level) damage per second in an area around yourself. Each enemy damaged heals you for 18.72 (+4% per level) Health. Lasts 8 seconds.",
-          "winRate": 57.2,
-          "popularity": 53.9,
+          "winRate": 57.3,
+          "popularity": 53.8,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LocustSwarm.png"
         },
         {
           "name": "Cocoon",
           "description": "Wraps enemy in a cocoon",
           "longDescription": "Wraps target enemy Hero in a cocoon, rendering them unable to act or be targeted for 8 seconds. Allies of the Hero can attack the cocoon to break it and free them early.",
-          "winRate": 42.8,
+          "winRate": 42.7,
           "popularity": 44.7,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Cocoon.png"
         }
@@ -6159,7 +6159,7 @@
           "description": "Basic Attacks to Heroes spawn Beetles",
           "longDescription": "Every 3rd Basic Attack against enemy Heroes spawns a Beetle.",
           "winRate": 14.6,
-          "popularity": 54.8,
+          "popularity": 54.7,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BeetleJuiced.png"
         },
         {
@@ -6177,7 +6177,7 @@
           "description": "Gain a permanent life-stealing Locust",
           "longDescription": "Gain a permanent Vampire Locust that attacks a nearby enemy every 3 seconds. The Vampire Locust deals 159.12 (+4% per level) damage and returns to heal you for 38.48 (+4% per level) health.",
           "winRate": 30.9,
-          "popularity": 68.7,
+          "popularity": 68.6,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HiveMaster.png"
         },
         {
@@ -6185,14 +6185,14 @@
           "description": "Increases Cocoon duration",
           "longDescription": "Staying near the Cocoon allows Anub'arak to extend the duration by up to 4 seconds per Cocoon.",
           "winRate": 6.3,
-          "popularity": 54.4,
+          "popularity": 54.3,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Cryptweave.png"
         },
         {
           "name": "Hardened Shield",
           "description": "Activate to gain a Shield",
           "longDescription": "Activate to reduce damage taken by 75% for 4 seconds.",
-          "winRate": 41.5,
+          "winRate": 41.4,
           "popularity": 59.6,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png"
         },
@@ -6200,8 +6200,8 @@
           "name": "Rewind",
           "description": "Activate to reset cooldowns",
           "longDescription": "Activate to reset the cooldowns of your Basic Abilities.",
-          "winRate": 21.2,
-          "popularity": 59.6,
+          "winRate": 21.3,
+          "popularity": 59.7,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png"
         }
       ]
@@ -7092,14 +7092,14 @@
           "description": "Regen Globes grant Health Regen",
           "longDescription": "Quest: Gathering a Regeneration Globe increases your Health Regeneration by 1 per second, up to 30 per second. Reward: After gathering 30 Globes, Rexxar gains 600 maximum Health.",
           "winRate": 71.8,
-          "popularity": 49.9,
+          "popularity": 50,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HunterGatherer.png"
         },
         {
           "name": "Survivalist Training",
           "description": "Regen Globes restore more Mana",
           "longDescription": "Regeneration Globes restore 100% more Mana.",
-          "winRate": 2.7,
+          "winRate": 2.6,
           "popularity": null,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SurvivalistTraining.png"
         },
@@ -7107,7 +7107,7 @@
           "name": "Flare",
           "description": "Gain vision of an area",
           "longDescription": "Fire a flare at an area, revealing it for 5 seconds.",
-          "winRate": 3.6,
+          "winRate": 3.7,
           "popularity": null,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Flare.png"
         }
@@ -7118,7 +7118,7 @@
           "description": "Misha's Basic Attacks heal her",
           "longDescription": "Misha's Basic Attacks heal her for 3.9% of her maximum Health.",
           "winRate": 43.4,
-          "popularity": 47.9,
+          "popularity": 48,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HungryBear.png"
         },
         {
@@ -7126,7 +7126,7 @@
           "description": "Increases Spirit Swoop slow amount and duration",
           "longDescription": "Increases Spirit Swoop's slow amount to 40% and its duration to3 seconds.",
           "winRate": 17.5,
-          "popularity": 50.3,
+          "popularity": 50.2,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CripplingTalons.png"
         },
         {
@@ -7141,8 +7141,8 @@
           "name": "Easy Prey",
           "description": "Misha is more effective against Minions and Mercs",
           "longDescription": "Increases Misha's damage to Minions and Mercenaries by 150%, and reduces the damage Misha takes from Minions and Mercenaries by 50%.",
-          "winRate": 30,
-          "popularity": 51.1,
+          "winRate": 29.9,
+          "popularity": 51.2,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EasyPrey.png"
         }
       ],
@@ -7160,7 +7160,7 @@
           "description": "Misha's Basic Attacks lower Misha, Charge! cooldown",
           "longDescription": "Misha's Basic Attacks lower the cooldown of Misha, Charge! by 1.5 seconds.",
           "winRate": 62.6,
-          "popularity": 49.1,
+          "popularity": 49.2,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AspectoftheBeast.png"
         },
         {
@@ -7168,7 +7168,7 @@
           "description": "Increases Spirit Swoop damage to Minions and Mercs",
           "longDescription": "Increases Spirit Swoop's damage by 200% to Minions and Mercenaries.",
           "winRate": 26.2,
-          "popularity": 51.6,
+          "popularity": 51.5,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BirdofPrey.png"
         }
       ],
@@ -7177,16 +7177,16 @@
           "name": "Bestial Wrath",
           "description": "Increases Misha's Basic Attacks",
           "longDescription": "Increases Misha's Basic Attack damage by 150% for 12 seconds.",
-          "winRate": 64.1,
-          "popularity": 47.2,
+          "winRate": 64,
+          "popularity": 47.3,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BestialWrath.png"
         },
         {
           "name": "Unleash the Boars",
           "description": "Send a pack of boars to hunt enemy Heroes",
           "longDescription": "Release a herd of boars that track down all enemy Heroes in a direction, dealing 114.4 (+4% per level) damage, revealing, and slowing enemies by 40% for 5 seconds.",
-          "winRate": 35.9,
-          "popularity": 53.6,
+          "winRate": 36,
+          "popularity": 53.4,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/UnleashtheBoars.png"
         }
       ],
@@ -7195,7 +7195,7 @@
           "name": "Wildfire Bear",
           "description": "Misha deals damage to nearby enemies",
           "longDescription": "Misha deals 29.12 (+4% per level) damage per second to nearby enemies.",
-          "winRate": 71.4,
+          "winRate": 71.3,
           "popularity": 51.5,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WildfireBear.png"
         },
@@ -7204,7 +7204,7 @@
           "description": "Basic Attacks increase Move Speed",
           "longDescription": "Your Basic Attacks increase both you and Misha's Movement Speed by 25% for 2 seconds.",
           "winRate": 18.2,
-          "popularity": 47.4,
+          "popularity": 47.2,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ThrilloftheHunt.png"
         },
         {
@@ -7238,7 +7238,7 @@
           "description": "Spirit Swoop increases Attack Speed",
           "longDescription": "When Spirit Swoop hits an enemy Hero, you gain 100% Attack Speed for 3 seconds.",
           "winRate": 17.1,
-          "popularity": 49.1,
+          "popularity": 49.5,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AspectoftheHawk.png"
         },
         {
@@ -7246,7 +7246,7 @@
           "description": "Attacking you or Misha slows Basic Attack speed",
           "longDescription": "Enemies that Basic Attack you or Misha have their Attack Speed slowed by 40%.",
           "winRate": 38.2,
-          "popularity": 52.9,
+          "popularity": 53,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PrimalIntimidation.png"
         },
         {
@@ -7254,7 +7254,7 @@
           "description": "Become Invulnerable and control Misha",
           "longDescription": "Fake your death, becoming Invulnerable and untargetable for 5 seconds. During this time you control Misha.",
           "winRate": 36.1,
-          "popularity": 54.9,
+          "popularity": 54.7,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FeignDeath.png"
         }
       ],
@@ -7264,7 +7264,7 @@
           "description": "Increases Bestial Wrath duration and Misha heals you",
           "longDescription": "Increases the duration of Bestial Wrath by50% and Misha's Basic Attacks heal Rexxar for 50% of her damage dealt during Bestial Wrath.",
           "winRate": 23.8,
-          "popularity": 57.3,
+          "popularity": 57.5,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpiritBond.png"
         },
         {
@@ -7279,7 +7279,7 @@
           "name": "Frenzy of Kalimdor",
           "description": "Your Basic Attacks deal more damage and Misha's attacks slow",
           "longDescription": "Your Basic Attacks deal 10% more damage, and Misha's Basic Attacks slow the target by 20% for 1.25 seconds.",
-          "winRate": 39,
+          "winRate": 39.1,
           "popularity": 62.6,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FrenzyofKalimdor.png"
         },
@@ -7288,7 +7288,7 @@
           "description": "You and Misha take reduced damage",
           "longDescription": "You and Misha take 75% less damage for 4 seconds.",
           "winRate": 15.3,
-          "popularity": 53.5,
+          "popularity": 52.9,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedSkin.png"
         }
       ]
@@ -7310,7 +7310,7 @@
           "name": "Immolation",
           "description": "Sweeping Strike deals area damage",
           "longDescription": "After using Sweeping Strike, burn nearby enemies for 22.88 (+4% per level) damage a second for 4 seconds.",
-          "winRate": 61.3,
+          "winRate": 61.4,
           "popularity": 50.9,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Immolation.png"
         },
@@ -7337,7 +7337,7 @@
           "description": "Dive increases Move Speed",
           "longDescription": "Dive grants 15% Movement Speed for 2.188 seconds.",
           "winRate": 12,
-          "popularity": 49.7,
+          "popularity": 49.8,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RapidChase.png"
         },
         {
@@ -7345,7 +7345,7 @@
           "description": "Increases Dive range and can Dive to allies",
           "longDescription": "Increases the range of Dive by 33% and allows it to be used on allied Heroes without damaging them.",
           "winRate": 77.3,
-          "popularity": 49.6,
+          "popularity": 49.5,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FriendorFoe.png"
         },
         {
@@ -7353,7 +7353,7 @@
           "description": "Sweeping Strike can go over walls with reduced cooldown",
           "longDescription": "Allows Sweeping Strike to go over walls and terrain. If Sweeping Strike doesn't hit any enemies, the cooldown is reduced by 4 seconds.",
           "winRate": 10.7,
-          "popularity": 46.3,
+          "popularity": 46.2,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Unbound.png"
         }
       ],
@@ -7362,7 +7362,7 @@
           "name": "Reflexive Block",
           "description": "Dive grants Block",
           "longDescription": "Dive reduces the damage taken from the next 2 Hero Basic Attacks by 75%. Lasts 3 seconds.",
-          "winRate": 45.1,
+          "winRate": 45.2,
           "popularity": 49.1,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ReflexiveBlock.png"
         },
@@ -7378,8 +7378,8 @@
           "name": "Hunter's Onslaught",
           "description": "Basic abilities that deal damage heal you",
           "longDescription": "Basic Abilities heal for 25% of the damage they deal. Double this bonus versus Heroes.",
-          "winRate": 31.4,
-          "popularity": 51.7,
+          "winRate": 31.3,
+          "popularity": 51.6,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HuntersOnslaught.png"
         }
       ],
@@ -7397,7 +7397,7 @@
           "description": "Charge a target from a very long range",
           "longDescription": "Charge to target unit, dealing 261.04 (+4% per level) damage on impact and stunning for 1 second.",
           "winRate": 57.7,
-          "popularity": 51.1,
+          "popularity": 51,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TheHunt.png"
         }
       ],
@@ -7407,7 +7407,7 @@
           "description": "Sweeping Strikes grants Resistant",
           "longDescription": "If Sweeping Strikes hits an enemy Hero you gain Resistant for 2 seconds, reducing damage taken by 25%.",
           "winRate": 45.8,
-          "popularity": 50.8,
+          "popularity": 50.7,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NimbleDefender.png"
         },
         {
@@ -7440,8 +7440,8 @@
           "name": "Fiery Brand",
           "description": "Consecutive Basic Attacks to Heroes are empowered",
           "longDescription": "Every 4th attack against the same Hero deals an additional 6% of their maximum Health as damage.",
-          "winRate": 21.8,
-          "popularity": 51.2,
+          "winRate": 21.7,
+          "popularity": 51.1,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FieryBrand.png"
         },
         {
@@ -7449,7 +7449,7 @@
           "description": "Activate to increase Basic Attack damage",
           "longDescription": "Hitting 5 Heroes with Sweeping Strike allows you to activate Blades of Azzinoth to increase your Basic Attack damage by 75% for 8 seconds.",
           "winRate": 15,
-          "popularity": 51.8,
+          "popularity": 51.9,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BladesofAzzinoth.png"
         }
       ],
@@ -7466,8 +7466,8 @@
           "name": "Nowhere to Hide",
           "description": "Increases The Hunt range and reveal low Health Heroes",
           "longDescription": "The Hunt gains unlimited range. You passively reveal enemy Heroes below 25% Health anywhere on the Battleground.",
-          "winRate": 20.3,
-          "popularity": 62.5,
+          "winRate": 20.2,
+          "popularity": 62.4,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NowheretoHide.png"
         },
         {
@@ -10738,7 +10738,7 @@
           "description": "Increase damage and reduce disable duration",
           "longDescription": "Increase damage dealt by 40%. Reduce the duration of stuns, slows, and roots against you by 50%. Lasts 15 seconds, and extends by 1 second for every 10 Fury gained.",
           "winRate": 53,
-          "popularity": 47.1,
+          "popularity": 47,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WrathoftheBerserker.png"
         }
       ],
@@ -10756,14 +10756,14 @@
           "description": "Using Seismic Slam temporarily reduces its Fury cost",
           "longDescription": "Using Seismic Slam reduces its Fury cost by 50% for 2 seconds.",
           "winRate": 7.4,
-          "popularity": 50.6,
+          "popularity": 50.5,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Aftershock.png"
         },
         {
           "name": "Mystical Spear",
           "description": "Reduces Ancient Spear cooldown and always pulls",
           "longDescription": "Reduces the cooldown of Ancient Spear by 3 seconds. You are pulled to the target location even if you don't hit an enemy.",
-          "winRate": 58.2,
+          "winRate": 58.3,
           "popularity": 47.6,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MysticalSpear.png"
         },
@@ -10781,16 +10781,16 @@
           "name": "Furious Blow",
           "description": "Increases Seismic Slam damage and cost",
           "longDescription": "Increases Seismic Slam damage by 50%, but costs 40 Fury.",
-          "winRate": 10.5,
-          "popularity": 49.8,
+          "winRate": 10.4,
+          "popularity": 49.9,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FuriousBlow.png"
         },
         {
           "name": "No Escape",
           "description": "Abilities give more Movement Speed",
           "longDescription": "Increases the Movement Speed bonus from using Basic and Heroic Abilities to 25%.",
-          "winRate": 10,
-          "popularity": 52.2,
+          "winRate": 10.1,
+          "popularity": 52.1,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NoEscape.png"
         },
         {
@@ -10798,7 +10798,7 @@
           "description": "Enemy Basic Attacks are slowed",
           "longDescription": "Heroes and Summons that attack you have their Attack Speed slowed by 40%.",
           "winRate": 13.5,
-          "popularity": 47.2,
+          "popularity": 47.5,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ImposingPresence.png"
         },
         {
@@ -10816,7 +10816,7 @@
           "description": "Leap creates a crater and has reduced cooldown",
           "longDescription": "Reduces Leap's cooldown by 20 seconds.",
           "winRate": 12.1,
-          "popularity": 55.4,
+          "popularity": 55.5,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ArreatCrater.png"
         },
         {
@@ -10824,7 +10824,7 @@
           "description": "Increases Wrath Fury generation",
           "longDescription": "Increases all Fury generated during Wrath of the Berserker by 100%.",
           "winRate": 3.7,
-          "popularity": 64.9,
+          "popularity": 64.8,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AngerManagement.png"
         },
         {
@@ -10832,7 +10832,7 @@
           "description": "Basic Attacks deal more damage and slow",
           "longDescription": "Basic Attacks deal 20% more damage and slow enemy Movement Speed by 20% for 1 second.",
           "winRate": 17.9,
-          "popularity": 60.4,
+          "popularity": 60.6,
           "imageURL": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusBlades.png"
         },
         {
