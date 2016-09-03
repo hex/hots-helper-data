@@ -1,5 +1,5 @@
 {
-  "updated": "2016-09-02T10:01:04.678Z",
+  "updated": "2016-09-03T10:00:58.025Z",
   "endpoints": {
     "heroes": "https://raw.githubusercontent.com/hex/hots-helper-data/master/heroes.json"
   },
