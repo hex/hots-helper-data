@@ -34,13 +34,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/auriel_resurrect.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Bestow Hope",
-        "description": "Bestow an allied Hero with Hope. While they remain near you, damage they deal causes you to gain energy. You can only have Bestow Hope on 1 ally at a time. 40% of damage dealt to Heroes and 8% dealt to non-Heroes is stored as energy. You can store up to 505 energy.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/auriel_bestowHope.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Bestow Hope",
+      "description": "Bestow an allied Hero with Hope. While they remain near you, damage they deal causes you to gain energy. You can only have Bestow Hope on 1 ally at a time. 40% of damage dealt to Heroes and 8% dealt to non-Heroes is stored as energy. You can store up to 505 energy.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/auriel_bestowHope.png"
+    }
   },
   "Guldan": {
     "primaryAbilities": [
@@ -77,13 +75,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/guldan_rainOfDestruction.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Life Tap",
-        "description": "Gul'dan does not regenerate Mana. Activate to restore 25% Mana at the cost of some of your Health.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/guldan_lifeTap.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Life Tap",
+      "description": "Gul'dan does not regenerate Mana. Activate to restore 25% Mana at the cost of some of your Health.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/guldan_lifeTap.png"
+    }
   },
   "Medivh": {
     "primaryAbilities": [
@@ -120,13 +116,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/medivh_leyLineSeal.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Raven Form",
-        "description": "Instead of mounting, Medivh can transform into a raven, increasing Movement Speed by 15%. While transformed, Medivh can see and fly over all terrain and is immune to all effects.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/medivh_ravenForm.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Raven Form",
+      "description": "Instead of mounting, Medivh can transform into a raven, increasing Movement Speed by 15%. While transformed, Medivh can see and fly over all terrain and is immune to all effects.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/medivh_ravenForm.png"
+    }
   },
   "Chromie": {
     "primaryAbilities": [
@@ -163,13 +157,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/chromie_temporalLoop.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Timewalker",
-        "description": "You’ve traveled to the future, and as such, will learn your Talents 1 level earlier than your teammates!",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/chromie_timewalker.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Timewalker",
+      "description": "You’ve traveled to the future, and as such, will learn your Talents 1 level earlier than your teammates!",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/chromie_timewalker.png"
+    }
   },
   "Tracer": {
     "primaryAbilities": [
@@ -200,13 +192,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/tracer_pulseBomb.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Reload",
-        "description": "Tracer can Basic Attack while moving, and after attacking 10 times needs to reload. She can manually reload early by activating Reload.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/tracer_reload.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Reload",
+      "description": "Tracer can Basic Attack while moving, and after attacking 10 times needs to reload. She can manually reload early by activating Reload.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/tracer_reload.png"
+    }
   },
   "Dehaka": {
     "primaryAbilities": [
@@ -243,13 +233,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/dehaka_adaptation.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Essence Collection",
-        "description": "Gain 10 Essence from Takedowns and 2 Essence from nearby Minions dying. Activate to consume all Essence and heal yourself over 5 seconds, with more Health being restored the more Essence you consume. Maximum of 50 Essence. Can be cast during Drag and Burrow.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/dehaka_essenceCollection.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Essence Collection",
+      "description": "Gain 10 Essence from Takedowns and 2 Essence from nearby Minions dying. Activate to consume all Essence and heal yourself over 5 seconds, with more Health being restored the more Essence you consume. Maximum of 50 Essence. Can be cast during Drag and Burrow.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/dehaka_essenceCollection.png"
+    }
   },
   "Xul": {
     "primaryAbilities": [
@@ -286,13 +274,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/xul_skeletalMages.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Raise Skeleton",
-        "description": "When a nearby enemy Minion dies, it becomes a Skeletal Warrior that deals moderate damage and lasts up to 15 seconds. Up to 4 Skeletal Warriors can be active at once.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/xul_raiseSkeleton.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Raise Skeleton",
+      "description": "When a nearby enemy Minion dies, it becomes a Skeletal Warrior that deals moderate damage and lasts up to 15 seconds. Up to 4 Skeletal Warriors can be active at once.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/xul_raiseSkeleton.png"
+    }
   },
   "LiMing": {
     "primaryAbilities": [
@@ -329,13 +315,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/li-ming_waveOfForce.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Critical Mass",
-        "description": "Getting a Takedown will refresh the cooldown on all of your Abilities.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/li-ming_criticalMass.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Critical Mass",
+      "description": "Getting a Takedown will refresh the cooldown on all of your Abilities.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/li-ming_criticalMass.png"
+    }
   },
   "Greymane": {
     "primaryAbilities": [
@@ -372,13 +356,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/greymane_markedForTheKill.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Curse of the Worgen",
-        "description": "Use certain Abilities to shift between a Human and a Worgen. While Human, your Basic Attack is ranged. While Worgen, your Basic Attack is melee but deals 40% more damage.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/greymane_curseOfTheWorgen.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Curse of the Worgen",
+      "description": "Use certain Abilities to shift between a Human and a Worgen. While Human, your Basic Attack is ranged. While Worgen, your Basic Attack is melee but deals 40% more damage.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/greymane_curseOfTheWorgen.png"
+    }
   },
   "Lunara": {
     "primaryAbilities": [
@@ -415,13 +397,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/lunara_leapingStrike.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Nature's Toxin",
-        "description": "Your Basic Attacks and damaging Abilities poison their target, dealing light damage each second for 3 seconds. Every additional application increases the duration by 3 seconds, up to a maximum of 9 seconds.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/lunara_naturesToxin.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Nature's Toxin",
+      "description": "Your Basic Attacks and damaging Abilities poison their target, dealing light damage each second for 3 seconds. Every additional application increases the duration by 3 seconds, up to a maximum of 9 seconds.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/lunara_naturesToxin.png"
+    }
   },
   "Chogall": {
     "primaryAbilities": [
@@ -458,13 +438,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/cho_upheaval.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Two-Headed",
-        "description": "Gall is permanently attached to you, going where you go.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/cho_twoHeaded.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Two-Headed",
+      "description": "Gall is permanently attached to you, going where you go.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/cho_twoHeaded.png"
+    }
   },
   "Artanis": {
     "primaryAbilities": [
@@ -501,13 +479,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/artanis_purifierBeam.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Shield Overload",
-        "description": "Automatically gain a powerful shield for 5 seconds when you take damage while below 50% health. Your basic attacks lower the shield’s cooldown by 4 seconds.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/artanis_shieldOverload.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Shield Overload",
+      "description": "Automatically gain a powerful shield for 5 seconds when you take damage while below 50% health. Your basic attacks lower the shield’s cooldown by 4 seconds.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/artanis_shieldOverload.png"
+    }
   },
   "LtMorales": {
     "primaryAbilities": [
@@ -544,13 +520,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/lt-morales_medivacDropship.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Caduceus Reactor",
-        "description": "Regenerate 3% of your maximum Health every second after not taking damage for 4 seconds.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/lt-morales_caduceusReactor.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Caduceus Reactor",
+      "description": "Regenerate 3% of your maximum Health every second after not taking damage for 4 seconds.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/lt-morales_caduceusReactor.png"
+    }
   },
   "Rexxar": {
     "primaryAbilities": [
@@ -587,13 +561,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/rexxar_bestialWrath.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Misha",
-        "description": "Activate to command Misha to alternately stay by your side or attack your enemies.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/rexxar_commandMisha.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Misha",
+      "description": "Activate to command Misha to alternately stay by your side or attack your enemies.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/rexxar_commandMisha.png"
+    }
   },
   "Kharazim": {
     "primaryAbilities": [
@@ -630,13 +602,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/kharazim_divinePalm.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Pick Your Trait",
-        "description": "Choose between Transcendence, Iron Fists, and Insight from the Talents panel.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/kharazim_pickYourTrait.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Pick Your Trait",
+      "description": "Choose between Transcendence, Iron Fists, and Insight from the Talents panel.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/kharazim_pickYourTrait.png"
+    }
   },
   "Leoric": {
     "primaryAbilities": [
@@ -673,13 +643,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/leoric_marchOfTheBlackKing.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Undying",
-        "description": "Become a Ghost when you die, and resurrect upon reaching full health. Your abilities do not do damage while Undying.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/leoric_undying.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Undying",
+      "description": "Become a Ghost when you die, and resurrect upon reaching full health. Your abilities do not do damage while Undying.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/leoric_undying.png"
+    }
   },
   "TheButcher": {
     "primaryAbilities": [
@@ -716,13 +684,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/the-butcher_furnaceBlast.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Fresh Meat",
-        "description": "Nearby enemies drop Fresh meat upon death (Heroes drop triple), which you can pick up to gain 1% bonus Attack Damage. Can hold up to 25 Meat. All meat is lost on dying.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/the-butcher_freshMeat.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Fresh Meat",
+      "description": "Nearby enemies drop Fresh meat upon death (Heroes drop triple), which you can pick up to gain 1% bonus Attack Damage. Can hold up to 25 Meat. All meat is lost on dying.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/the-butcher_freshMeat.png"
+    }
   },
   "Johanna": {
     "primaryAbilities": [
@@ -759,13 +725,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/johanna_blessedShield.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Iron Skin",
-        "description": "Become unstoppable and gain a shield that absorbs a massive amount of damage for 4 seconds.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/johanna_ironSkin.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Iron Skin",
+      "description": "Become unstoppable and gain a shield that absorbs a massive amount of damage for 4 seconds.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/johanna_ironSkin.png"
+    }
   },
   "Kaelthas": {
     "primaryAbilities": [
@@ -802,13 +766,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/kaelthas_pyroblast.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Verdant Spheres",
-        "description": "Activate to make your next Basic Ability more powerful.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/kaelthas_verdantSpheres.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Verdant Spheres",
+      "description": "Activate to make your next Basic Ability more powerful.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/kaelthas_verdantSpheres.png"
+    }
   },
   "Sylvanas": {
     "primaryAbilities": [
@@ -845,13 +807,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/sylvanas_mindControl.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Black Arrows",
-        "description": "Basic Attacks and Abilities stun Minions, Mercenaries, and Towers for 1 second.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/sylvanas_blackArrows.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Black Arrows",
+      "description": "Basic Attacks and Abilities stun Minions, Mercenaries, and Towers for 1 second.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/sylvanas_blackArrows.png"
+    }
   },
   "TheLostVikings": {
     "primaryAbilities": [
@@ -888,13 +848,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/the-lost-vikings_playAgain.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Viking Hoard",
-        "description": "Gathering a Regeneration Globe with a Viking permanently increases all their Health Regeneration by 0.5 per second",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/the-lost-vikings_vikingHoard.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Viking Hoard",
+      "description": "Gathering a Regeneration Globe with a Viking permanently increases all their Health Regeneration by 0.5 per second",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/the-lost-vikings_vikingHoard.png"
+    }
   },
   "Thrall": {
     "primaryAbilities": [
@@ -931,13 +889,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/thrall_earthquake.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Frostwolf Resilience",
-        "description": "Dealing damage with Abilities grants 1 stack of Frostwolf Resilience. At 5 stacks, you are instantly healed for a large amount of Health.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/thrall_frostwolfResilience.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Frostwolf Resilience",
+      "description": "Dealing damage with Abilities grants 1 stack of Frostwolf Resilience. At 5 stacks, you are instantly healed for a large amount of Health.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/thrall_frostwolfResilience.png"
+    }
   },
   "Jaina": {
     "primaryAbilities": [
@@ -974,13 +930,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/jaina_summonWaterElemental.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Frostbite",
-        "description": "All abilities Chill targets, slowing Movement Speed by 25% and amplifying damage from your abilities by 50%. Lasts 4 seconds.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/jaina_frostbite.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Frostbite",
+      "description": "All abilities Chill targets, slowing Movement Speed by 25% and amplifying damage from your abilities by 50%. Lasts 4 seconds.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/jaina_frostbite.png"
+    }
   },
   "Anubarak": {
     "primaryAbilities": [
@@ -1017,13 +971,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/anubarak_webBlast.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Scarab Host",
-        "description": "Spawn a Beetle at Anub'arak's location whenever he casts a spell. Beetles last for 10 seconds, attacking nearby enemies for light damage.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/anubarak_scarabHost.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Scarab Host",
+      "description": "Spawn a Beetle at Anub'arak's location whenever he casts a spell. Beetles last for 10 seconds, attacking nearby enemies for light damage.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/anubarak_scarabHost.png"
+    }
   },
   "Azmodan": {
     "primaryAbilities": [
@@ -1060,13 +1012,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/azmodan_blackPool.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "General of Hell",
-        "description": "Summon a Demon Lieutenant at an allied Mercenary, Minion, or Summon. The lieutenant will march with the target, granting 15% increased damage and 15% increased maximum health to all nearby friendly Mercenaries, Minions, and Summons. Unlimited range.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/azmodan_generalOfHell.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "General of Hell",
+      "description": "Summon a Demon Lieutenant at an allied Mercenary, Minion, or Summon. The lieutenant will march with the target, granting 15% increased damage and 15% increased maximum health to all nearby friendly Mercenaries, Minions, and Summons. Unlimited range.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/azmodan_generalOfHell.png"
+    }
   },
   "Chen": {
     "primaryAbilities": [
@@ -1103,13 +1053,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/chen_stormEarthFire.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Fortifying Brew",
-        "description": "Drink from your keg, gaining 40 Brew and temporary Shields each second, eventually resulting in a massive Shield that persists for 2 seconds after you stop drinking.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/chen_fortifyingBrew.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Fortifying Brew",
+      "description": "Drink from your keg, gaining 40 Brew and temporary Shields each second, eventually resulting in a massive Shield that persists for 2 seconds after you stop drinking.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/chen_fortifyingBrew.png"
+    }
   },
   "Rehgar": {
     "primaryAbilities": [
@@ -1146,13 +1094,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/rehgar_bloodlust.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Ghost Wolf",
-        "description": "Instead of using a mount, Rehgar transforms into a Ghost Wolf, increasing movement speed by 30%. Transformation is instant and can be used while moving. Basic Attacks while in Ghost Wolf cancel the form but deal 100% increased damage.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/rehgar_ghostWolf.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Ghost Wolf",
+      "description": "Instead of using a mount, Rehgar transforms into a Ghost Wolf, increasing movement speed by 30%. Transformation is instant and can be used while moving. Basic Attacks while in Ghost Wolf cancel the form but deal 100% increased damage.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/rehgar_ghostWolf.png"
+    }
   },
   "Zagara": {
     "primaryAbilities": [
@@ -1189,13 +1135,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/zagara_nydusNetwork.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Creep Tumor",
-        "description": "Lay a Creep Tumor that generates Creep. You and your summons move 20% faster on Creep and restore a small amount of Health each second. Tumors last 240 seconds.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/zagara_creepTumor.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Creep Tumor",
+      "description": "Lay a Creep Tumor that generates Creep. You and your summons move 20% faster on Creep and restore a small amount of Health each second. Tumors last 240 seconds.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/zagara_creepTumor.png"
+    }
   },
   "Murky": {
     "primaryAbilities": [
@@ -1232,13 +1176,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/murky_octoGrab.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Spawn Egg",
-        "description": "Place an Egg at target location, revealing the nearby area. Upon dying, you respawn at the Egg after 5 seconds. If your Egg is killed, you are revealed to enemies for 15 seconds. You only grant 25% of a Hero's experience upon dying.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/murky_spawnEgg.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Spawn Egg",
+      "description": "Place an Egg at target location, revealing the nearby area. Upon dying, you respawn at the Egg after 5 seconds. If your Egg is killed, you are revealed to enemies for 15 seconds. You only grant 25% of a Hero's experience upon dying.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/murky_spawnEgg.png"
+    }
   },
   "Brightwing": {
     "primaryAbilities": [
@@ -1275,13 +1217,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/brightwing_emeraldWind.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Soothing Mist",
-        "description": "Brightwing heals nearby allied Heroes for a moderate amount every 5 seconds.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/brightwing_soothingMist.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Soothing Mist",
+      "description": "Brightwing heals nearby allied Heroes for a moderate amount every 5 seconds.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/brightwing_soothingMist.png"
+    }
   },
   "LiLi": {
     "primaryAbilities": [
@@ -1318,13 +1258,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/lili_waterDragon.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Fast Feet",
-        "description": "Upon taking damage, gain 10% Movement Speed for 1 second.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/lili_fastFeet.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Fast Feet",
+      "description": "Upon taking damage, gain 10% Movement Speed for 1 second.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/lili_fastFeet.png"
+    }
   },
   "Tychus": {
     "primaryAbilities": [
@@ -1361,13 +1299,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/tychus_drakkenLaserDrill.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Minigun",
-        "description": "Your Attack Speed increases the longer that you attack, becoming fully wound up after 4 Basic Attacks. Lasts 3 seconds.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/tychus_minigun.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Minigun",
+      "description": "Your Attack Speed increases the longer that you attack, becoming fully wound up after 4 Basic Attacks. Lasts 3 seconds.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/tychus_minigun.png"
+    }
   },
   "Abathur": {
     "primaryAbilities": [
@@ -1398,13 +1334,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/abathur_evolveMonstrosity.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Locust Strain",
-        "description": "Spawns a Locust to attack down the nearest lane every 15 seconds. Locusts last for 25 seconds.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/abathur_locustStrain.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Locust Strain",
+      "description": "Spawns a Locust to attack down the nearest lane every 15 seconds. Locusts last for 25 seconds.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/abathur_locustStrain.png"
+    }
   },
   "Arthas": {
     "primaryAbilities": [
@@ -1441,13 +1375,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/arthas_summonSindragosa.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Frostmourne Hungers",
-        "description": "Activate to make your next Basic Attack strike immediately, do 100% increased damage, and restore a moderate amount of Mana.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/arthas_frostmourneHungers.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Frostmourne Hungers",
+      "description": "Activate to make your next Basic Attack strike immediately, do 100% increased damage, and restore a moderate amount of Mana.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/arthas_frostmourneHungers.png"
+    }
   },
   "Diablo": {
     "primaryAbilities": [
@@ -1484,13 +1416,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/diablo_lightningBreath.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Black Soulstone",
-        "description": "Gain 10 Souls per Hero killed, or 1 per Minion. For each Soul, increase maximum Health by a small amount. If you have 100 Souls upon dying, you resurrect in 5 seconds and lose 100 Souls. Maximum 100 Souls.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/diablo_blackSoulstone.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Black Soulstone",
+      "description": "Gain 10 Souls per Hero killed, or 1 per Minion. For each Soul, increase maximum Health by a small amount. If you have 100 Souls upon dying, you resurrect in 5 seconds and lose 100 Souls. Maximum 100 Souls.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/diablo_blackSoulstone.png"
+    }
   },
   "ETC": {
     "primaryAbilities": [
@@ -1527,13 +1457,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/etc_stageDive.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Rockstar",
-        "description": "When you use a Basic or Heroic ability, give 20% Attack Speed for 3 seconds to all nearby allies. Minions gain half the bonus.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/etc_rockstar.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Rockstar",
+      "description": "When you use a Basic or Heroic ability, give 20% Attack Speed for 3 seconds to all nearby allies. Minions gain half the bonus.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/etc_rockstar.png"
+    }
   },
   "Falstad": {
     "primaryAbilities": [
@@ -1570,13 +1498,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/falstad_mightyGust.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Tailwind",
-        "description": "Gain 20% increased Movement Speed after not taking damage for 6 seconds.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/falstad_tailwind.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Tailwind",
+      "description": "Gain 20% increased Movement Speed after not taking damage for 6 seconds.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/falstad_tailwind.png"
+    }
   },
   "Gazlowe": {
     "primaryAbilities": [
@@ -1613,13 +1539,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/gazlowe_gravOBomb3000.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Salvager",
-        "description": "Destroyed enemy Structures and your Rock-it! Turrets drop scrap. Collecting scrap restores a moderate amount of Mana and causes your Abilities to cooldown twice as fast for 3 seconds.  Activate Salvager to dismantle a target Rock-it! Turret and turn it into scrap.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/gazlowe_salvager.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Salvager",
+      "description": "Destroyed enemy Structures and your Rock-it! Turrets drop scrap. Collecting scrap restores a moderate amount of Mana and causes your Abilities to cooldown twice as fast for 3 seconds.  Activate Salvager to dismantle a target Rock-it! Turret and turn it into scrap.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/gazlowe_salvager.png"
+    }
   },
   "Illidan": {
     "primaryAbilities": [
@@ -1656,13 +1580,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/illidan_theHunt.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Betrayer's Thirst",
-        "description": "Basic Attacks heal for 20% of damage dealt and reduce your Ability cooldowns by 1 second.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/illidan_betrayersThirst.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Betrayer's Thirst",
+      "description": "Basic Attacks heal for 20% of damage dealt and reduce your Ability cooldowns by 1 second.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/illidan_betrayersThirst.png"
+    }
   },
   "Kerrigan": {
     "primaryAbilities": [
@@ -1699,13 +1621,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/kerrigan_summonUltralisk.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Assimilation",
-        "description": "Gain 10% of damage dealt from Basic Attacks and Abilities as Shields for 6 seconds. Shield amount gained doubled against Heroes.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/kerrigan_assimilation.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Assimilation",
+      "description": "Gain 10% of damage dealt from Basic Attacks and Abilities as Shields for 6 seconds. Shield amount gained doubled against Heroes.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/kerrigan_assimilation.png"
+    }
   },
   "Malfurion": {
     "primaryAbilities": [
@@ -1742,13 +1662,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/malfurion_twilightDream.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Innervate",
-        "description": "Grant target allied Hero a large amount of Mana over 10 seconds.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/malfurion_innervate.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Innervate",
+      "description": "Grant target allied Hero a large amount of Mana over 10 seconds.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/malfurion_innervate.png"
+    }
   },
   "Muradin": {
     "primaryAbilities": [
@@ -1785,13 +1703,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/muradin_haymaker.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Second Wind",
-        "description": "Restore a moderate amount of Health each second when you have not taken damage for 4 seconds. When below 40% Health, Health restored per second doubles.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/muradin_secondWind.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Second Wind",
+      "description": "Restore a moderate amount of Health each second when you have not taken damage for 4 seconds. When below 40% Health, Health restored per second doubles.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/muradin_secondWind.png"
+    }
   },
   "Nazeebo": {
     "primaryAbilities": [
@@ -1828,13 +1744,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/nazeebo_ravenousSpirit.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Voodoo Ritual",
-        "description": "Ability and attack damage poisons enemies for a small amount of additional damage over 4 seconds.   If a poisoned enemy dies, Nazeebo regenerates 2% Health and 1% Mana.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/nazeebo_voodooRitual.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Voodoo Ritual",
+      "description": "Ability and attack damage poisons enemies for a small amount of additional damage over 4 seconds.   If a poisoned enemy dies, Nazeebo regenerates 2% Health and 1% Mana.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/nazeebo_voodooRitual.png"
+    }
   },
   "Nova": {
     "primaryAbilities": [
@@ -1871,13 +1785,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/nova_precisionStrike.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Permanent Cloak, Sniper",
-        "description": "Cloak when out of combat for 3 seconds. Taking damage, attacking, or channeling reveals you.  Basic Attack range is 20% further than other ranged Heroes, and you see 10% further than other Heroes.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/nova_permanentCloakSniper.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Permanent Cloak, Sniper",
+      "description": "Cloak when out of combat for 3 seconds. Taking damage, attacking, or channeling reveals you.  Basic Attack range is 20% further than other ranged Heroes, and you see 10% further than other Heroes.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/nova_permanentCloakSniper.png"
+    }
   },
   "Raynor": {
     "primaryAbilities": [
@@ -1914,13 +1826,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/raynor_raynorsRaiders.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Advanced Optics",
-        "description": "Basic Attack range is 20% further than other ranged Heroes, and you see 10% further than other Heroes.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/raynor_advancedOptics.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Advanced Optics",
+      "description": "Basic Attack range is 20% further than other ranged Heroes, and you see 10% further than other Heroes.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/raynor_advancedOptics.png"
+    }
   },
   "SgtHammer": {
     "primaryAbilities": [
@@ -1957,13 +1867,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/sgt-hammer_napalmStrike.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Artillery",
-        "description": "Basic Attacks deal 20% more damage to distant enemies.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/sgt-hammer_artillery.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Artillery",
+      "description": "Basic Attacks deal 20% more damage to distant enemies.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/sgt-hammer_artillery.png"
+    }
   },
   "Sonya": {
     "primaryAbilities": [
@@ -2000,13 +1908,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/sonya_wrathOfTheBerserker.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Fury",
-        "description": "Use Fury instead of Mana, which is gained by taking or dealing damage. Using an Ability grants 10% Movement Speed for 4 seconds.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/sonya_fury.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Fury",
+      "description": "Use Fury instead of Mana, which is gained by taking or dealing damage. Using an Ability grants 10% Movement Speed for 4 seconds.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/sonya_fury.png"
+    }
   },
   "Stitches": {
     "primaryAbilities": [
@@ -2043,13 +1949,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/stitches_gorge.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Vile Gas",
-        "description": "When damaged, Stitches emits a gas cloud that persists for 4 seconds. Enemies who enter it are poisoned, taking light damage each second for 3 seconds.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/stitches_vileGas.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Vile Gas",
+      "description": "When damaged, Stitches emits a gas cloud that persists for 4 seconds. Enemies who enter it are poisoned, taking light damage each second for 3 seconds.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/stitches_vileGas.png"
+    }
   },
   "Tassadar": {
     "primaryAbilities": [
@@ -2086,13 +1990,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/tassadar_forceWall.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Oracle",
-        "description": "Greatly increases your vision radius and allows you to detect Stealthed enemy Heroes. Lasts for 5 seconds.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/tassadar_oracle.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Oracle",
+      "description": "Greatly increases your vision radius and allows you to detect Stealthed enemy Heroes. Lasts for 5 seconds.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/tassadar_oracle.png"
+    }
   },
   "Tyrael": {
     "primaryAbilities": [
@@ -2129,13 +2031,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/tyrael_sanctification.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Archangel's Wrath",
-        "description": "When you die, become invulnerable and explode for massive damage after 3.5 seconds.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/tyrael_archangelsWrath.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Archangel's Wrath",
+      "description": "When you die, become invulnerable and explode for massive damage after 3.5 seconds.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/tyrael_archangelsWrath.png"
+    }
   },
   "Tyrande": {
     "primaryAbilities": [
@@ -2172,13 +2072,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/tyrande_shadowstalk.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Hunter's Mark",
-        "description": "Marks a target enemy, increasing all damage taken by 25% and revealing them for 4 seconds. Cannot be used on Structures.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/tyrande_huntersMark.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Hunter's Mark",
+      "description": "Marks a target enemy, increasing all damage taken by 25% and revealing them for 4 seconds. Cannot be used on Structures.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/tyrande_huntersMark.png"
+    }
   },
   "Uther": {
     "primaryAbilities": [
@@ -2215,13 +2113,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/uther_divineStorm.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Eternal Devotion",
-        "description": "Upon dying, become an Invulnerable spirit for up to 10 seconds. Your Abilities and Basic Attacks do 50% healing and damage.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/uther_eternalDevotion.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Eternal Devotion",
+      "description": "Upon dying, become an Invulnerable spirit for up to 10 seconds. Your Abilities and Basic Attacks do 50% healing and damage.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/uther_eternalDevotion.png"
+    }
   },
   "Valla": {
     "primaryAbilities": [
@@ -2258,13 +2154,11 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/valla_rainOfVengeance.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Hatred",
-        "description": "Basic Attacks grant a stack of Hatred, up to 10. Each Hatred stack increases Basic Attack damage by 2% and Movement Speed by 1%.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/valla_hatred.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Hatred",
+      "description": "Basic Attacks grant a stack of Hatred, up to 10. Each Hatred stack increases Basic Attack damage by 2% and Movement Speed by 1%.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/valla_hatred.png"
+    }
   },
   "Zeratul": {
     "primaryAbilities": [
@@ -2301,12 +2195,10 @@
         "image": "http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/zeratul_voidPrison.jpg"
       }
     ],
-    "heroTrait": [
-      {
-        "name": "Permanent Cloak",
-        "description": "Automatically cloak when out of combat for 3 seconds.   Taking damage, attacking, or channeling reveals you.",
-        "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/zeratul_permanentCloak.png"
-      }
-    ]
+    "heroTrait": {
+      "name": "Permanent Cloak",
+      "description": "Automatically cloak when out of combat for 3 seconds.   Taking damage, attacking, or channeling reveals you.",
+      "icon": "http://us.battle.net/heroes/static/images/heroes/static/images/heroes/skills/icons/zeratul_permanentCloak.png"
+    }
   }
 }
