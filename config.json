@@ -1,8 +1,10 @@
 {
-  "updated": "2016-09-09T13:41:03.848Z",
-  "version": "1.0.0+alpha",
+  "updated": "2016-09-05T14:10:13.445Z",
+  "version": "1.1.0",
   "endpoints": {
-    "heroes": "https://raw.githubusercontent.com/hex/hots-helper-data/master/heroes.json"
+    "heroes": "https://raw.githubusercontent.com/hex/hots-helper-data/master/heroes.json",
+    "heroTips": "https://raw.githubusercontent.com/hex/hots-helper-data/master/heroTips.json",
+    "mapTips": "https://raw.githubusercontent.com/hex/hots-helper-data/master/mapTips.json"
   },
   "assetBundlesURL": "https://s3.amazonaws.com/hots.helper/AssetBundles/",
   "assetBundles": {
