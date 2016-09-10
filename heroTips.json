@@ -322,7 +322,7 @@
       "details": "Don't assume that the symbiote can carry you to victory if you're injured and outnumbered - even with Regenerative Microbes, it can be better to retreat and heal up for a few seconds before re-engaging. Conversely, you now have a buddy watching your back and can play a *bit* more dangerously than you would on your own. Chasing a wounded enemy you can't quite catch may let Abathur finish them off with a well-aimed Stab, but don't chase too far.",
       "type": "Helper",
       "patch": "Sylvanas",
-      "realVotes": 60
+      "realVotes": 61
     },
     {
       "details": "A good Tyrande can snipe Abathur in his hiding place if she goes for Ranger + Rewind and hits 2 W's in succession.",
@@ -340,7 +340,7 @@
       "details": "Noting the directions his locusts approach from and the duration left on them can help you root Abathur out of his hiding spots. Nova and Zeratul are excellent for picking him off when he feels safe behind walls, and a well-aimed owl or two from Tyrande can serve the same purpose.",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 130
+      "realVotes": 131
     },
     {
       "details": "When you're playing Abathur on the mines, be aware that you can stack a lot of xp during the skulls phases.\nPosition yourself in one of the brushes near one entrance, and symbiote the other lane for double lane soak at a time.\nKeep an eye on the movement inside the mines, and remember to spore one of the exits, to pick up easy low hp targets.",
@@ -358,13 +358,13 @@
       "details": "Diablo's Apocalypse global AOE ult interrupts the Symbiote and reveals Abathur's position, allowing you to lock down a symbiote build for a few seconds in team-oriented fights.",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 69
+      "realVotes": 70
     },
     {
       "details": "Be careful when hiding in bushes at low health, as you might run into one of Abathur's mines.",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 29
+      "realVotes": 30
     },
     {
       "details": "When you Symbiote a target, it may often be a good idea to throw out all of your abilities (both stabs, spike burst and carapace) and then removing your symbiote. Doing so acts as a soft cooldown reset on all of your symbiote's abilities, allowing you to use the shield and spike burst more often, as well as giving you an opportunity to examine the rest of the battlefield, place mines, change position, etc.",
@@ -376,7 +376,7 @@
       "details": "If you suspect that Abathur set up a mine field, considering using Area of Effect abilities in the area where you think the mines might be to clear them and avoid a deadly trap.",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 19
+      "realVotes": 20
     },
     {
       "details": "If you play a hero requiring vision to be effective (Zagara nydus, Falstad, etc...), ask your Abathur to land mines in different locations to provide you free and stealthed vision, to land a Zagarabathur backdoor combo for example.",
@@ -457,12 +457,6 @@
       "realVotes": 8
     },
     {
-      "details": "If there are no other heroes in a lane, and Abathur has used his Symbiote on a minion, kill that minion as soon as possible. He cannot gather experience unless he or a symbiote/heroic summon are nearby, or a locust lands the killing blow on a minion.",
-      "type": "Counter",
-      "patch": "Sylvanas",
-      "realVotes": 29
-    },
-    {
       "details": "Master different builds for different maps.  The smaller the map, the more you should lean towards a Hat build.  The bigger the map, the more you should lean towards a locust build.",
       "type": "As",
       "patch": "Sylvanas",
@@ -472,7 +466,7 @@
       "details": "During the laning phase tell your Abathur that you going to ping twice or so to grab his attention. Communicate is the key to win ;)",
       "type": "Helper",
       "patch": "Sylvanas",
-      "realVotes": 94
+      "realVotes": 95
     },
     {
       "details": "After level 20, a popular talent pick is Overmind, which basically makes symbiote work on two targets. If you symbiote a target, the closest hero (in a range the size of a fort's range) will also get a symbiote, and mimic the abilities cast on the 1st one. It's very important to try and stay together, since getting out of symbiote range will cancel the 2nd symbiote.",
@@ -496,7 +490,7 @@
       "details": "In the cursed hollow map, the best time to go for an abby kill is during the curse. He will obviously not have protection from the towers.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 13
+      "realVotes": 14
     },
     {
       "details": "Your nests do AOE damage. Placing them in a lane before enemy minions arrive only do damage to the first (and maybe second) minion that runs into them. Wait for the minions to stop before placing a nest and drop it directly under a group. When it spawns, it will hit all minions in the area. Avoid doing this if an enemy hero is present as they will most likely see it and destroy it before it spawns.",
@@ -574,7 +568,7 @@
       "details": "Don't hesitate to send someone to kill Abathur's Monstrosity. It lives till death (doesn't have a timer), so it needs your team's attention. It can look like a hassle to deal with it, but killing it as soon as possible puts it on a long cooldown during which time your team can make moves without worrying about him splitpushing while you'd be busy elsewhere otherwise.",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 33
+      "realVotes": 34
     },
     {
       "details": "Ask your teammates what Talent builds they intend to use. Often, this simple probe immediately reveals your team's Free Week players, lone wolves, streamers (who may be playing sub-optimally to indulge their viewers), and attention-hungry self-declared \"team captains.\" Plan accordingly.",
@@ -586,7 +580,7 @@
       "details": "Kill Abathurs Monstrosity before its able to farm stacks (gained by minion kills} It can gain upto 1500+ Health, and 150+ Attack Damage, making it a big threat - strong enough to 1v1 an unexpecting Hero.",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 89
+      "realVotes": 90
     },
     {
       "details": "when chasing abby, save your stun(s) until he tries to tunnel away",
@@ -616,7 +610,13 @@
       "details": "Be careful if you're low health and close to an enemy minion wave. Abathur can quickly use symbiote on a minion and shoot you.",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 26
+      "realVotes": 27
+    },
+    {
+      "details": "If there are no other heroes in a lane, and Abathur has used his Symbiote on a minion, kill that minion as soon as possible. He cannot gather experience unless he or a symbiote/heroic summon are nearby, or a locust lands the killing blow on a minion.",
+      "type": "Counter",
+      "patch": "Sylvanas",
+      "realVotes": 30
     }
   ],
   "brightwing": [
