@@ -1454,7 +1454,7 @@
       "details": "Getting attacked while entering a Nydus worm doesn't cancel it. Only a stun can cancel it.",
       "type": "As",
       "patch": "Sylvanas",
-      "realVotes": 26
+      "realVotes": 25
     },
     {
       "details": "Avoid 1v1ing Zagara as a squishy - she does extremely high amounts of damage, and can kill most assassins faster than they can kill her.",
@@ -12210,7 +12210,7 @@
       "details": "Your Q and W out-range towers and forts.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 45
+      "realVotes": 46
     },
     {
       "details": "As mentioned earlier she is very skill shot dependent. Her q takes some time to come out and is easy to dodge. Her orb is slowing and also easy to dodge. If you can \"list lazily to the left\" you will dodge everything she has",
@@ -12246,7 +12246,7 @@
       "details": "If there are a few minions between her and you, she can't touch you (exception is Disintigrate heroic). Nazeebo's Zombie Wall can completely block her damage for a few seconds.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 40
+      "realVotes": 39
     },
     {
       "details": "Li-mings health pool is really low, however she is really evasive. Try to get her into stunlock and she will just be evaporated within 3 seconds",
