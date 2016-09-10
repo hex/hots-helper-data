@@ -350,7 +350,7 @@
       "details": "When you get a curse, don't go for a boss unless it's late game.  You could be doing other productive things, like soaking the die-crazy-fast minions and tower diving hapless enemies.",
       "type": "Helper",
       "patch": "Sylvanas",
-      "__v": 88
+      "__v": 89
     },
     {
       "details": "If you have just reached 2/3 tributes, make sure to take boss if it's a good opportunity. The 3rd one will spawn right after taking boss, and the enemy have to choose between the 3rd tribute and the boss. Then, after taking the 3rd one, curse is up, meaning keeps/towers can't attack the boss.",
@@ -648,7 +648,7 @@
       "details": "The very first chests appear on the map at 0m50s. They have enough coins to start the bombardment.",
       "type": "Helper",
       "patch": "Sylvanas",
-      "__v": 145
+      "__v": 146
     },
     {
       "details": "Protect players carrying large amounts of coins - ideally they will be very mobile heroes or heroes with a great escape. When you want to hand in coins make sure you bring teammates to cover you, and similarly if the enemy is trying to hand in it is a great opportunity to teamfight as they stand to lose coins you can immediately turn in if you win the brawl.",
@@ -678,7 +678,7 @@
       "details": "When your team is protecting someone who is turning in coins, don't simply stand next to him. Try to position yourselves at a distance, between him and the most likely position of enemy heroes. This way, they cannot get close to him for interrupting without taking a lot of damage.",
       "type": "Helper",
       "patch": "Sylvanas",
-      "__v": 105
+      "__v": 106
     },
     {
       "details": "Attacking a chest always does 1 dmg per attack/ability. High attack rate heroes/abilities or channeled abilities are best for destroying them quick, such as Azmodan's All Shall Burn. Keep this in mind before you blow all of your single attack cooldowns, which you could have used to protect yourself from ambush.",
@@ -1086,7 +1086,7 @@
       "details": "Greymane left unchecked will destroy an Immortals HP, if you can zone for him it'll probably be as fast if not faster than trying to fend off a whole team whilst attacking as 5.",
       "type": "Helper",
       "patch": "Kael'thas",
-      "__v": 3
+      "__v": 4
     },
     {
       "details": "The Immortals will become immune and switch sides once one of the immortals has reached 50% health. If you had a spell that hits multiple times like Jaina's Blizzard, be mindful of the switch to avoid wasting.",
@@ -1098,7 +1098,7 @@
       "details": "Globally, the Map is about finding a balance between defending your Eternal and taking down the enemy's. Of course, sometimes you won't need to protect your Eternal when let's say the enemy team is on a respawn cooldown, but that's situation-dependent.",
       "type": "Helper",
       "patch": "Kael'thas",
-      "__v": 48
+      "__v": 49
     },
     {
       "details": "Waiting for the Immortal announcement to hearth and get health is not an appropriate time to do so.(There is only 10-15 seconds of warning before the Immortal comes up). This is ok at  Garden Terror map(because you get much more time to hearth) but not ok on this map. Arriving late and with no resources(Hp and mana) can mean certain doom. Plan to arrive at the objective early and with full health. Hopefully your team has done the same. Being punctual can earn yourself a win.",
@@ -1324,7 +1324,7 @@
       "details": "Since so many people don't seem to know this (including me for the longest time) if you capture a siege camp in a lane with the enemy keep already taken, the siege minions will run towards the enemies wall and take 1 shot per minion still alive at the enemy core.",
       "type": "Helper",
       "patch": "Kael'thas",
-      "__v": 11
+      "__v": 12
     },
     {
       "details": "In a situation where you're behind or your team fight potential is weaker than theirs and three altars spawn, it's usually better to commit to just the bottom altar instead of contesting for two. You're not going to win these fights and so you should use this time getting the enemy bot camp and/or the bot keep depending on how far into the game you're in.\n\nThis can be extended as a general tip. Commit 4 people to one altar (preferably on their side) forcing given that the enemy team has commited 4 people to one altar. Another altar can be contested by the fifth members. It's usually better to have a flexible hero there who isn't your main frontline/damage/support so that your teamfight isn't impacted too much.",
