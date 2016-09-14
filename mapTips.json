@@ -174,7 +174,7 @@
       "details": "If you are the dragon knight, don't suicide into the enemy team to get a few whacks at a fort.  Your team needs to support you.  Likewise, remember to support your friendly neighborhood dragon knight so it can start doing ridiculous structural damage.",
       "type": "Helper",
       "patch": "Sylvanas",
-      "__v": 167
+      "__v": 168
     },
     {
       "details": "Always try to have someone roaming between the towers and the Dragon Knight when the towers are up, so you can either: disable someone from capturing the Knight for long enough to contest a tower and capture it; or keep a tower on your side so someone can capture the Knight.",
@@ -198,13 +198,13 @@
       "details": "If there is a choice, the Dragon Knight should be captured by either The Lost Vikings, a Warrior hero, or hero with an easy escape (Zeratul or Tassadar). Supports should not take DK if there is an option (Tassadar being the exemption). -Tadius",
       "type": "Helper",
       "patch": "Sylvanas",
-      "__v": 62
+      "__v": 63
     },
     {
       "details": "Please dont kick away low opponents with the DK. Its a skill that should be used to kick away FULL healed opponents (tanks at best) to zone them out. If you use it on low HP enemies you'll just save them!!\nAlso when being the DK please clear the creep first with ur Q instead of walking into 5 enemies a full creep wave and 3 towers without any support and then type in chat \"I PUSH\"...",
       "type": "Helper",
       "patch": "Sylvanas",
-      "__v": 138
+      "__v": 139
     },
     {
       "details": "In the early game, having three heroes on the bottom lane makes it easier to contest the bottom-lane mercenary camps, which are both greater in number and easier to take than the ones between the middle and top lanes.",
@@ -264,7 +264,7 @@
       "details": "IN this map, teleporters are the best (Dehaka, BW, Falstad). Use them to unbalance a fight over a shrine",
       "type": "Helper",
       "patch": "Kael'thas",
-      "__v": 5
+      "__v": 6
     },
     {
       "details": "Punt dolls toward your base cannons whenever possible.",
@@ -624,7 +624,7 @@
       "details": "Don't carry coins as Murky...",
       "type": "Helper",
       "patch": "Sylvanas",
-      "__v": 346
+      "__v": 347
     },
     {
       "details": "Always let the tanks carry most of the coins, because they can take lots of punishment at the pirate.",
@@ -1110,7 +1110,7 @@
       "details": "The attacking Eternal will be attacking your/your  enemy's strongest lane.",
       "type": "Helper",
       "patch": "Kael'thas",
-      "__v": 244
+      "__v": 245
     },
     {
       "details": "Remember to also soak experience at least during first immortal fight. One level have far higher value then first immortal. (This does not mean You should not fight for objective, just do not overcommit)",
@@ -1164,7 +1164,7 @@
       "details": "There is a common mistake that people does often in low ranks: defend first. Even if you wipe the enemy team at the very first immortal the respawn time is pretty short and this doens't give you a true advantage for your team. Instead is more important to benear the immortals as the cooldown is close to zero and try to attack first and fast as possible. Then keep the strategy balanced between defending and attacking the immortal.",
       "type": "Helper",
       "patch": "Kael'thas",
-      "__v": 19
+      "__v": 20
     },
     {
       "details": "The attacking Eternal's Shield is equal to his remaining Health.",
@@ -1176,7 +1176,7 @@
       "details": "Sgt. Hammer outranges the Immortal's abilities, allowing her to pound into them without fearing any sort of stuns or damage from them at her maximum range. With her high sustain DPS she should be the number one target for any team looking to disrupt the enemy when they are attacking their immortal",
       "type": "Helper",
       "patch": "Kael'thas",
-      "__v": 39
+      "__v": 40
     }
   ],
   "infernalshrines": [

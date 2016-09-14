@@ -787,15 +787,15 @@
         "name": "Fresh Meat",
         "cost": "",
         "cooldown": "",
-        "description": "Nearby Minions drop 1  and Heroes drop 3 Fresh Meat when they die, which you can pick up to gain 1% bonus Attack Damage. Can hold up to 25 Meat. All Meat is lost on dying.",
+        "description": "Quest: Nearby Minions drop 1 Fresh Meat and Heroes drop 5 Fresh Meat when they die. You can pick up Fresh Meat to gain 1 Basic Attack damage per Meat. Can hold up to 125 Meat. You drop up to 10 Fresh Meat upon dying. Reward: After acquiring 125 pieces of Fresh Meat, gain and additional 100 Basic Attack damage and 25% increased Attack Speed. You also no longer lose Fresh Meat on death.",
         "key": "",
         "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/8/87/Fresh_Meat_Icon.png/76px-Fresh_Meat_Icon.png?version=01b1779cf50190da8252d035de9652a1"
       },
       {
         "name": "Hamstring",
-        "cost": "50 Mana",
+        "cost": "40 Mana",
         "cooldown": "4 seconds",
-        "description": "Deal 240 (50 + 10 per level) damage and slow enemies by 49.92% fading over 2 seconds.  Your next Basic Attack will strike immediately.",
+        "description": "Deal 242 (115 + 4% per level) damage and slow enemies by 49.92% fading over 2 seconds.  Your next Basic Attack will strike immediately.",
         "key": "Q",
         "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/3/32/Hamstring_Icon.png/76px-Hamstring_Icon.png?version=733c482c75c5429ca07d9cfd73236eab"
       },
@@ -803,7 +803,7 @@
         "name": "Butcher's Brand",
         "cost": "60 Mana",
         "cooldown": "14 seconds",
-        "description": "Deal 80 (32.5 + 2.5 per level) damage to an enemy and cause your Basic Attacks against them to heal you for 75% of the damage done for 5 seconds. Healing doubled versus Heroes.",
+        "description": "Deal 82 (39 + 4% per level) damage to an enemy and cause your Basic Attacks against them to heal you for 75% of the damage done for 5 seconds. Healing doubled versus Heroes. Last 4 seconds. Your Basic Attacks against a branded Hero increase the duration by 0.5 seconds.",
         "key": "W",
         "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/5/56/Butcher%27s_Brand_Icon.png/76px-Butcher%27s_Brand_Icon.png?version=631a38201a589a7972e41870f1c4ccbe"
       },
@@ -811,25 +811,25 @@
         "name": "Ruthless Onslaught",
         "cost": "55 Mana",
         "cooldown": "15 seconds",
-        "description": "Charge at an enemy, becoming Unstoppable and gaining Movement Speed. If you reach the target, they are stunned for 1 second and take 260 (70 + 10 per level) damage.",
+        "description": "Charge at an enemy, becoming Unstoppable and gaining Movement Speed. If you reach the target, they are stunned for 1 second and take 261 (124 + 4% per level) damage.",
         "key": "E",
         "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/8/84/Ruthless_Onslaught_Icon.png/76px-Ruthless_Onslaught_Icon.png?version=7fc054fcc658090ae03c47a567b595b2"
-      },
-      {
-        "name": "Lamb to the Slaughter",
-        "cost": "75 Mana",
-        "cooldown": "80 seconds",
-        "description": "Throw a hitching post that attaches to the nearest enemy Hero after a 1 second delay.  This deals 375 (90 + 15 per level) damage and causes the enemy to be chained to the post for 4 seconds.",
-        "key": "R",
-        "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/2/23/Lamb_to_the_Slaughter_Icon.png/76px-Lamb_to_the_Slaughter_Icon.png?version=81bf9c2b8dcc9f0ba9e3aa2ab708fa9e"
       },
       {
         "name": "Furnace Blast",
         "cost": "75 Mana",
         "cooldown": "90 seconds",
-        "description": "After a 3 second delay, fire explodes around you dealing 1000 (335 + 35 per level) damage to enemies.Can be cast while using Ruthless Onslaught.",
+        "description": "After a 3 second delay, fire explodes around you dealing 1096 (520 + 4% per level) damage to enemies.Can be cast while using Ruthless Onslaught.",
         "key": "R",
         "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/d/d2/Furnace_Blast_Icon.png/76px-Furnace_Blast_Icon.png?version=1bfac6bdb8e85c813258ea31315640fd"
+      },
+      {
+        "name": "Lamb to the Slaughter",
+        "cost": "75 Mana",
+        "cooldown": "80 seconds",
+        "description": "Throw a hitching post that attaches to the nearest enemy Hero after a 1 second delay.  This deals 375 (178 + 4% per level) damage and causes the enemy to be chained to the post for 4 seconds.",
+        "key": "R",
+        "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/2/23/Lamb_to_the_Slaughter_Icon.png/76px-Lamb_to_the_Slaughter_Icon.png?version=81bf9c2b8dcc9f0ba9e3aa2ab708fa9e"
       }
     ],
     "franchise": "Diablo"
@@ -1015,31 +1015,31 @@
         "name": "Hatred",
         "cost": "",
         "cooldown": "",
-        "description": "Basic Attacks grant a stack of Hatred, up to 10. Each Hatred stack increases Basic Attack damage by 2% and Movement Speed by 1%.",
+        "description": "Basic Attacks grant a stack of Hatred, up to 10. Each Hatred stack increases Basic Attack damage by 8% and Movement Speed by 1%. Last 4 seconds.",
         "key": "",
         "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/c/c6/Hatred_Icon.png/76px-Hatred_Icon.png?version=d17e416a4072c505278c5ffa859b20e9"
       },
       {
         "name": "Hungering Arrow",
         "cost": "60 Mana",
-        "cooldown": "14 seconds",
-        "description": "Fire an arrow that deals 366 (174 + 4% per level) damage to the first target hit, then seeks up to 2 additional enemies dealing 185 (88 + 4% per level) damage. Can hit an enemy multiple times.",
+        "cooldown": "10 seconds",
+        "description": "Fire an arrow that deals 307 (146 + 4% per level) damage to the first target hit, then seeks up to 2 additional enemies dealing 176 (84 + 4% per level) damage. Can hit an enemy multiple times.",
         "key": "Q",
         "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/1/1c/Hungering_Arrow_Icon.png/76px-Hungering_Arrow_Icon.png?version=5f78216306b3a8ea6a2331ba0f35dbbc"
       },
       {
         "name": "Multishot",
-        "cost": "60 Mana",
-        "cooldown": "8 seconds",
+        "cost": "75 Mana",
+        "cooldown": "12 seconds",
         "description": "Deal 360 (171 + 4% per level) damage to enemies within the target area.",
         "key": "W",
         "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/e/ed/Multishot_Icon.png/76px-Multishot_Icon.png?version=38e067d924dde30e2ea3cb948d39d0d6"
       },
       {
         "name": "Vault",
-        "cost": "75 Mana",
+        "cost": "50 Mana",
         "cooldown": "10 seconds",
-        "description": "Dash to the target area.",
+        "description": "Dash to the target area. Your next Basic Attack within 2 second deals 5% increased damage per stack of Hatred.",
         "key": "E",
         "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/f/fe/Vault_Icon.png/76px-Vault_Icon.png?version=b1814975717e25056eb54011da7327ca"
       },
@@ -1047,15 +1047,15 @@
         "name": "Strafe",
         "cost": "80 Mana",
         "cooldown": "60 seconds",
-        "description": "Rapidly attack nearby visible enemies for 149 (71 + 4% per level) damage per hit, prioritizing heroes over minions. Valla is able to move and use Vault while strafing. Lasts for 4 seconds.",
+        "description": "Rapidly attack nearby visible enemies for 132 (63 + 4% per level) damage per hit, prioritizing heroes over minions. Valla is able to move and use Vault while strafing. Lasts for 4 seconds.",
         "key": "R",
         "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/b/b2/Strafe_Icon.png/76px-Strafe_Icon.png?version=dece6eab1f9cbe8102e004353b253b2f"
       },
       {
         "name": "Rain of Vengeance",
-        "cost": "100 Mana",
-        "cooldown": "90 seconds",
-        "description": "Launch 2 waves of Shadow Beasts that deal 561 (267 + 4% per level) damage to enemies within the target area, stunning for 0.5 seconds per wave.",
+        "cost": "50 Mana",
+        "cooldown": "60 seconds",
+        "description": "Launch a wave of Shadow Beasts that deals 493 (234 + 4% per level) damage and stuns enemies in the target area for 0.5 seconds. Stores 2 charges.",
         "key": "R",
         "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/b/b5/Rain_of_Vengeance_Icon.png/76px-Rain_of_Vengeance_Icon.png?version=70bf92a34f2cf0062934f1de79366081"
       }

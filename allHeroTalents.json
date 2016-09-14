@@ -1561,13 +1561,13 @@
   },
   "ChopMeat": {
     "name": "Chop Meat",
-    "description": "Increases the damage of Hamstring by 50% to non-Heroic targets, and Minions killed by Hamstring drop 3 stacks of meat.",
+    "description": "Hamstring does 100% more damage to targets affected by a slow, root, or stun.",
     "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/1/1a/Chop_Meat_Icon.png/64px-Chop_Meat_Icon.png?version=a8e00ac7b323eddd616c80009e51bf1c"
   },
-  "Victuals": {
-    "name": "Victuals",
-    "description": "Heal for 3% of your Maximum Health when you collect Fresh Meat. Meat continues to drop at maximum stacks.",
-    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/6/62/Victuals_Icon.png/64px-Victuals_Icon.png?version=3879a3c3285109ef253ab959ce4c5194"
+  "Abattoir": {
+    "name": "Abattoir",
+    "description": "Decreases the amount of Fresh Meat lost on death from 10 to 5. Once you complete the Fresh Meat quest, Heroes continue to drop Meat that grants Attack Damage. This bonus Meat is not lost on death.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/2/25/Abattoir_Icon.png/64px-Abattoir_Icon.png?version=2b65af0d96fd18612edf6c2ba22e5842"
   },
   "FlailAxe": {
     "name": "Flail Axe",
@@ -1579,55 +1579,50 @@
     "description": "Reduces the cooldown of Ruthless Onslaught by 40% upon impact.",
     "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/8/88/Unrelenting_Pursuit_Icon.png/64px-Unrelenting_Pursuit_Icon.png?version=c3b4e0e9494148c4af6935be98284324"
   },
-  "BrutalStrike": {
-    "name": "Brutal Strike",
-    "description": "After using Hamstring, your next Basic Attack deals an additional 50% damage.",
-    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/7/71/Brutal_Strike_Icon.png/64px-Brutal_Strike_Icon.png?version=b3531f147d252ae464ee3cfec6f83e27"
+  "CheapShot": {
+    "name": "Cheap Shot",
+    "description": "Hamstring does 100% more damage to targets affected by a slow, root, or stun.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/a/a8/Cheap_Shot_Icon.png/64px-Cheap_Shot_Icon.png?version=2c4d1ad6b324865ae3383cc1b6402afe"
   },
   "InsatiableBlade": {
     "name": "Insatiable Blade",
-    "description": "Increases Butcher's Brand's healing from 75% to 100% of your Basic Attack damage.",
+    "description": "Increases Butcher's Brand's healing from 75% to 100% of your Basic Attack damage. While facing the branded enemy, your Movement Speed is increased by 20%.",
     "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/b/bc/Insatiable_Blade_Icon.png/64px-Insatiable_Blade_Icon.png?version=6ba969f400a0ba15bf984689b8a345cb"
   },
-  "Abattoir": {
-    "name": "Abattoir",
-    "description": "Increases the maximum number of Fresh Meat to 35, and you only lose half upon death.",
-    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/2/25/Abattoir_Icon.png/64px-Abattoir_Icon.png?version=2b65af0d96fd18612edf6c2ba22e5842"
+  "Victuals": {
+    "name": "Victuals",
+    "description": "Every time a nearby enemy minion dies, you regain 4% of your maximum Health.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/6/62/Victuals_Icon.png/64px-Victuals_Icon.png?version=3879a3c3285109ef253ab959ce4c5194"
   },
-  "FinalAssault": {
-    "name": "Final Assault",
-    "description": "Increases Ruthless Onslaught's range by 33.33%, and causes you to lunge at the enemy when close to impact.",
-    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/e/ef/Final_Assault_Icon.png/64px-Final_Assault_Icon.png?version=653f379a53ef06886ad091dee9e61e2b"
+  "MeatShield": {
+    "name": "Meat Shield",
+    "description": "When Ruthless Onslaught impacts an enemy Hero, you take 50% reduced Ability Damage for 2.5 seconds.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/6/62/Meat_Shield_Icon.png/64px-Meat_Shield_Icon.png?version=8c2be7ed7a43abd14d3c06f01380e631"
   },
   "FurnaceBlast": {
     "name": "Furnace Blast",
-    "description": "Throw a hitching post that attaches to the nearest enemy Hero after a 1 second delay.  This deals 375 (90 + 15 per level) damage and causes the enemy to be chained to the post for 4 seconds.",
+    "description": "After a 3 second delay, fire explodes around you dealing 1096 (520 + 4% per level) damage to enemies.Can be cast while using Ruthless Onslaught.",
     "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/d/d2/Furnace_Blast_Icon.png/64px-Furnace_Blast_Icon.png?version=9f342d3ee0d71a7fef76557ff93892b7"
   },
   "LambtotheSlaughter": {
     "name": "Lamb to the Slaughter",
-    "description": "After a 3 second delay, fire explodes around you dealing 1000 (335 + 35 per level) damage to enemies.Can be cast while using Ruthless Onslaught.",
+    "description": "Throw a hitching post that attaches to the nearest enemy Hero after a 1 second delay.  This deals 375 (178 + 4% per level) damage and causes the enemy to be chained to the post for 4 seconds.",
     "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/2/23/Lamb_to_the_Slaughter_Icon.png/64px-Lamb_to_the_Slaughter_Icon.png?version=e21a0007e839326c49eadeab8ae06ec6"
   },
-  "BurningRage": {
-    "name": "Burning Rage",
-    "description": "Deal 23 damage per second to nearby enemies.",
-    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/9/99/Burning_Rage_Icon.png/64px-Burning_Rage_Icon.png?version=0e40e3fcafa8e12d444ba8abea08b147"
+  "Cleaver": {
+    "name": "Cleaver",
+    "description": "Basic Attack deal 35% of your Basic Attack Damage in an area around the target.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/c/cf/Cleaver_Icon.png/64px-Cleaver_Icon.png?version=57f956453c7d0c6a4c1862b0ae03b19d"
   },
   "SavageCharge": {
     "name": "Savage Charge",
-    "description": "Ruthless Onslaught deals bonus damage to Heroes equal to 15% of their current Health.",
+    "description": "Ruthless Onslaught deals bonus damage to Heroes equal to 10% of their maximum Health.",
     "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/0/04/Savage_Charge_Icon.png/64px-Savage_Charge_Icon.png?version=135c39a5cafefe5f522fb8b8fd10f865"
   },
-  "CraveFlesh": {
-    "name": "Crave Flesh",
-    "description": "While an enemy is affected by Butcher's Brand, you gain 30% Movement Speed.",
-    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/1/19/Crave_Flesh_Icon.png/64px-Crave_Flesh_Icon.png?version=abeafde8e47178c64dd327c4e1874f93"
-  },
-  "SpellShield": {
-    "name": "Spell Shield",
-    "description": "Upon taking Ability Damage, reduce that damage and further Ability Damage by 50% for 3 seconds.  Can only trigger once every 30 seconds.",
-    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/8/86/Spell_Shield_Icon.png/64px-Spell_Shield_Icon.png?version=b549422e5600ea5ebc315962218872cf"
+  "BrutalStrike": {
+    "name": "Brutal Strike",
+    "description": "After using Hamstring, your next 3 Basic Attacks within 5 seconds deal an additional 15% damage.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/7/71/Brutal_Strike_Icon.png/64px-Brutal_Strike_Icon.png?version=b3531f147d252ae464ee3cfec6f83e27"
   },
   "CripplingSlam": {
     "name": "Crippling Slam",
@@ -1636,13 +1631,13 @@
   },
   "Enraged": {
     "name": "Enraged",
-    "description": "Cooldown: 30 secondsReceiving damage that reduces you below 50% of your maximum Health causes you to become Enraged for 10 seconds. You gain 40% Attack Speed and reduce the duration of slows, stuns, silences, and roots against you by 75% while Enraged.",
+    "description": "Cooldown: 30 secondsReceiving damage that reduces you below 50% of your maximum Health causes you to become Enraged for 10 seconds. While Enraged, you gain 40% Attack Speed and become Resistant, reducing damage taken by 25%.",
     "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/e/e6/Enraged_Icon.png/64px-Enraged_Icon.png?version=daf64f454edc8e87537a38a31b886209"
   },
   "BloodFrenzy": {
     "name": "Blood Frenzy",
-    "description": "Fresh Meat also increases your Attack Speed by 1% per stack.",
-    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/b/bc/Blood_Frenzy_Icon.png/64px-Blood_Frenzy_Icon.png?version=37f84d6f328be822be3fa3bd59fc65ba"
+    "description": "Basic Attacks against enemy Heroes increase your Attack and Movement Speed by 5% for 3 seconds, stacking up to 5 times.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/b/bc/Blood_Frenzy_Icon.png/64px-Blood_Frenzy_Icon.png?version=8dc77a3374c3da8109d9ffe154e9d5be"
   },
   "FiresofHell": {
     "name": "Fires of Hell",
@@ -1718,6 +1713,11 @@
     "name": "Grace Of Air",
     "description": "Windfury attacks grant twice as many stacks of Frostwolf Resilience.",
     "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/f/f3/Grace_Of_Air_Icon.png/64px-Grace_Of_Air_Icon.png?version=e7b2514e4698b3bcc2c8bd4efac45476"
+  },
+  "SpellShield": {
+    "name": "Spell Shield",
+    "description": "Upon taking Ability Damage, reduce that damage and further Ability Damage by 50% for 3 seconds.  Can only trigger once every 30 seconds.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/8/86/Spell_Shield_Icon.png/64px-Spell_Shield_Icon.png?version=b549422e5600ea5ebc315962218872cf"
   },
   "ForkedLightning": {
     "name": "Forked Lightning",
@@ -1969,105 +1969,110 @@
     "description": "Run and Gun and Odin's Thrusters gain 2 additional charges and reduces Run and Gun's Mana cost from 50 to 25.",
     "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/0/04/Bob_and_Weave_Icon.png/64px-Bob_and_Weave_Icon.png?version=8a05cd55a61637e6a990814e9917296c"
   },
-  "CostEffectiveMaterials": {
-    "name": "Cost-Effective Materials",
-    "description": "Reduces the Mana cost of Hungering Arrow by 30.",
-    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/c/ca/Cost-Effective_Materials_Icon.png/64px-Cost-Effective_Materials_Icon.png?version=ffcd197c50ad67b53bf7a8779f8abf09"
-  },
-  "SiphoningArrow": {
-    "name": "Siphoning Arrow",
-    "description": "50% of the damage dealt by Hungering Arrow is returned as Health to Valla.",
-    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/f/f0/Siphoning_Arrow_Icon.png/64px-Siphoning_Arrow_Icon.png?version=087a2debb7ee85f3b519b23a95b33742"
-  },
-  "CompositeArrows": {
-    "name": "Composite Arrows",
-    "description": "Increases the range of Multishot by 20%.",
-    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/f/fa/Composite_Arrows_Icon.png/64px-Composite_Arrows_Icon.png?version=6424fdcff2e731a9774c1a8f41fef776"
-  },
-  "Rancor": {
-    "name": "Rancor",
-    "description": "Each Hatred stack increases Attack Speed by 1.5%",
-    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/7/7a/Rancor_Icon.png/64px-Rancor_Icon.png?version=e1b793ae6b2fb048f5ca7341c5a4913d"
-  },
-  "Punishment": {
-    "name": "Punishment",
-    "description": "Using an Ability also grants 3 Hatred stacks.",
-    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/8/84/Punishment_Icon.png/64px-Punishment_Icon.png?version=e7e56182e1bd4832b729cb75650ded50"
-  },
-  "Manticore": {
-    "name": "Manticore",
-    "description": "Every 3rd Basic Attack against the same target deals 50% additional damage.",
-    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/d/d2/Manticore_Icon.png/64px-Manticore_Icon.png?version=1ef5cf4d6044083f35cefd903cda872a"
-  },
-  "PuncturingArrow": {
-    "name": "Puncturing Arrow",
-    "description": "Hungering Arrow range increased by 25% and the number of times it can bounce to 3.",
-    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/5/51/Puncturing_Arrow_Icon.png/64px-Puncturing_Arrow_Icon.png?version=d241f52d52b05f5770476363de22ba9c"
-  },
-  "Arsenal": {
-    "name": "Arsenal",
-    "description": "Multishot also fires 3 grenades, which deal 84 damage.",
-    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/1/11/Arsenal_Icon.png/64px-Arsenal_Icon.png?version=e2861c6c47aa756dc8af4860ec651c9b"
+  "MonsterHunter": {
+    "name": "Monster Hunter",
+    "description": "Reduces the Mana cost of Hungering Arrow by 30 and increases the damage it deals to Minions, Mercenaries, and Monsters by 100%.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/f/fc/Monster_Hunter_Icon.png/64px-Monster_Hunter_Icon.png?version=2a2b20438f117d2792db7372bb1942de"
   },
   "Caltrops": {
     "name": "Caltrops",
-    "description": "Drop 3 Caltrops while Vaulting. Caltrops do 30 damage and slow enemies by 20% for 2 seconds.",
+    "description": "Drop 3 Caltrops while Vaulting. Caltrops do 99 (47 + 4% per level) damage and slow enemies by 20% for 1 second. Quest: Spend 180 seconds at 10 stacks of Hatred. Reward: Vault cooldown is reduced by 5 seconds.",
     "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/6/69/Caltrops_Icon.png/64px-Caltrops_Icon.png?version=379d91cd97fe009a98b6238d6849b617"
   },
   "HotPursuit": {
     "name": "Hot Pursuit",
-    "description": "When at 10 stacks of Hatred, the Movement Speed bonus increases to 20% total.",
+    "description": "When at 10 stacks of Hatred, the Movement Speed bonus increases to 20% total and you gain 4 Mana per second.",
     "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/2/22/Hot_Pursuit_Icon.png/64px-Hot_Pursuit_Icon.png?version=133f621fd3b8cf4110b751a80a85f39c"
+  },
+  "PuncturingArrow": {
+    "name": "Puncturing Arrow",
+    "description": "Quest: Hitting an enemy Hero with the initial impact of Hungering Arrow increases its damage by 5, up to a maximum of 100. Reward: After gaining 100 bonus damage, gain an additional 50 bonus damage and Hungering Arrow also bounces 1 additional time.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/5/51/Puncturing_Arrow_Icon.png/64px-Puncturing_Arrow_Icon.png?version=d241f52d52b05f5770476363de22ba9c"
+  },
+  "Punishment": {
+    "name": "Punishment",
+    "description": "Each stack of Hatred increases the damage of Multishot by 5%.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/8/84/Punishment_Icon.png/64px-Punishment_Icon.png?version=324edf40343a773bf811b3be26577071"
+  },
+  "CreedoftheHunter": {
+    "name": "Creed of the Hunter",
+    "description": "Increases Attack Speed by 10%. Quest: Use 100 Basic Attacks against Heroes. Reward: Your Hatred grants an additional 2% Basic Attack Damage per stack.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/6/6c/Creed_of_the_Hunter_Icon.png/64px-Creed_of_the_Hunter_Icon.png?version=3ff2634bc15f886e13273d4d347fa89d"
+  },
+  "Arsenal": {
+    "name": "Arsenal",
+    "description": "Multishot also fires 3 grenades, which deal 263 (125 + 4% per level) damage. Each enemy Hero hit by a grenade reduces the cooldown of Multishot by 3 seconds.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/1/11/Arsenal_Icon.png/64px-Arsenal_Icon.png?version=e2861c6c47aa756dc8af4860ec651c9b"
+  },
+  "DeathDealer": {
+    "name": "Death Dealer",
+    "description": "Increases Vault Basic Attack damage bonus from 5% to 10% per stack of Hatred. If this attack kills its victim, the Mana cost and cooldown of Vault are refunded.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/f/f0/Siphoning_Arrow_Icon.png/64px-Siphoning_Arrow_Icon.png?version=29268fc6f58e82a6f119c6a7ce48f5aa"
   },
   "RepeatingArrow": {
     "name": "Repeating Arrow",
     "description": "The cooldown for Hungering Arrow is reset when Vault is used.",
-    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/8/8d/Repeating_Arrow_Icon.png/64px-Repeating_Arrow_Icon.png?version=626e08c4e3f007ded3e0de3ea5f8abeb"
-  },
-  "SearingAttacks": {
-    "name": "Searing Attacks",
-    "description": "Activate to increase Basic Attack damage by 50% for 5 seconds. Each attack costs 15 Mana.",
-    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/0/0c/Searing_Attacks_Icon.png/64px-Searing_Attacks_Icon.png?version=3a4a87a80682d7d34eaff606749aa3a7"
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/8/8d/Repeating_Arrow_Icon.png/64px-Repeating_Arrow_Icon.png?version=948aa9e11d0e1e2134b544252ff976b3"
   },
   "Strafe": {
     "name": "Strafe",
-    "description": "Rapidly attack nearby visible enemies for 68 damage per hit, prioritizing heroes over minions. Valla is able to move and use Vault while strafing. Lasts for 4 seconds.",
+    "description": "Rapidly attack nearby visible enemies for 132 (63 + 4% per level) damage per hit, prioritizing heroes over minions. Valla is able to move and use Vault while strafing. Lasts for 4 seconds.",
     "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/b/b2/Strafe_Icon.png/64px-Strafe_Icon.png?version=699f0b79573c8c6e0dfda85ad180c2eb"
   },
   "RainofVengeance": {
     "name": "Rain of Vengeance",
-    "description": "Launch 2 waves of Shadow Beasts that deal 256 damage to enemies within the target area, stunning for 0.5 seconds per wave.",
+    "description": "Launch a wave of Shadow Beasts that deals 493 (234 + 4% per level) damage and stuns enemies in the target area for 0.5 seconds. Stores 2 charges.",
     "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/b/b5/Rain_of_Vengeance_Icon.png/64px-Rain_of_Vengeance_Icon.png?version=943837492742d852b897cebb9ea222c8"
   },
-  "FrostShot": {
-    "name": "Frost Shot",
-    "description": "Multishot also slows by 40% for 2 seconds.",
-    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/1/18/Frost_Shot_Icon.png/64px-Frost_Shot_Icon.png?version=ed4d99b4b4a13cd12efb1d65e72eec53"
+  "SiphoningArrow": {
+    "name": "Siphoning Arrow",
+    "description": "You heal for 75% of the damage dealt to Heroes by Hungering Arrow.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/f/f0/Siphoning_Arrow_Icon.png/64px-Siphoning_Arrow_Icon.png?version=29268fc6f58e82a6f119c6a7ce48f5aa"
   },
   "TemperedbyDiscipline": {
     "name": "Tempered by Discipline",
-    "description": "Gain up to 10 stacks of Discipline after Hatred stacks are maxed. Basic Attacks heal for 3% of damage dealt to the primary target per Discipline stack.",
+    "description": "While at 10 stacks of Hatred, your Basic Attacks heal you for 25% of the damage dealt.",
     "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/c/cf/Tempered_by_Discipline_Icon.png/64px-Tempered_by_Discipline_Icon.png?version=958392f0c4824a642fa419e958e5a5e8"
   },
-  "Tumble": {
-    "name": "Tumble",
-    "description": "Vault gains an additional charge, allowing it to be cast twice in quick succession.",
-    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/6/69/Tumble_Icon.png/64px-Tumble_Icon.png?version=1543f89e8facecd937b89423e10ed431"
+  "Gloom": {
+    "name": "Gloom",
+    "description": "Cooldown: 5 secondsReduces all Ability Damage taken by 20%. Activate to consume all Hatred, increasing the Ability Damage reduction by 3% per Hatred consumed. Lasts 5 seconds.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/2/27/Gloom_Icon.png/64px-Gloom_Icon.png?version=c6b384b53a8b4c3a50a334b80c75cb8b"
   },
-  "Stoneskin": {
-    "name": "Stoneskin",
-    "description": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.",
-    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/7/73/Stoneskin_Icon.png/64px-Stoneskin_Icon.png?version=76ec2cd990a908e08cd3d22a0b35b953"
+  "FrostShot": {
+    "name": "Frost Shot",
+    "description": "Increases the range of Multishot by 20% and it also slows by 25% for 2 seconds.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/1/18/Frost_Shot_Icon.png/64px-Frost_Shot_Icon.png?version=ed4d99b4b4a13cd12efb1d65e72eec53"
+  },
+  "SeethingHatred": {
+    "name": "Seething Hatred",
+    "description": "Basic Attacks now grant 2 stacks of Hatred and the time it takes before Hatred expires is increased by 2 seconds.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/7/75/Seething_Hatred_Icon.png/64px-Seething_Hatred_Icon.png?version=d565a69055a128357bf69a929421caa7"
+  },
+  "Manticore": {
+    "name": "Manticore",
+    "description": "Every 3rd Basic Attack against the same target deals an additional 5% of their maximum Health as damage.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/d/d2/Manticore_Icon.png/64px-Manticore_Icon.png?version=9f4f23b728442d29e3493140a691f7ac"
   },
   "Vengeance": {
     "name": "Vengeance",
-    "description": "Strafe also fires penetrating bolts in a line for 34 damage every 0.25 seconds.",
+    "description": "Strafe also fires penetrating bolts in a line for 75 (36 + 4% per level) damage every 0.25 seconds. 25% of the damage you deal with Strafe is returned as Health.",
     "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/b/b0/Vengeance_Icon.png/64px-Vengeance_Icon.png?version=92e254519edb9f4cc421330d6d717fb8"
   },
   "StormofVengeance": {
     "name": "Storm of Vengeance",
-    "description": "Increases the number of Shadow Beast waves to 4.",
+    "description": "Basic Attacks reduce the charge cooldown of Rain of Vengeance by 5 seconds.",
     "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/f/fe/Storm_of_Vengeance_Icon.png/64px-Storm_of_Vengeance_Icon.png?version=5d3d70cfe824dc0eb38d2eed85c59bdb"
+  },
+  "Rancor": {
+    "name": "Rancor",
+    "description": "Each stack of Hatred also increases Attack Speed by 2%. While at 10 stacks of Hatred, gain an additional 30% Attack Speed.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/7/7a/Rancor_Icon.png/64px-Rancor_Icon.png?version=e1b793ae6b2fb048f5ca7341c5a4913d"
+  },
+  "FarflightQuiver": {
+    "name": "Farflight Quiver",
+    "description": "Increases your Basic Attack range by 40%.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/d/de/Farflight_Quiver_Icon.png/64px-Farflight_Quiver_Icon.png?version=c87f28ea332ecd15e624386929b0f439"
   },
   "GreaterCleave": {
     "name": "Greater Cleave",
@@ -2124,6 +2129,11 @@
     "description": "Activate to heal 11.07% of your max Health over 6 seconds.",
     "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/9/96/First_Aid_Icon.png/64px-First_Aid_Icon.png?version=5f99c0eb38fc29856b7bbe3af736127e"
   },
+  "SearingAttacks": {
+    "name": "Searing Attacks",
+    "description": "Activate to increase Basic Attack damage by 50% for 5 seconds. Each attack costs 15 Mana.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/0/0c/Searing_Attacks_Icon.png/64px-Searing_Attacks_Icon.png?version=3a4a87a80682d7d34eaff606749aa3a7"
+  },
   "ShadowAssault": {
     "name": "Shadow Assault",
     "description": "Your Basic Attacks cause you to charge at enemies and have 20% increased Attack Speed. Lasts for 6 seconds.",
@@ -2133,6 +2143,11 @@
     "name": "Void Prison",
     "description": "Slows time in an area to a near standstill, making allies and enemies invulnerable and unable to act for 5 seconds. You are not affected.",
     "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/7/76/Void_Prison_Icon.png/64px-Void_Prison_Icon.png?version=b7425eb2b08c8d5a03975b2701e7a565"
+  },
+  "BurningRage": {
+    "name": "Burning Rage",
+    "description": "Deal 23 damage per second to nearby enemies.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/9/99/Burning_Rage_Icon.png/64px-Burning_Rage_Icon.png?version=0e40e3fcafa8e12d444ba8abea08b147"
   },
   "Wormhole": {
     "name": "Wormhole",
@@ -2153,6 +2168,11 @@
     "name": "Double Bombs",
     "description": "After you cast Singularity Spike, you can cast a second one for free within 3 seconds for 50% normal damage.",
     "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/5/58/Double_Bombs_Icon.png/64px-Double_Bombs_Icon.png?version=3979006033e2ad08a770c44427948ba8"
+  },
+  "Stoneskin": {
+    "name": "Stoneskin",
+    "description": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/7/73/Stoneskin_Icon.png/64px-Stoneskin_Icon.png?version=76ec2cd990a908e08cd3d22a0b35b953"
   },
   "NerazimFury": {
     "name": "Nerazim Fury",
