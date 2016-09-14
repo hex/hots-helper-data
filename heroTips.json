@@ -160,7 +160,7 @@
       "details": "You don't actually have to be a symbiote build to pick Hivemind.  With no other talents and proper skillshots abathur has some of the highest potential dps in the game when he's symbioted to two people at once.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 2
+      "realVotes": 3
     },
     {
       "details": "If your Abathur has taken the Overmind talent, each teammate with the symbiote on them should stay close to each other, if possible, or else one of the symbiotes will deactivate.",
@@ -1598,7 +1598,7 @@
       "details": "Tassadar's E (Dimensional Shift) is a hard counter to Zagara's W.  As soon as you see the purple marker, hit E and boom - instant hydra death.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": -8
+      "realVotes": -9
     },
     {
       "details": "Place plenty of tumors, they're a great tactical advantage.  put them in bushes to have constant vision there.  Put them behind you to have increased movement speed when you have to get out.  And place them to access roads when you're going for a map objective for early warning on who and how many people are comming.  The increase health regen is nice to have, but usually not needed with a ranged hero as zagara.",
@@ -1992,7 +1992,7 @@
       "details": "Sgt. Hammer's has a speed boost instead of a regular mount. This can be used in combat. Consider saving your crowd control abilities or burst of damage for when she's at low enough health to finish her off or for when she has this speed boost on cooldown. Otherwise, she might just slip away.",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 40
+      "realVotes": 41
     },
     {
       "details": "It can be highly effective to combine the other two counters. Bait Hammer's speed boost with an AE effect like the psionic storm. Many Hammer players will use it to instantly desiege. As soon as she sieges up again, CC and kill her.",
@@ -2010,7 +2010,7 @@
       "details": "Brightwing \"Arcane Flare\" is amazing vs Sgt.Hammer (early game lane). Brightwing can also \"Polymorph\" Sgt.Hammer out of siege!",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 38
+      "realVotes": 39
     },
     {
       "details": "When Sgt. Hammer takes the Blunt Force Gun (BFG) ultimate talent with Orbital BFG lvl 20 upgrade, consider helping push the top or bottom lanes, so Hammer can get in position to put the BFG in a short orbit that hits a keep and the core.",
@@ -2046,7 +2046,7 @@
       "details": "If you plan to fall back, alert Sgt. Hammer and provide enough covering pressure for her to un siege before you leave her behind.",
       "type": "Helper",
       "patch": "Sylvanas",
-      "realVotes": 49
+      "realVotes": 50
     },
     {
       "details": "Counter pick Hammer with Stitiches/Falstad/Diablo/ETC/Nova\nStitches Hook pressures Hammer positioning, however a smart enemy team will body-block hooks.\nFalstad can contribute substantial burst to a Sieged Hammer with Q+Shock and Awe.\nDiablo Apocalypse Ult can be a great initiation for engaging a seiged Hammer as it forces them to either burn Thrusters to escape, or be stunned long enough to allow for Flip/Knock into your team's attack range.\nETC Stage Dive/Stun/Knockback is a great iniationto have against Sieged Hammer.\nNova can deliver huge pressure to Sieged Hammer using Orbital to force Thruster use (or eat dmg) followed by Pinning shot + 2nd Orbital + Snipe to explode Hammer.  Make sure to initiate attack from position near bushes/fog of war to retreat to, otherwise if Hammer survives you are going to get killed trying to flee.",
@@ -2076,25 +2076,25 @@
       "details": "If Hammer is sieged up in a reasonable place, do your best to fight inside the siege circle.  Running away from a friendly sieged up Hammer makes for a sad siege tank.",
       "type": "Helper",
       "patch": "Sylvanas",
-      "realVotes": 167
+      "realVotes": 168
     },
     {
       "details": "During early laning phases, it is often better to remain in tank mode to prevent ganks and conserve your Thrusters",
       "type": "As",
       "patch": "Sylvanas",
-      "realVotes": 35
+      "realVotes": 36
     },
     {
       "details": "Be very cautious about when and where you set up in Seige Mode.  Being immobile, even for a second, can often make you a prime target for many abilities.",
       "type": "As",
       "patch": "Sylvanas",
-      "realVotes": 72
+      "realVotes": 73
     },
     {
       "details": "Your auto attack damage is the same against heroes in or out of siege mode.  Don't siege just to try and do more damage to a lone hero.",
       "type": "As",
       "patch": "Sylvanas",
-      "realVotes": 72
+      "realVotes": 73
     },
     {
       "details": "Concussive Blast (W) has a short range but can be used to interrupt channeled spells (e.g., Nazeebo's ult).",
@@ -2118,13 +2118,13 @@
       "details": "Stitches hook is amazing against Sgt.Hammer",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 65
+      "realVotes": 66
     },
     {
       "details": "Mines + bushes = security + vision.",
       "type": "As",
       "patch": "Sylvanas",
-      "realVotes": 76
+      "realVotes": 77
     },
     {
       "details": "The only reason i would choose AnubArak's Cocoon is to counter Sgt. \nIn the other hand,",
@@ -2154,13 +2154,13 @@
       "details": "On Cursed Hollow, the center lane is your home.  Don't get caught in the top lane when a tribute appears at the bottom of the map.",
       "type": "As",
       "patch": "Sylvanas",
-      "realVotes": 37
+      "realVotes": 38
     },
     {
       "details": "Play really safe if your Z is on cooldown. You're dead if you get caught on siege mode without your boosters.",
       "type": "As",
       "patch": "Sylvanas",
-      "realVotes": 50
+      "realVotes": 51
     },
     {
       "details": "What you absolutely need to do first is check what map you are playing on. If it is called \"Battlefield of Eternity\" then you won unless you are playing without a keyboard (then drops to a  50% chance to win)",
@@ -2794,7 +2794,7 @@
       "details": "Chase potential is quite high depending on your spec. Utilising \"Feral lunge\" in combination with \"blood for blood\" or \"Earthgrasp totem\" will most likely make any chase successful.\n\nIn addition, remember to use your ghost wolf form as much as possible when taking camps or attacking in general to boost the output. Although, use with care if you suspect a gank for easy escape.",
       "type": "Helper",
       "patch": "Sylvanas",
-      "realVotes": 5
+      "realVotes": 6
     },
     {
       "details": "Note what Talent enemy Rehgar's pick at 13.  Feral Lunge increases Rehgars mobility substantially and Skilled Rehgar players will use lunge to chain jump between mobs/heroes to attack a squishy target in the back line.",
@@ -3054,7 +3054,7 @@
       "details": "When using dimensional shit, you are 100% invisible (not  stealthed, so there's no shimmer). Use this to your advantage by going in an unexpected direction after going invisible. You'll be a lot harder to catch if you don't just go in a straight line.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 20
+      "realVotes": 21
     },
     {
       "details": "Don't ever cast Triple-Tap on a Tassadar without his Dimensional Shift on CD. He will just cancel the whole process.",
@@ -5130,7 +5130,7 @@
       "details": "When you're up against Kael'Thas, you can scrap your turrets before they explode with living bomb to save your team from taking extra damage.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 17
+      "realVotes": 18
     },
     {
       "details": "Grav-O-Bomb+Void Prison+Level 20 Leap Upgrade=Massive Wombo",
@@ -5624,7 +5624,7 @@
       "details": "Stop feeding.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 19
+      "realVotes": 20
     },
     {
       "details": "If you chose Metamorphosis: Do not use it as an opener for a fight. Wait until your health drops / you get focused. You will gain a short amount of invulnerability (you disappear for a second or so) and boost your health pool / regen when it is necessary.",
@@ -5681,12 +5681,6 @@
       "type": "Helper",
       "patch": "Sylvanas",
       "realVotes": 8
-    },
-    {
-      "details": "Don't over-estimate the value of your trait.  You only get 20% of your damage against enemy heroes or 40% at level 16 (if you take the talent).  To put that into perspective, you get 30 shields per second from Maelstorm hitting three targets.  Auto attacks from just one of the three heroes you're now in range of, can easily do damage in excess of your shield generation rate.  If you play against smart enemies, you'll get focused down very quickly.",
-      "type": "As",
-      "patch": "Sylvanas",
-      "realVotes": 0
     },
     {
       "details": "In case you have a pesky enemy that tends to try dodging your Q W E combo in a 1v1 scenario, jump them with Q, and then keep auto attacking until they seem to switch to running away. Proceed to skewer them with W E.",
@@ -5789,6 +5783,12 @@
       "type": "Counter",
       "patch": "Sylvanas",
       "realVotes": 38
+    },
+    {
+      "details": "Don't over-estimate the value of your trait.  You only get 20% of your damage against enemy heroes or 40% at level 16 (if you take the talent).  To put that into perspective, you get 30 shields per second from Maelstorm hitting three targets.  Auto attacks from just one of the three heroes you're now in range of, can easily do damage in excess of your shield generation rate.  If you play against smart enemies, you'll get focused down very quickly.",
+      "type": "As",
+      "patch": "Sylvanas",
+      "realVotes": 1
     }
   ],
   "lili": [
@@ -5910,7 +5910,7 @@
       "details": "A lot of people underestimate her \"E\" ability, which makes enemies miss their autoattacks. That combined with her healing makes her a strong ally against heroes depending on auto attacks.",
       "type": "Helper",
       "patch": "Sylvanas",
-      "realVotes": 57
+      "realVotes": 58
     },
     {
       "details": "If you've chosen Kung Fu Hustle as your level 20 talent and your ult is on CD, it's a good idea to look for sources of dmg outside of combat so that it can be ready if a teamfight erupts (e.g., tanking neutral camps, minion waves, and in some cases the enemy core).",
@@ -5934,7 +5934,7 @@
       "details": "She is a great counterpick to Illidan who relies on autoattacks and deep diving. Save your blind on him when he jumps your squishies!",
       "type": "Helper",
       "patch": "Sylvanas",
-      "realVotes": 38
+      "realVotes": 39
     },
     {
       "details": "Positioning is the key. Don't use \"E\" when surrounded by minions - advance from the flank to make sure it hits enemy. Stick as close as possible with the hero you want to heal, to avoid healing those who don't need it. When using Jug of 1,000 Cups move around, mimic the movement of your allies to make sure they are in range and to avoid skillshot based stuns.",
@@ -6848,7 +6848,7 @@
       "details": "Zombie Wall can be removed with W.\nDont trap your mates on it.",
       "type": "As",
       "patch": "Sylvanas",
-      "realVotes": 222
+      "realVotes": 223
     },
     {
       "details": "Not all zombie walls need to go around people. You can body block with it in choke points during a team fight.",
@@ -7180,7 +7180,7 @@
       "details": "She is not completely invisible. You can see a blur where Nova is. Shoot her with skill shots to reveal her.",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 149
+      "realVotes": 150
     },
     {
       "details": "Mind where you place your Holo Decoys. Good strategy is to place them in positions where it is realistic that you would stand, so that you can fool your opponent (nobody is going to believe that it is really you standing beside the gate when there are 5 opponents sieging it, or that you decided to uncloak right on top of them). Other good strategy is to place the Holo Decoy right at the moment when you uncloak and attack - this way you can confuse the opponent for a moment because he cannot really tell where the damage came from.",
@@ -7566,7 +7566,7 @@
       "details": "If you can, take jaina or murky into your team so Raynor can go for Executioner at 16. Its kinda lategame, but with 4-6s / 8s (!!!) slow, Raynor is Satan on Earth with 40% more dmg.",
       "type": "Helper",
       "patch": "Kael'thas",
-      "realVotes": -1
+      "realVotes": -2
     }
   ],
   "sylvanas": [
@@ -8292,7 +8292,7 @@
       "details": "Tyrael can be effective vs burst  and Area of Effect damage with his Sanctification heroic ability and multiple ways to shield allies around him. If your team relies on such abilities, consider spreading your burst out or crowd controlling Tyrael while he's channeling Sanctification, interrupting it. He's not invulnerable for the duration of the ability, only his team is.",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": -3
+      "realVotes": -4
     },
     {
       "details": "Tyrael explodes for high amounts of damage after being killed. Try to spread out or save your movement abilities to avoid getting hit by this.",
@@ -8394,13 +8394,13 @@
       "details": "Tyrael is very mana dependent. Try to use your abilities sparingly while in the laning phase; and when you use them, make them count.",
       "type": "As",
       "patch": "Sylvanas",
-      "realVotes": 34
+      "realVotes": 35
     },
     {
       "details": "Amplified Healing increases the stacking regen granted by Regeneration Master. Try to get as many regen globes as you can, and it's possible to reach 80-100+ regen per second.",
       "type": "As",
       "patch": "Sylvanas",
-      "realVotes": 22
+      "realVotes": 20
     },
     {
       "details": "He is a great Initiator. Keep an eye on him when he seems like he wants to dive in so you can follow. Since he is not the tankiest of Warriors he may go out of a fight for a brief time to dive in shortly after again.",
@@ -8418,7 +8418,7 @@
       "details": "Iceblock is one of the best talent to counter generic Tyrael with Judgement (R). With good reaction you can iceblock as he is flying towards you, he will do 0 damage and all follow ups by teammates will do nothing as well. If you succeed in pulling this off, pat yourself in the back, as you just outplayed Tyrael and his entire team, and single handedly won the team fight by yourself.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": -6
+      "realVotes": -7
     },
     {
       "details": "When using your E to clear waves, stand directly underneath the caster creep (the one with the wizard hat), with the melee and ranged creeps on either side of you. Then cast your E with the centre of the spell on the caster, and it is possible to hit every creep.",
@@ -9302,7 +9302,7 @@
       "details": "There's a tendency to pop your D as soon as it's available... when you're moving between lanes or whatever. This is actually a bad move. If you come across a solo opponent, and open with gravity lapse \"boosted\" it's a waste. Save your D until right before you actually use it.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 64
+      "realVotes": 65
     },
     {
       "details": "Instead of focusing on D+Q to get a bomb on as many heroes as possible, try using a normal q, then using a D+W+W when heroes start to peel. Inevitably, heroes will get close enough to spread the bomb. This results in more ticks, more dps, and can easily cut the team in half with another D Q.",
@@ -9350,13 +9350,13 @@
       "details": "Positioning positioning positioning! VERY important as kael! Play safe, back of your team. Don't be afraid to retreat. Poke in with your combo and you should be able to wipe the whole team!",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 22
+      "realVotes": 23
     },
     {
       "details": "The wind blows, you die. Kael'thas is possibly the second squishiest character in the game. Positioning is Kael's main form of survival more or less. Try to stay at the back lines of teamfights. If you're soloing another hero, just poke and prod at them.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 8
+      "realVotes": 9
     },
     {
       "details": "Kael'thas needs peels as he lacks much mobility or escape, similar to Jaina.",
@@ -9374,7 +9374,7 @@
       "details": "Entering the Mines cancels Pyroblast.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 90
+      "realVotes": 89
     },
     {
       "details": "Don't shoot your Pyroblast on Illidan, Vikings, and Tassadar. They can cancel your Pyro easily",
@@ -9953,12 +9953,6 @@
       "realVotes": 2
     },
     {
-      "details": "Playing with Chen?  Leoric(entomb) + Chen(Wandering keg) Rolling pin combo. Deals ton of damage! Make sure your Leoric is body blocking the entrance of the entomb!",
-      "type": "Helper",
-      "patch": "Kael'thas",
-      "realVotes": 0
-    },
-    {
       "details": "Leoric loves high hp targets, his W is very effective against them, especially combined with crushing hope (10% bonus dmg can easilly amount to 400-700 bursts) Spectral leech is even more awesome because it does damage on every auto attack for a whopping 5% of the targets hp while it heals Leoric for that amount. This also makes him an excellent stim drone target.",
       "type": "As",
       "patch": "Kael'thas",
@@ -10039,6 +10033,12 @@
     {
       "details": "As LEORIC you CAN COUNTER ARTANIS.\nuse crushing hope as hes most likely facing you while trading, and use your most powerful against the melee duelist: Imposing presence.\nhe will just not be able to catch ur dps if have spectral leech.\ni not reccomend burning rage against him as hes most of the time picking the ability reduction and his quick spam of shields will nullify the fire..",
       "type": "As",
+      "patch": "Kael'thas",
+      "realVotes": 1
+    },
+    {
+      "details": "Playing with Chen?  Leoric(entomb) + Chen(Wandering keg) Rolling pin combo. Deals ton of damage! Make sure your Leoric is body blocking the entrance of the entomb!",
+      "type": "Helper",
       "patch": "Kael'thas",
       "realVotes": 1
     },
@@ -10432,7 +10432,7 @@
       "details": "As Anubarak you should cocoon whoever Kharazim uses divine palm on. This will make it so that none of your teammates accidentally attacks the target triggering the heal and also makes it so that the target can't escape afterward.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 28
+      "realVotes": 29
     },
     {
       "details": "If you are a backline hero such as KT or Jaina do not expect many heals from Kharazim as he will be diving into the enemy, as such consider getting frost armor or arcane barrier or having another support.",
@@ -10710,7 +10710,7 @@
       "details": "Always go face, never trade.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 0
+      "realVotes": 1
     },
     {
       "details": "If your up against stealthies, unleash the boars is probably the better pick, since it a) targets them regardless if they're in stealth or not and b) reveals them",
@@ -11242,7 +11242,7 @@
       "details": "Lili's blind is a good counter to Artanis since he relies on auto attacks hitting to build his shield.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 8
+      "realVotes": 9
     },
     {
       "details": "If you have an Artanis on your team that loves diving into the enemy at ridiculously bad times, please keep positive.  Remember, even if your teammate is trash, it's Garbage Can, not Garbage Can't.",
@@ -11538,7 +11538,7 @@
       "details": "Leoric is a good counter. Always focus him with drain hope and watch your life bar fill.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 26
+      "realVotes": 25
     },
     {
       "details": "If you stand just outside of tower range, you can siege with Rune Bomb (+ Gall Detonation), and Shadowflame.  You can quickly knock down early towers if they don't send enough to pressure you back down the lane.",
@@ -11660,7 +11660,7 @@
       "details": "It pays to invest into \"slows\" when you have a Lunara on your team. \nPartly because it makes it easier for her to hit her blossom, but especially if she invests in \"Unfair Advantage\" at lvl 13.",
       "type": "Helper",
       "patch": "Kael'thas",
-      "realVotes": 9
+      "realVotes": 10
     },
     {
       "details": "Using you rLeaping Strike against a Charging Butcher is way OP! Do that to do great amount of dmg, and evade from his charge and stun.",
@@ -11726,7 +11726,7 @@
       "details": "Playing against Nova or Zeratul it's good to have Natural Perspective (1) skilled. Once these heroes show themselves hit them with the poison, so you and your team can finish them off. No getting invisible again ;-)",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 18
+      "realVotes": 19
     },
     {
       "details": "Sneeze on her. Or in her general direction...",
@@ -11780,7 +11780,7 @@
       "details": "Your role as Lunara is to harass squishy heroes and supports from a distance at the beggining of team fights, and finish off the enemies at the end. Continuously attack and move from the backline is the best manner to avoid areas and skillshots while the enemy's life runs out. Lunara is the Queen of Poke.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 23
+      "realVotes": 24
     },
     {
       "details": "Greater Spell Shield and Leaping Strike combine to make Lunara one of the single best mage hunters in the game. Combine with stealthers to make Jaina/Kael comps' lives hell.",
@@ -11792,7 +11792,7 @@
       "details": "When playing against li ming, constantly move to the sides, not only towards her. This will make her have a hard time hitting skillshots and you can easily burst her down.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 7
+      "realVotes": 8
     },
     {
       "details": "Lunara is awesome at lane clear with Nature's Culling at level 7. Combined with Thronwood vines's quick regen and 3-shot capacity she can clear lanes and destroy structures extremely quickly.  Even without, hopping in to put a couple of stacks of poison on a tower or fort before retreating to safety behind your minion wave can clear a lane faster than most. If left alone in a lane she can be a real beast.",
@@ -11822,7 +11822,7 @@
       "details": "Abathur loves Leaping Strike. Lunara never loses her top hat when she strikes!",
       "type": "Helper",
       "patch": "Kael'thas",
-      "realVotes": 1
+      "realVotes": 2
     },
     {
       "details": "Natural Perspective (1) is a very nice pick even against teams without stealthers. It allows you to track enemy movement after poking them (for up to 12 seconds with fully stacked poison + W), but more importantly it also lets you and your team continue targeting/attacking an enemy even when it moves out of sight, e.g. into a bush or similar.",
@@ -11834,13 +11834,13 @@
       "details": "Great counters to Lunara are:\n\nIllidan - His stickyness and self-heal abilites make it hard for her to escape and somehwat counter her poison DOT.\n\nNova - Before she gets spell shield Lunara is easy to take out if she's even slightly hurt. Watch for Natural Perspective though.\n\nZeratul - Same as Nova.\n\nTracer - Her mobility and constant damage make it nearly impossible for Lunara to get away  early and mid-game. Rewind also undoes a lot of Lunara's DOT damage, allowing you to escape.\n\nHammer - Can easily zone-out Lunara outside of AA range. Lunara will lose so much health getting to you that she'll have to quickly retreat. Not as effective once Lunara gets vines though since she can poke you from further away.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": -2
+      "realVotes": -3
     },
     {
       "details": "Realistically, you need CC to kill a competent Lunara player. Her escape comes in early warning with wisp & speed. \nNeed to take that speed away to guarantee the kill.\n\nDon't kill the wisp if you are trying to sneak up on her.  If you see the wisp, it sees you. Just hope shes not paying attention. \n\nKilling it triggers an audio que, giving her a second chance to check the minimap.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 1
+      "realVotes": 2
     },
     {
       "details": "In lvl 20 Lunara can pick a talent that allows her to use \"leaping strike\" in teammates. Sometimes in disengage you can help her by staying close, but in a safe distance.",
@@ -12718,7 +12718,7 @@
       "details": "He's very sensitive about his missing arm. Tread lightly.",
       "type": "Helper",
       "patch": "Kael'thas",
-      "realVotes": 17
+      "realVotes": 18
     },
     {
       "details": "Rehger Lightning Shield with Dark Swarm is a potent AoE combo.",
@@ -13297,6 +13297,12 @@
   ],
   "medivh": [
     {
+      "details": "Use your portal to let your team's  melee assassins  to teleport to the enemy backline and destroy squishies. You can shield them from very far away so you don't even have to teleport with them.",
+      "type": "As",
+      "patch": "Kael'thas",
+      "realVotes": 1
+    },
+    {
       "details": "nazebo",
       "type": "Counter",
       "patch": "Kael'thas",
@@ -13342,7 +13348,7 @@
       "details": "-without support he can do NOTHING useful",
       "type": "Helper",
       "patch": "Kael'thas",
-      "realVotes": -9
+      "realVotes": -10
     },
     {
       "details": "do not rush to use sheep, until you see 3 players or retreat",
@@ -13366,7 +13372,7 @@
       "details": "In the form of a crow can not be target!",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": -7
+      "realVotes": -8
     },
     {
       "details": "-give inadequate or uselles vision.\n-give to short or useless protection.\n- Ulti's are to short or useless.\n-Medivh has not sufficient HP for a expert support.",
@@ -13414,7 +13420,7 @@
       "details": "You cant shield poison, you can save yourself from it by mounting (you cant recive any dmg in raven form, poison gets instantly canceled)",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 10
+      "realVotes": 11
     },
     {
       "details": "If you are medivh please find Murky's egg and kill it",
@@ -13440,43 +13446,49 @@
       "details": "play butcher. watch Guldan rage quit.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": -2
+      "realVotes": -3
     },
     {
       "details": "Gul'dan's power comes mainly from his Corruption spell. Thus, his best damage build is heavily focused into Corruption, taking Echoed, Bound by Shadow, and Ruinous Affliction. For the love of god, though, do not take Rain of Destruction, Curse of Exhaustion, or Dark Bargain. Literally everything else is fair game, but those talents are ones to avoid.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 3
+      "realVotes": 4
     },
     {
       "details": "Save your stuns for when Gul'dan decides to Drain Life, then lock him out of it. He has no defenses aside from that one spell, so be sure to remove that layer of defense ASAP.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 7
+      "realVotes": 8
     },
     {
       "details": "Sonya slays him in seconds.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": -3
+      "realVotes": -4
     },
     {
       "details": "Tracer and illidan can counter him, anything with high mobility.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 2
+      "realVotes": 1
     },
     {
       "details": "Gul'dan has two primary builds with very different utility. You can go pure DPS with a Corruption build or become a good anti-magic DPS with a Fel Flame/Drain Life build. Horrify works equally well with both, splitting the enemies. This ult can easily decide teamfights if used well.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 2
+      "realVotes": 3
     },
     {
       "details": "Dont pick rain of destruction just dont....",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": -3
+      "realVotes": -2
+    },
+    {
+      "details": "Guldan works best when the team has plenty of cc so he can full use of his corruption",
+      "type": "Helper",
+      "patch": "Kael'thas",
+      "realVotes": 10
     },
     {
       "details": "Gul",
@@ -13497,28 +13509,22 @@
       "realVotes": -10
     },
     {
-      "details": "Guldan works best when the team has plenty of cc so he can full use of his corruption",
-      "type": "Helper",
-      "patch": "Kael'thas",
-      "realVotes": 9
-    },
-    {
       "details": "Combine with a healer to have unlimited power and crush everything.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 7
+      "realVotes": 8
     },
     {
       "details": "Gul'dan is weak against stun and body block because he did not escape ways (only level 20 with Demonic Circle: \"Summon a Demonic Circle at your location. Activate to teleport to the Demonic Circle\").\nSo warriors with stun and a bulky body as ETC, Diablo, Muradin and Anub'arak may be useful against him",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 1
+      "realVotes": 2
     },
     {
       "details": "Be sure to have a nice, strong frontline and a good burst DPS to back Gul'dan up. He works exceptionally well with Kerrigan, since she has the ability to essentially guarantee two Corruption hits, maybe more if you get Echoed Corruption and play it right.",
       "type": "Helper",
       "patch": "Kael'thas",
-      "realVotes": 2
+      "realVotes": 3
     }
   ],
   "auriel": [
