@@ -1,5 +1,5 @@
 {
-  "1.2.0": {
-    "changes": "- This is Sparta!<br>- This is not Sparta!<br>- This is something else."
+  "1.2.1": {
+    "changes": "- New display mode for hero lists<br>- Updated feedback system<br>- Use device orientation settings<br>- Fix visual display bugs<br>- Speed improvements"
   }
 }
