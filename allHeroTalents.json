@@ -3749,6 +3749,136 @@
     "description": "Increases duration of Sanctification by 1 second and increases the damage of allies by 25%.",
     "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/6/6c/Holy_Arena_Icon.png/64px-Holy_Arena_Icon.png?version=bbb726ae5ece6e538dec2e87821418ed"
   },
+  "DemolitionsExpert": {
+    "name": "Demolitions Expert",
+    "description": "Quest: For every 5 enemy Heroes hit by Particle Grenade, its recharge rate lowers by 0.25 seconds, up to 2 seconds.Reward: Once Particle Grenade has hit 40 enemy Heroes, its radius is increased by 15%.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/7/7f/Demolitions_Expert_Icon.png/64px-Demolitions_Expert_Icon.png?version=66db08389146f6a92712ffe73b17d793"
+  },
+  "TogetherWeAreStrong": {
+    "name": "Together We Are Strong",
+    "description": "Every 22 (11 + 4% per level) damage done by allies while under Shield Ally contributes 1 Energy, up to 25 Energy per shield.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/c/ce/Together_We_Are_Strong_Icon.png/64px-Together_We_Are_Strong_Icon.png?version=b13cb94c0f7f7e6746466005728bc41a"
+  },
+  "FeeltheHeat": {
+    "name": "Feel the Heat",
+    "description": "Zarya's Basic Attack deals -8.50% additional damage to enemies in melee range.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/9/95/Feel_the_Heat_Icon.png/64px-Feel_the_Heat_Icon.png?version=7b693031235c368cb33179a05def7d92"
+  },
+  "MaximumCharge": {
+    "name": "Maximum Charge",
+    "description": "Regen Globes now instantly grant 20 Energy.Quest: Spend 120 seconds at or above 50 Energy.Reward: Gain an additional 25 maximum Energy.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/d/d0/Maximum_Charge_Icon.png/64px-Maximum_Charge_Icon.png?version=cd605fd0c7ed5d9cce866c18f63c2a4e"
+  },
+  "IAmtheStrongest": {
+    "name": "I Am the Strongest",
+    "description": "Personal Barrier absorbs an additional 307 (146 + 4% per level) damage.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/b/b8/I_Am_the_Strongest_Icon.png/64px-I_Am_the_Strongest_Icon.png?version=6a72cc86025a81e0a16252dd1a6e23ea"
+  },
+  "GiveMeTwenty": {
+    "name": "Give Me Twenty",
+    "description": "Quest: Regeneration Globes increase Shield Ally absorb amount by 15, up to 300 permanently. Reward: After collecting 20 Regen Globes, permanently reduce the cooldown of Shield Ally by 3 seconds.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/8/83/Give_Me_Twenty_Icon.png/64px-Give_Me_Twenty_Icon.png?version=5b8b77f8abd79f72e62c700da035cc2b"
+  },
+  "SpeedBarrier": {
+    "name": "Speed Barrier",
+    "description": "Shield Ally increases the allied Hero's Movement Speed by 25% for the duration.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/8/8e/Speed_Barrier_Icon.png/64px-Speed_Barrier_Icon.png?version=fcde3bb0a4298718dbbfa99d57af62d1"
+  },
+  "DefensiveShielding": {
+    "name": "Defensive Shielding",
+    "description": "Upon expiration or breaking, Personal Barrier and Shield Ally reduce the damage of the next 2 Hero Basic Attacks within 12 seconds by 75%.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/0/0f/Defensive_Shielding_Icon.png/64px-Defensive_Shielding_Icon.png?version=bf74318a0c905e8f5b3cdee5328a4da3"
+  },
+  "PinpointAccuracy": {
+    "name": "Pinpoint Accuracy",
+    "description": "Particle Grenade deals 40% more damage to enemies hit by the center of the blast.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/3/31/Pinpoint_Accuracy_Icon.png/64px-Pinpoint_Accuracy_Icon.png?version=fbae4bdd1715b9c75fbd420d7ba0dd17"
+  },
+  "ExplosiveBarrier": {
+    "name": "Explosive Barrier",
+    "description": "Upon expiration or breaking, Personal Barrier explodes, dealing 220 (104 + 4% per level) damage to nearby enemies.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/e/e2/Explosive_Barrier_Icon.png/64px-Explosive_Barrier_Icon.png?version=ab7b2310f16a6902041619edf007355f"
+  },
+  "TotheLimit": {
+    "name": "To the Limit",
+    "description": "While above 50 Energy your Basic Attack size is increased by 35%.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/2/26/To_the_Limit_Icon.png/64px-To_the_Limit_Icon.png?version=4ccc1958ac44ac7e4439f2b7f0678c1a"
+  },
+  "HitMe": {
+    "name": "Hit Me",
+    "description": "Damage absorbed by Zarya's Shields contributes 20% more Energy.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/e/eb/Hit_Me_Icon.png/64px-Hit_Me_Icon.png?version=6fe1ff56d49323036b44bf4533dee50c"
+  },
+  "GravitonSurge": {
+    "name": "Graviton Surge",
+    "description": "Cooldown: 120 secondsLaunch a gravity bomb that detonates after 1 second and draws enemy Heroes toward the center for 2.5 seconds.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/4/44/Graviton_Surge_Icon.png/64px-Graviton_Surge_Icon.png?version=fe0ecfe276f2f8a709d303831047ad95"
+  },
+  "ExpulsionZone": {
+    "name": "Expulsion Zone",
+    "description": "Cooldown: 45 secondsLaunch a gravity bomb that deals 272 (129 + 4% per level) damage and creates an expulsion zone for 3.5 seconds. Enemies who enter the affected area are knocked back and have their Movement Speed reduced by 50% for 1 second.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/f/f9/Expulsion_Zone_Icon.png/64px-Expulsion_Zone_Icon.png?version=6ad14c335bd022307fe57bbdde4383f2"
+  },
+  "UnstoppableCompetitor": {
+    "name": "Unstoppable Competitor",
+    "description": "Personal Barrier makes you Unstoppable for up to 1.5 seconds.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/d/d7/Unstoppable_Competitor_Icon.png/64px-Unstoppable_Competitor_Icon.png?version=4ece0e7072b5f44c25133d772ac1d8c1"
+  },
+  "SpellBarrier": {
+    "name": "Spell Barrier",
+    "description": "Upon expiration or breaking, Personal Barrier grants a Spell Shield that reduces Ability Damage taken by 75% for 3 seconds.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/e/ea/Spell_Barrier_Icon.png/64px-Spell_Barrier_Icon.png?version=85bb1856b4bff11d63c69de1fcf96587"
+  },
+  "EnduranceTraining": {
+    "name": "Endurance Training",
+    "description": "While at or above 75 Energy, Zarya gains Resistant, reducing all damage taken by 25%.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/e/e9/Endurance_Training_Icon.png/64px-Endurance_Training_Icon.png?version=53d71ca574bb04a4a33658ad3d503053"
+  },
+  "PainisTemporary": {
+    "name": "Pain is Temporary",
+    "description": "Cooldown: 30 secondsActivate to consume all Energy and gain a shield that absorbs 0.5% of Zarya's maximum Health per Energy consumed and lasts for 3 seconds. Zarya may only have one personal shield active on herself at a time.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/3/38/Pain_is_Temporary_Icon.png/64px-Pain_is_Temporary_Icon.png?version=43e05103f47ecb3586270d8651e12c74"
+  },
+  "PlasmaShock": {
+    "name": "Plasma Shock",
+    "description": "Particle Grenade slows Movement Speed by 35% for 1 second to enemies near the center.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/6/69/Plasma_Shock_Icon.png/64px-Plasma_Shock_Icon.png?version=dc27c6449a8e99d53eff907dad9a517c"
+  },
+  "CleansingShield": {
+    "name": "Cleansing Shield",
+    "description": "Shield Ally removes all disabling effects.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/d/de/Cleansing_Shield_Icon.png/64px-Cleansing_Shield_Icon.png?version=8a049ada614feb4ec66d728d2a452e60"
+  },
+  "GainTrain": {
+    "name": "Gain Train",
+    "description": "Shield Ally now grants an untalented shield to a nearby ally upon impact.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/9/9a/Gain_Train_Icon.png/64px-Gain_Train_Icon.png?version=204eec0312d6bdf9ebd34c3dd060aaf7"
+  },
+  "BorninBattle": {
+    "name": "Born in Battle",
+    "description": "While at or above 75 Energy, Zarya's cooldowns regenerate 25% faster.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/9/9a/Born_in_Battle_Icon.png/64px-Born_in_Battle_Icon.png?version=cbf44f3b90fab1f0ee773f8f4775ebd5"
+  },
+  "GravityKills": {
+    "name": "Gravity Kills",
+    "description": "Increases Graviton Surge's duration by 1 second and causes it to deal 307 (146 + 4% per level) damage over the duration.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/8/8f/Gravity_Kills_Icon.png/64px-Gravity_Kills_Icon.png?version=92c50abf829592f806ac924eebab990a"
+  },
+  "ClearOut": {
+    "name": "Clear Out",
+    "description": "Increases Expulsion Zone's radius by 15% and Zarya's maximum Energy temporarily increases by 10 per enemy Hero hit for 10 seconds.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/7/73/Clear_Out_Icon.png/64px-Clear_Out_Icon.png?version=ecc77e31d2912538ce7a4efafa0d80f5"
+  },
+  "Grenadier": {
+    "name": "Grenadier",
+    "description": "All Particle Grenade charges are returned at once.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/1/12/Grenadier_Icon.png/64px-Grenadier_Icon.png?version=493c17bb1c8d4c190fd3710464d7eeba"
+  },
+  "UnyieldingDefender": {
+    "name": "Unyielding Defender",
+    "description": "Cooldown: 45 secondsActivate to reset the cooldown of Personal Barrier and Shield Ally.",
+    "icon": "https://hydra-media.cursecdn.com/heroesofthestorm.gamepedia.com/thumb/5/53/Unyielding_Defender_Icon.png/64px-Unyielding_Defender_Icon.png?version=81e76af4517794e880919d9f5697a921"
+  },
   "SwiftSweep": {
     "name": "Swift Sweep",
     "description": "Increases the cast speed of Sacred Sweep by 50%.",
