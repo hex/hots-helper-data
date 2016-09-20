@@ -1,5 +1,8 @@
 {
   "1.2.1": {
     "changes": "- New display mode for hero lists<br>- Updated feedback system<br>- Use device orientation settings<br>- Fix visual display bugs<br>- Speed improvements"
+  },
+  "1.2.2": {
+    "changes": "- New display mode for hero lists<br>- Player Summary welcome message<br>- Updated feedback system<br>- Use device orientation settings<br>- Fix visual display bugs<br>- Speed improvements"
   }
 }
