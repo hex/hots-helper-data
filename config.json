@@ -3,7 +3,7 @@
   "storeVersion": "1.2.2",
   "storeVersions" : {
     "Android": "1.2.2",
-    "iOS": "1.2.2"
+    "iOS": "1.2.1"
   },
   "endpoints": {
     "heroes": "https://raw.githubusercontent.com/hex/hots-helper-data/master/heroes.json",
