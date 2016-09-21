@@ -340,7 +340,7 @@
       "details": "Noting the directions his locusts approach from and the duration left on them can help you root Abathur out of his hiding spots. Nova and Zeratul are excellent for picking him off when he feels safe behind walls, and a well-aimed owl or two from Tyrande can serve the same purpose.",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 131
+      "realVotes": 132
     },
     {
       "details": "When you're playing Abathur on the mines, be aware that you can stack a lot of xp during the skulls phases.\nPosition yourself in one of the brushes near one entrance, and symbiote the other lane for double lane soak at a time.\nKeep an eye on the movement inside the mines, and remember to spore one of the exits, to pick up easy low hp targets.",
@@ -580,7 +580,7 @@
       "details": "Kill Abathurs Monstrosity before its able to farm stacks (gained by minion kills} It can gain upto 1500+ Health, and 150+ Attack Damage, making it a big threat - strong enough to 1v1 an unexpecting Hero.",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 90
+      "realVotes": 91
     },
     {
       "details": "when chasing abby, save your stun(s) until he tries to tunnel away",
@@ -762,7 +762,7 @@
       "details": "Taking Bribe at level 1 is super popular for good reason: Hearthing to base, tagging a Siege Giant camp with 2 stacks of Bribe then Teleporting to a teammate is one of the most time efficient ways to push a lane while still supporting teammates quickly.",
       "type": "As",
       "patch": "Sylvanas",
-      "realVotes": 7
+      "realVotes": 8
     },
     {
       "details": "Remember that Blink Heal can be used on friendly minions, giving you additional escape opportunities.",
@@ -1442,7 +1442,7 @@
       "details": "If you are laning against Zagara and she targets you with Hunter Killer, consider retreating behind your towers as they will immediatly kill off the Hunter Killer and Zagara has then wasted Mana and an important Cooldown which makes her vulnerable.",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 1
+      "realVotes": 2
     },
     {
       "details": "If you choose Nydus, it's faster to use Nydus to get back in base (considering you have one Nydus worm there) than using B.",
@@ -1484,7 +1484,7 @@
       "details": "Devouring Maw lasts 4 seconds. If you time it right, you can launch banelings and infested drop to land right as the maw opens, making them completely unavoidable.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 14
+      "realVotes": 15
     },
     {
       "details": "Centrifugal Hooks may double Baneling Barrage's range, but Baneling Barrage is already a siege range ability.  Getting that talent to attack towers is a waste of a trait.",
@@ -1550,13 +1550,13 @@
       "details": "If you can't kill all creep due to mana, time, etc., try to at least prioritize killing the tumors hidden in bushes.  These grant excellent vision for her and her team.",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 72
+      "realVotes": 73
     },
     {
       "details": "When mobs are in lane you'll notice they make a U shape, with archers in back, mage in the middle and the fighters up front. If you position yourself at that opening and shoot banelings toward the mage, you can get all 7 of them in one use",
       "type": "As",
       "patch": "Sylvanas",
-      "realVotes": 73
+      "realVotes": 74
     },
     {
       "details": "Keep in mind that the banelings spawned by Zagara's Q ability act as units, and as such, can block skillshots, or can even be killed before they reach their destination, negating their damage.",
@@ -1568,7 +1568,7 @@
       "details": "If Zagara grabs an enemy with Devouring Maw, coordinate your team's attacks to land just as the maw expires and deny the target a chance to escape.",
       "type": "Helper",
       "patch": "Sylvanas",
-      "realVotes": 67
+      "realVotes": 68
     },
     {
       "details": "Nydus is often an underrated ability. With Nydus you can completely ignore the mana cost of your abilties (sub engaging in a team fight soon, then you should save for the fight).\n\n By ignoring the mana costs on your abilities, it's then ideal to use them as frequently as possible, and use Nydus worm to reposition yourself to the lanes or areas that need help, or for a quick replenish at your base where you should at least have a Nydus worm currently situated, or one charge of Nydus.\n\nAlso, you can leave Nydus worms near Merc packs, so that you can quickly take them when needed. Or in the case of Haunted Mines, setting up a worm in the mines somewhere lucrative (in the middle area) for quick access to the most skulls without needing to worry about where you are/what you're doing as the mines are about to be populated.\n\nThe mobility of Nydus is exceptional, and that's its strength.",
@@ -1646,7 +1646,7 @@
       "details": "Consider prioritizing \"burning rage\" or any other similar aoe talent for free creep clear. You'll save mana and cooldowns on other abilities that would have otherwise been used up on killing tumors.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 3
+      "realVotes": 4
     },
     {
       "details": "When in a double lane against Zagara, when you or ally is targeted by Hunter killer, take the time to kill it real quickly.",
@@ -1658,7 +1658,7 @@
       "details": "Take the opportunity, when possible to position yourself in such a way that AOE attacks (like Valla's Multishot) will hit both lane minions and creep tumors.  Get that extra value for your wave clear!",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 19
+      "realVotes": 20
     }
   ],
   "jaina": [
@@ -2588,7 +2588,7 @@
       "details": "Set rally points (shift + right click the ground) for your Vikings in the laning phase to give the illusion that you're watching the Viking. Don't sit idle.",
       "type": "As",
       "patch": "Sylvanas",
-      "realVotes": 87
+      "realVotes": 88
     },
     {
       "details": "Team up with a good abathur player,the two of them synergize very well.",
@@ -2868,7 +2868,7 @@
       "details": "If you select Khala's embrace, you can pre-shield your teammates before conflicts. Half of the shield will last, so not as mana efficient but still wise.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 5
+      "realVotes": 6
     },
     {
       "details": "If your team has enough CC (Crowd control) capabilities, \"Second Strike\" at lvl 17 doesn't become a necessary pick. \"Dimensional warp\" (grants heal and speed after using Dimensional Shift (E)) might be a much better choice, if enemy team has a lot of burst damage or ambushing characters and chasers like Nova, Zeratul, Illidan. Also \"Dimensional warp\" helps your sustain while being in Archon form and allows for serious chasing capabilities.",
@@ -2994,7 +2994,7 @@
       "details": "Be careful as a stealth hero when playing vs Tassadar. His trait could reveal you at any time, making any kind of ambushes hard to execute.",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 53
+      "realVotes": 55
     },
     {
       "details": "Healing ward is a great support talent, one of the best, but if the opposite team has two \"stealthies\" - Nova and Zeratul - consider getting Mental Acuity instead (Reduces the cooldown of Oracle for 15 seconds). Tassadar will be able to use his Oracle almost on cooldown, which will definitely ruin your opponents' game.",
@@ -3006,13 +3006,13 @@
       "details": "Tassadar is NOT a healer. Don't skip choosing a healer for your team, because you think you already have your support hero in Tassadar.",
       "type": "Helper",
       "patch": "Sylvanas",
-      "realVotes": 11
+      "realVotes": 10
     },
     {
       "details": "You can use your Q ability to shield structures.\nThe damage absorbed might just help to save a tower or fort.",
       "type": "As",
       "patch": "Sylvanas",
-      "realVotes": 50
+      "realVotes": 51
     },
     {
       "details": "Tassadar is more of a sustained damage mage rather than a full - blown support. Make sure to pair him with other supports like Li - Li or Rehgar.",
@@ -3060,13 +3060,13 @@
       "details": "When using dimensional shit, you are 100% invisible (not  stealthed, so there's no shimmer). Use this to your advantage by going in an unexpected direction after going invisible. You'll be a lot harder to catch if you don't just go in a straight line.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 21
+      "realVotes": 22
     },
     {
       "details": "Don't ever cast Triple-Tap on a Tassadar without his Dimensional Shift on CD. He will just cancel the whole process.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 2
+      "realVotes": 3
     }
   ],
   "tyrande": [
@@ -3630,7 +3630,7 @@
       "details": "Countering is impossible. There must always be a Lich King.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 30
+      "realVotes": 32
     },
     {
       "details": "Arthas is good against double tank if played correctly. He gives zoning potential with his Frozen Tempest and Howling Blast, while being relatively durable with Army of the Dead.",
@@ -3648,7 +3648,7 @@
       "details": "Arthas has troubles leaving a fight, as he doesn't have any movement abilities. He relies on sustaining through a fight, or crowd controlling his targets while he attempts to walk away. Because of this, crowd control him or tricking him into overcommiting to a fight can be effective.",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 21
+      "realVotes": 22
     },
     {
       "details": "when playing an assassin with Arthas as on your team it's often worth to consider Executioner talent",
@@ -4132,7 +4132,7 @@
       "details": "Don't focus Chen when he can drink freely.",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 58
+      "realVotes": 59
     },
     {
       "details": "If you choose Brewmaster's Balance at Level 7, drink to full and use the W->E combo to be at exactly 50 brew. You then profit from both increased regen and movement speed.",
@@ -4252,7 +4252,7 @@
       "details": "Most crowd control abilities can put an end to Chen's drinking habit.",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 89
+      "realVotes": 90
     }
   ],
   "diablo": [
@@ -4828,7 +4828,7 @@
       "details": "Falstad has an ability that damages you as long as you stay in its range. This range is indicated by a read circle area around him. Move out of it to interrupt.",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 23
+      "realVotes": 24
     },
     {
       "details": "It's generally better to Z (fly) into a bush  instead of a wide open area. The enemy can see the landing zone circle when its in the open (its red for them, but just as large and noticable) and it tips your hand. Flying into an unoccupied bush gets around that and lets you pop out when needed instead.",
@@ -4876,7 +4876,7 @@
       "details": "Falstad can fly a fairly long distance on the map with his mount ability. Look for his indicator and be wary of ambushes, splitpushing, or him showing up at objectives!",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 33
+      "realVotes": 34
     },
     {
       "details": "Coordinate with your Falstad and ping the map when a situation arises that he can help turn around, such as a gank or an objective capture that might have otherwise been an even fight",
@@ -5330,7 +5330,7 @@
       "details": "Since Illidan relies heavily on basic attacks for damage, healing, and cooldown reduction, consider taking the Imposing Presence talent vs him when possible. Shrink Ray can also be useful.",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 79
+      "realVotes": 80
     },
     {
       "details": "Always be calm when playing Illidan. If you are running make sure you spam E more often than not evasion comes off CD a split second before you die!",
@@ -5342,7 +5342,7 @@
       "details": "Tychus' Overkill isn't affected by Evasion.",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 68
+      "realVotes": 69
     },
     {
       "details": "Never engage with Q.  Your Q is to chase or escape, not to start the fight.  Engage with an auto attack, chase with W and Q if it's safe.  Otherwise, escape with W and Q.",
@@ -5456,7 +5456,7 @@
       "details": "You can use metamorphosis to dodge ultimates like judgement or pyroblast",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 9
+      "realVotes": 10
     },
     {
       "details": "Press ESC to leave the game if your opponent picked him because YOU ARE NOT PREPARED yet",
@@ -5516,13 +5516,13 @@
       "details": "Azmodan can be a strong counter pick to an Illidan team.  Azmo push helps keep Illidan team split, and Azmodan laser melts him through all his flips, forcing Illidan to retreat to break the channel.",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 80
+      "realVotes": 82
     },
     {
       "details": "Use your Q for escaping: Minions or enemy walls are really good to zone away from chasing enemies when you don't want to engage.",
       "type": "As",
       "patch": "Sylvanas",
-      "realVotes": 55
+      "realVotes": 56
     },
     {
       "details": "You are a late game monster, but an early game wimp.  Relatively, anyway.  Be very wary early game of getting into fights and remember that you grow into a beast later on, so have patience.",
@@ -5570,7 +5570,7 @@
       "details": "Your Q ability does less damage than an autoattack.  Use it for positioning or mobility, not for burst damage.",
       "type": "As",
       "patch": "Sylvanas",
-      "realVotes": 95
+      "realVotes": 96
     },
     {
       "details": "If you're low and getting chased down, you can use The Hunt on a minion in a nearby lane to escape.",
@@ -5582,7 +5582,7 @@
       "details": "Consider not killing the extra side walls at forts because it gives illidan an extra escape route in lanes when he is aggressive.",
       "type": "Helper",
       "patch": "Sylvanas",
-      "realVotes": 48
+      "realVotes": 47
     },
     {
       "details": "If your teamate picked illidan in heroes league, consider picking abathur to buff him up.  \nSymbiote an illidan correctly will unleash hell to your enemies!",
@@ -5606,7 +5606,7 @@
       "details": "If you are in lane with Illidan and he has low health, consider not attacking the minions, so he can heal himself up with auto attacks.",
       "type": "Helper",
       "patch": "Sylvanas",
-      "realVotes": 42
+      "realVotes": 43
     },
     {
       "details": "Illidan gets self-sustain, damage, and cooldown reduction from any attack speed bonuses.  If you have one, give it to him.",
@@ -6092,7 +6092,7 @@
       "details": "It's a complete waste to lane with a hero such as Illidan that has no mana pool.",
       "type": "As",
       "patch": "Sylvanas",
-      "realVotes": 47
+      "realVotes": 48
     },
     {
       "details": "I find that it's valuable to use Malf's root as a follow-up to someone who has already used crowd-control, rather than jumping the gun.",
@@ -6158,7 +6158,7 @@
       "details": "Make sure to give people who need mana the D.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 51
+      "realVotes": 52
     },
     {
       "details": "Ice block can be used during Tranquility for getting into the thick of the fight and providing uninterrupted healing.",
@@ -6217,12 +6217,6 @@
       "realVotes": 19
     },
     {
-      "details": "Be wary of using your Q in or near an enemy creep wave. Those little martyrs love to eat that stun and shield their heros. Be sure you have a clear line to the target.",
-      "type": "As",
-      "patch": "Sylvanas",
-      "realVotes": 42
-    },
-    {
       "details": "Use your Haymaker ult to throw an unsuspecting assassin or support into your team to guarantee those solid kills. With Perfect Storm, keep your Q on cooldown by lining up those hero stuns. by the end of the game you can Haymaker, jump on them, and Q to almost always get that kill.",
       "type": "As",
       "patch": "Sylvanas",
@@ -6238,7 +6232,7 @@
       "details": "Muradin is one of the most pain-tolerant heroes in the game. He is in a way a slightly less tanky Johanna. You can jump into the middle of fights, sponge up LOADS of damage, and leave just fine. Your trait second wind gives you enhanced health regen, and his heroic Avatar massively increases your health and reduces cc effects by 75% against you. Use the mountain king's might to its fullest!",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 11
+      "realVotes": 13
     },
     {
       "details": "Kill him first to show the other team how strong you are, it will defeat their will to keep fighting.",
@@ -6268,7 +6262,7 @@
       "details": "When playing him, be very patient, burning out your abilities to engage isn't always the better solution. Be patient and use your Q on a very low assassin so it can be burned down",
       "type": "As",
       "patch": "Sylvanas",
-      "realVotes": 30
+      "realVotes": 32
     },
     {
       "details": "With lvl1 talent Perfect Storm chosen, the Muradin player will try to get some stuns on you in the laning phase to build up his late game damage. Position wisely to avoid this!",
@@ -6298,13 +6292,19 @@
       "details": "Muradin isn't especially mobile, but with a slow and a stun, he's great for preventing enemy heroes from escaping, meaning as low mobility assassin such as Jaina you can secure kills you otherwise couldn't.",
       "type": "Helper",
       "patch": "Sylvanas",
-      "realVotes": -4
+      "realVotes": -5
     },
     {
       "details": "Don't spam your jump, dwarf toss! It's damage is very low but it's mana cost is high. Using it too much will leave you too mana starved for a real fight and likely have your only escape or chase on cool down when you really need it.",
       "type": "As",
       "patch": "Sylvanas",
-      "realVotes": 53
+      "realVotes": 55
+    },
+    {
+      "details": "Be wary of using your Q in or near an enemy creep wave. Those little martyrs love to eat that stun and shield their heros. Be sure you have a clear line to the target.",
+      "type": "As",
+      "patch": "Sylvanas",
+      "realVotes": 44
     }
   ],
   "murky": [
@@ -6624,7 +6624,7 @@
       "details": "Murky loves getting chased.  If you spend 30 seconds chasing Murky and kill him, you've basically accomplished nothing.  Scare him off and go back to something more productive.",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 201
+      "realVotes": 202
     },
     {
       "details": "Save the Cleanse or the Divine Shield from Uther for the Octograbbed target, for gods sake. Don't make anyone rage!",
@@ -7342,7 +7342,7 @@
       "details": "don't",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 0
+      "realVotes": -1
     },
     {
       "details": "The enemy core will reveal you. Stealth does not work in the enemy core's circle.",
@@ -7802,13 +7802,13 @@
       "details": "With her new ultimate, mind control, utilize the fact that she can bring a hero out of position. When that happens, pounce on them!",
       "type": "Helper",
       "patch": "Kael'thas",
-      "realVotes": 0
+      "realVotes": 1
     },
     {
       "details": "Careful with mind control.  Don't be in range of towers with Syl around after 10. Avoid going forward to poke or diving if your team is not with you.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 1
+      "realVotes": 2
     },
     {
       "details": "Hold Q, rotate W when CD is done, only use E to escape (not an opener)",
@@ -7850,7 +7850,7 @@
       "details": "Haunting Wave (E) force cancel Nova's Triple Tap",
       "type": "As",
       "patch": "Sylvanas",
-      "realVotes": 78
+      "realVotes": 79
     },
     {
       "details": "When using your haunting wave to escape, Cast it in the direction you want to go, run another direction still away from your adversaries, then use the teleport. This makes the escape much more effective then just running the way you want to escape after casting.",
@@ -7868,19 +7868,19 @@
       "details": "Nova's clone can block her Q. She is also very vulnerable to Nova.",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 90
+      "realVotes": 91
     },
     {
       "details": "When pushing try to focus down the building she disables",
       "type": "Helper",
       "patch": "Sylvanas",
-      "realVotes": 43
+      "realVotes": 44
     },
     {
       "details": "Sylvanas can lock down two targets (e.g. two Siege Giants, two towers, etc.) by standing close to one and using her basic attack on the other. Don't hold Q, but rather periodically tap it to reapply the Black Arrow trait to the closer enemy. This is very effective but can be very risky against towers. Have your allies focus down the nearest one so if you have to move, you won't get lit up by the tower the moment you stop applying Black Arrow.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 25
+      "realVotes": 26
     },
     {
       "details": "Aside from her E and ult Sylvanas has no other way to revealing invis heroes, so nova and zeratul are good counters",
@@ -7910,7 +7910,7 @@
       "details": "Remember you're not forced to reactivate your E. It's a good tool to mindgame your enemy. Throw it behind the wall and make them think you'll teleport there, but keep on walking.",
       "type": "As",
       "patch": "Sylvanas",
-      "realVotes": 26
+      "realVotes": 27
     },
     {
       "details": "While it is very important to save banshee wave as an escape, not your opener, it is okay to use it to reveal a pesky Nova or Zeratul and get the upper hand on them.  Only, and only if you can see exactly where they are.",
@@ -7922,7 +7922,7 @@
       "details": "If you have a boss monster and the enemy team does not, push with it alongside Sylvanas and keep Sylvanas safe; she can greatly extend the life of boss monsters by disabling forts from damaging them.",
       "type": "Helper",
       "patch": "Sylvanas",
-      "realVotes": 28
+      "realVotes": 29
     },
     {
       "details": "If Sylvanas is pushing with a boss, you must defend against her push; she is capable of taking that boss all the way to your core without allowing it to sustain much damage.\n\nThis is true not only of the standard recruitable boss monsters, but also of the web weavers, the golems, and the Dragon Knight.",
@@ -7940,7 +7940,7 @@
       "details": "Your W has longer range than towers. It's useful to engage them.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 24
+      "realVotes": 25
     },
     {
       "details": "Your Withering Fire (Q by default) attack doesn't do as much damage as your auto attacks. Keep this in mind in team fights as simply standing still and auto attacking can make you deliver more damage than strafing from side to side pressing Q. Of course, if the enemy has an ambusher and you lack vision of them, don't stand next to any fog/smoke/bush or wall.",
@@ -7982,7 +7982,7 @@
       "details": "Avoid standing in minion waves if the Sylvanas has unstable poision. As it causes the minions to explode on death dealing aoe damage.",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 21
+      "realVotes": 20
     },
     {
       "details": "Never let Sylvanas push an undefended lane; she can build up a huge wave of minions and cause devastating amounts of damage.",
@@ -8012,7 +8012,7 @@
       "details": "Try not to initiate with your only escape.",
       "type": "As",
       "patch": "Sylvanas",
-      "realVotes": 188
+      "realVotes": 189
     },
     {
       "details": "A good team tactic is to gank an opponent right before the objective of the map is shown, this way you can let Sylvanas side push and play a 4vs4 at the object. She is capable of put down 3 towers and a fort meanwhile the rest of the team fight for the map's objective. \nSylvanas is one of the best specialist in doing side-push, let her play in this kind of situation and you and your team will be able to overcome your opponents in a really short amount of time.",
@@ -8988,7 +8988,7 @@
       "details": "Tassadars trait allows him to reveal any cloaked heroes in a great area around him\nThe cooldown of it can be lowered by Talents",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 68
+      "realVotes": 69
     },
     {
       "details": "Tyrande has owl for general sight, Hunter's mark to keep a revealed stealther unstealthed, and her ultimate reveals every hero on the map. Next to Tassadar, she is the best hero for revealing zera and nova.",
@@ -9072,7 +9072,7 @@
       "details": "If your team was caught in one of Zeratul's heroic abilities, Void Prison, consider getting caught in it yourself, as it makes you invulnerable. This could prevent you from being focused down while you're without team support.",
       "type": "Counter",
       "patch": "Sylvanas",
-      "realVotes": 77
+      "realVotes": 78
     },
     {
       "details": "Zeratul's void prison will help to deflect cannon balls from structures in Blackheart's Bay. The cannon hits the structures in the same pattern: middle fort, top, then bottom. Wait for the structure to get marked as a target then void prison.",
@@ -9158,7 +9158,7 @@
       "details": "u can dodge pyro blast with a well timed teleport for example zera, sylvana, bolt of the storm.\nright when pyro explodes on u u can teleport and dodge the damage. difficult to do but sometimes worth learning",
       "type": "Helper",
       "patch": "Kael'thas",
-      "realVotes": 0
+      "realVotes": -1
     },
     {
       "details": "If you  press D   you get a free w so you can do the double bomb and do some serious damage late game.",
@@ -9236,7 +9236,7 @@
       "details": "Nifty trick for bosses/golems etc.\nOptimal single target sustained DPS sequence:\nD -> W -> Q -> (break/AA) -> D -> W -> Q.\nA lot of people do D -> W -> W Because it is tempting to pop W when it is not on cool down, but D has shorter cool down than W so overall above is better.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 26
+      "realVotes": 27
     },
     {
       "details": "A new combo for KT using the newly buffed is D+Q, W, Q, W, D+Q, W, D and repeat until the enemy is dead. Get pyro for 13 and FotS 16. Flamestrike on Flamestrike.",
@@ -9254,7 +9254,7 @@
       "details": "The Pheonix does damage as it moves forwards. Therefore, it can often be directly used as a skillshot extension for various kill combos. It also just takes time to escape, when coming out of gravity lapse. It even zones out the rest of the team a bit, WHILE you're combo-ing.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 21
+      "realVotes": 22
     },
     {
       "details": "Aim for his poopybutthole",
@@ -9272,7 +9272,7 @@
       "details": "Against Rexxar you can put a Living bomb on Misha just before she comes back to him, so that it'll explode close to him and his team.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 2
+      "realVotes": 3
     },
     {
       "details": "Although Kael is very fragile, resist the temptation to simply dog-pile him the moment you see him, especially in Hero League. In addition to his teammates peeling for him, Kael can save himself with an AoE stun then wipe your team with the rest of his kit.",
@@ -9284,7 +9284,7 @@
       "details": "Use your D+W on an enemy hero in lane for free poke.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 14
+      "realVotes": 15
     },
     {
       "details": "Spread out.",
@@ -9308,7 +9308,7 @@
       "details": "You have little to no mobility. Be mindful of your positioning, you mostly belong to the back of the team.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 79
+      "realVotes": 80
     },
     {
       "details": "There's a tendency to pop your D as soon as it's available... when you're moving between lanes or whatever. This is actually a bad move. If you come across a solo opponent, and open with gravity lapse \"boosted\" it's a waste. Save your D until right before you actually use it.",
@@ -9380,19 +9380,19 @@
       "details": "Unless you have a form of invulnerability, when targeted by a Pyroblast, do your best to make sure your allies are not in the area of effect of the ability.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 53
+      "realVotes": 54
     },
     {
       "details": "Entering the Mines cancels Pyroblast.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 89
+      "realVotes": 90
     },
     {
       "details": "Don't shoot your Pyroblast on Illidan, Vikings, and Tassadar. They can cancel your Pyro easily",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 16
+      "realVotes": 17
     },
     {
       "details": "Positioning is the single most important thing as Kael. If you can't seem to do well on him focus on this. Aim for 2 or less deaths per game.",
@@ -9416,7 +9416,7 @@
       "details": "Ice block and divine shield can negate pyroblast if timed correctly on the target.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 43
+      "realVotes": 44
     },
     {
       "details": "When using your D+Living Bomb+Living Bomb, try to let the first living bomb tick for full damage before stacking another one to maximise damage.",
@@ -9428,7 +9428,7 @@
       "details": "Kael'thas' chain bomb build synergizes extremely well with Johanna in team fights. As Johanna, use your Condemn-ability to clump up enemies, then let KT start the chain-bomb madness! Mwahaha! :D",
       "type": "Helper",
       "patch": "Kael'thas",
-      "realVotes": 19
+      "realVotes": 20
     },
     {
       "details": "Zeratul can void prism the target and it will not do any damage.",
@@ -9556,7 +9556,7 @@
       "details": "Johanna can actually be a very effective at clearing waves. Taking Knight Takes Pawn can be a great way to help soak and add xp early, mid and late game.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 27
+      "realVotes": 28
     },
     {
       "details": "Never be afraid to juke the enemy team out of position and re-initiate even at less than full hp. Her toolkit is amazing at punishing by using her utility. Be patient and set up opportune moments for your team to capitalize upon.",
@@ -10112,7 +10112,7 @@
       "details": "Keep an eye on his death timer and if he's taken Fealty (heals and faster death timer when minions die near him or his ghost).  He may end up respawning sooner than expected, and if he hasn't timed it right himself you can catch him in a bad spot.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 31
+      "realVotes": 32
     },
     {
       "details": "Use your [W] ability immediately upon entering Ghost Form.",
@@ -10208,7 +10208,7 @@
       "details": "You are not a tank murky. If you die, you give 100% XP.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 154
+      "realVotes": 155
     },
     {
       "details": "Use your [Q] ability on every cooldown to harass escaping Heroes or slow objectives while in Ghost Form. You can be as annoying as Murky.",
@@ -10304,13 +10304,13 @@
       "details": "His W (Drain Hope) does a LOT of damage to its target, and gives him a LOT of health, but you can defend against it. When he uses it on you, you will see a long, white strand/tube connecting him to you. If possible, move away from him quickly - if you get out of range, it will break the connection early. This is made easier by the fact that Leoric is slowed by 20% while draining (a talent at lvl 13 can remove this slow).",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 18
+      "realVotes": 19
     },
     {
       "details": "Proper full combo is Q to slow down opponent, then W to start leaching health. Immediately hit E and if you need to get away move away, but if it's an opportunity to keep the enemy in range move towards the enemy and cancel just before they move out of range of W. This will ensure W stays on the hero for as long as possible.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 44
+      "realVotes": 45
     },
     {
       "details": "Pick the talent of the Reg Globes, and use ur Q to get the xp from waves and kill the mage minion first to get the global quickly, try to roam to lanes to get other globes, In the late game you will be GOD",
@@ -10352,7 +10352,7 @@
       "details": "if you're being chased in your ghost form and are about to respawn use B to hearthstone back into base this will keep people from killing you upon reviving",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 88
+      "realVotes": 89
     }
   ],
   "kharazim": [
@@ -10432,7 +10432,7 @@
       "details": "Too many people want damage and kharazim can do good damage, but what does it matter if the tank is dead and so are 2 of your damage dealers. Divine palm is like Uther and rehgar combined, 3 seconds enemies won't attack = Uther or they do and it becomes a rehgar ult. Completely counters burst kills like li  Ming. Also it's ok to attack the tank if he's in range to help heal your team. Your job is to keep your team alive and can still get kills if done right. If you want an assassin take someone else.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": -1
+      "realVotes": -2
     },
     {
       "details": "If you know your kharazim will take SSS consider a second support such as tyrande or tassadar. Even auriel does well with.",
@@ -10581,12 +10581,6 @@
       "realVotes": 1
     },
     {
-      "details": "While in the lane, attack Misha whenever you can, but never in a teamfight",
-      "type": "Counter",
-      "patch": "Kael'thas",
-      "realVotes": 3
-    },
-    {
       "details": "feint death can block any damage.  great for negating artanis beam, kt bomb any pyro ult, falsteds hammer throw burn and repeat damage, nova triple tap, and many more.",
       "type": "As",
       "patch": "Kael'thas",
@@ -10626,7 +10620,7 @@
       "details": "While Misha should not be a priority target, keep in mind the Rexxar is nearly useless without her. If she exposes too much, burst her down.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 17
+      "realVotes": 18
     },
     {
       "details": "Check Rexxar's talents at level 4. If he picked Easy Prey, be ready to gank him if he tries to take a merc camp.",
@@ -10638,7 +10632,7 @@
       "details": "Abathur can be top hat on misha",
       "type": "Helper",
       "patch": "Kael'thas",
-      "realVotes": 28
+      "realVotes": 29
     },
     {
       "details": "When running from foes they tend to line up nicely. Misha, if alive, will usually be in the middle of them all use her stun attack to buy you some time. If you manage to stun them all hit them with the bird to show them when the stun expires. This can also help in letting your allies get away as well",
@@ -10668,7 +10662,7 @@
       "details": "Misha can take gems, also kharazim can use misha for escape, use d carefully for those situations",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 11
+      "realVotes": 12
     },
     {
       "details": "Zeratul and nova can ignore misha so they are great counters against rexxar, also kharazim can engage easily",
@@ -10692,7 +10686,7 @@
       "details": "Taking Thrill of the Hunt over Wildfire Bear is not a bad idea. It allows Misha to stick to the target easier as long as Rexxar hits anything nearby and stays within leash range of Misha.\n\nIf clearing speed on Mercenary camps is a concern, Easy Prey (level 4 talent) along with Beastial Wrath (ultimate) allows for a fast clear. Beastial Wrath costs little mana and has a short cooldown.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 9
+      "realVotes": 10
     },
     {
       "details": "Hunter-Gatherer is currently bugged; it doesn't give you the regen bonus if a teammate picked it up. Bear this in mind when choosing your level 1 talent.",
@@ -10704,7 +10698,7 @@
       "details": "The best strategy against a Rexxar is to ignore his bear and just attack his face (Hearthstone players should appreciate the irony here.)",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 73
+      "realVotes": 74
     },
     {
       "details": "When Misha dies, she gives 25% xp",
@@ -10716,13 +10710,13 @@
       "details": "Given the choice, use your heals on Rexxar instead of Misha. Rexxar himself can heal Misha better than any healer, but has low defense and no escape himself.",
       "type": "Helper",
       "patch": "Kael'thas",
-      "realVotes": 36
+      "realVotes": 37
     },
     {
       "details": "Misha Fixate can be used to activate fountains.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 39
+      "realVotes": 40
     },
     {
       "details": "If you go for the right build, Rexxar can take every camp including boss. It just takes a long time to get the boss.",
@@ -10752,7 +10746,7 @@
       "details": "Keep in mind that Misha counts as a hero for effects like Leoric's drain, Li Li's blind, etc.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 28
+      "realVotes": 29
     },
     {
       "details": "Rexxar himself is very squishy and immobile.  Do what you can to protect him.",
@@ -10764,7 +10758,7 @@
       "details": "Although Rexxar can solo the boss before level 10, it really isn't worth the amount of time and mana spent to get it.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 20
+      "realVotes": 21
     },
     {
       "details": "This is how to add tremendous pressure as Rexxar, Take the merc camp/assisin build.  You should be a roamer and solo the boss at lvl 7, the opposing team won't be ready for that.  then take all the other merc camps, rinse and repeat.",
@@ -10789,6 +10783,12 @@
       "type": "Counter",
       "patch": "Kael'thas",
       "realVotes": -5
+    },
+    {
+      "details": "While in the lane, attack Misha whenever you can, but never in a teamfight",
+      "type": "Counter",
+      "patch": "Kael'thas",
+      "realVotes": 4
     }
   ],
   "ltmorales": [
@@ -11122,7 +11122,7 @@
       "details": "Your purifer beam is slower to track than normal walk speed, but will start right on its target almost guaranteeing some damage. Use this to your advantage to secure kills on low heath targets and to start a chain beam with its level 20 upgrade.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 2
+      "realVotes": 3
     },
     {
       "details": "malfurion",
@@ -11152,7 +11152,7 @@
       "details": "Never forget if your low on HP just fight !!! Running away give you mostly death fighting give you shield its like illidans trait.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 6
+      "realVotes": 7
     },
     {
       "details": "Your E ability is not a Stitches hook. If you try to use it like one, it's going to miss.",
@@ -11176,7 +11176,7 @@
       "details": "A well timed dash before a boss uses his aoe stun can be used to avoid getting caught and dealing light damage.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 27
+      "realVotes": 28
     },
     {
       "details": "Artanis is easy to kite hero. Consider give him move speed, if you have one(kharazim, tyrael, tyrande, tassadar)",
@@ -11194,7 +11194,7 @@
       "details": "You can use Phase Prism to save your team members or just for disengage your healer. Use it to swap position with attackers. You can also use when some ppl following you from back and one or more coming in front of you in a retreat situation.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 3
+      "realVotes": 4
     },
     {
       "details": "when playing Artanis its best to play in a team with at least one more bruiser/tank because Artanis' tankyness isnt the highest",
@@ -11272,13 +11272,13 @@
       "details": "If you pick up Zealot Charge (16), you may want to save your Twin Blades (W) for a moment if you can land your Phase Prism (E) on an enemy. In that way you can warp an enemy in the middle of your team and charge right back, body blocking his escape and not get bursted by the enemy team caught far out.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 11
+      "realVotes": 12
     },
     {
       "details": "Lili's blind is a good counter to Artanis since he relies on auto attacks hitting to build his shield.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 9
+      "realVotes": 10
     },
     {
       "details": "If you have an Artanis on your team that loves diving into the enemy at ridiculously bad times, please keep positive.  Remember, even if your teammate is trash, it's Garbage Can, not Garbage Can't.",
@@ -11290,7 +11290,7 @@
       "details": "When Artanis uses Suppression Pulse on the enemy team, that's his signal that it's time to commit and start a teamfight,. Artanis will be very annoyed and likely very dead if his teammates don't take advantage of the 4-second team-wide blind.",
       "type": "Helper",
       "patch": "Kael'thas",
-      "realVotes": 14
+      "realVotes": 15
     },
     {
       "details": "If you play against Nazeebo save your \"E\" skill to get out from the zombie wall if you ever get trapped.",
@@ -11308,7 +11308,7 @@
       "details": "Blade Dash should be used to sustain your trait, not poke. There are talents which reduce it's cooldown as well as the cooldown of your trait. Save it for teamfights or prolonged duels.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 7
+      "realVotes": 8
     },
     {
       "details": "As a healer, remember that most of Artanis' survivability only comes into play at 50% health. Consider prioritizing other targets for healing until he's close to that threshold.",
@@ -11326,25 +11326,25 @@
       "details": "Artanis's shield trait is reliant on him being able to continue landing autoattacks. Kiting him with ranged heroes or locking him down with slows/roots/stuns can allow you to easily take him out.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 52
+      "realVotes": 53
     },
     {
       "details": "When Artanis targets someone with Purifier Beam, try to stun or root them to keep them in place so the beam can do maximum damage.",
       "type": "Helper",
       "patch": "Kael'thas",
-      "realVotes": 55
+      "realVotes": 56
     },
     {
       "details": "Remember that Artanis's ults are global! If you have allies in another lane with hard CC, you can net a kill with Purifier Beam, or prevent a gank with Suppression Pulse, while continuing to push an objective.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 48
+      "realVotes": 49
     },
     {
       "details": "Lvl 16 \"charge\" skill is really useful against ranged heroes.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 10
+      "realVotes": 11
     },
     {
       "details": "Being kited at low hp? KEEP AA'ing every hiteable thing.. minions, walls, totems.. do not try yo run, the ranged will get u, become a chen and hit minions while those valas and raynors scratch ur shields, u will bait em enough to get q and e off cd and strike ur combo",
@@ -11454,13 +11454,13 @@
       "details": "Be very clear as Cho using rune bomb. I take a step away to give my teammate extra time to react. Also lead the target so it lands most effectively. Let gall poke because you don't need to be taking useless damage.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 0
+      "realVotes": 1
     },
     {
       "details": "Surging fist for escapes and extra cc to save teammates or slow enemies. Cho'gall doesn't have much stuns  so using surging fist for cc is important. All other skills can be used liberally with no mana cost.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 0
+      "realVotes": 1
     },
     {
       "details": "Think Auriel crystal aegis so Cho can take rune bomb cool down at 13 instead of molten block if they have kharazim/leoric combo. This will completely destroy their plans. As well as Auriel on cho'gall gets good energy. Uther divine shield can work just as good. If enemy tries to SSS jump into the circle because 7% of your up is 1/4 of cho'gall 7%. SSS hits all in range equally, 4 in circle means 14% max health gone not 49%.",
@@ -12216,7 +12216,7 @@
       "details": "If you need to fight her, get as close as possible. It's harder for her to aim her Q at close range, and her W deals almost no damage to nearby enemies.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 64
+      "realVotes": 65
     },
     {
       "details": "Seems to work well with heroes like Sgt. Hammer who can pick up enemies who run away with low health with global range heroics - if the kill happens in close succession, her trait triggers as well",
@@ -12228,7 +12228,7 @@
       "details": "Thin map barriers/walls/hedges are your best friend. Not only can you teleport across them in a pinch, you can also hide out behind them and launch spells all day (Q and W aren't stopped by terrain).",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 38
+      "realVotes": 39
     },
     {
       "details": "The talent Ess of Johan at lvl 4 can set up some nice AOE combos for your team.",
@@ -12246,7 +12246,7 @@
       "details": "She pairs well with good wave-clear heroes. The fewer minions there are around, the more  missiles and orbs get to hit heroes and structures.",
       "type": "Helper",
       "patch": "Kael'thas",
-      "realVotes": 29
+      "realVotes": 30
     },
     {
       "details": "When going into a teamfight, make sure that her trait can go off. Her trait will allow her ult to be used multiple times in one teamfight.",
@@ -12270,13 +12270,13 @@
       "details": "Her Q (Arcane Missiles) is a GREAT scouting skill: long range, low cooldown, low mana, big area of effect. Use it liberally to check bushes, mercs, and objective points (gem turn-in, Blackheart, etc.)",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 42
+      "realVotes": 43
     },
     {
       "details": "Your Q and W out-range towers and forts.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 46
+      "realVotes": 47
     },
     {
       "details": "As mentioned earlier she is very skill shot dependent. Her q takes some time to come out and is easy to dodge. Her orb is slowing and also easy to dodge. If you can \"list lazily to the left\" you will dodge everything she has",
@@ -12312,7 +12312,7 @@
       "details": "If there are a few minions between her and you, she can't touch you (exception is Disintigrate heroic). Nazeebo's Zombie Wall can completely block her damage for a few seconds.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 39
+      "realVotes": 40
     },
     {
       "details": "Li-mings health pool is really low, however she is really evasive. Try to get her into stunlock and she will just be evaporated within 3 seconds",
@@ -12368,7 +12368,7 @@
       "details": "Make sure you don't use up your CC right before or during Xul's root. The longer you can keep them in place, the higher chance you have to get the kill.",
       "type": "Helper",
       "patch": "Kael'thas",
-      "realVotes": 7
+      "realVotes": 8
     },
     {
       "details": "xul",
@@ -12428,7 +12428,7 @@
       "details": "You can bait assassins by popping bone shield when you are low health.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 23
+      "realVotes": 24
     },
     {
       "details": "I cannot overstate the value of not trying to go head-to-head against Xul as a melee assassin. He can, if not outright murder the melee, at least escape ridiculously easily from even Illidan and Butcher. Save your presence for teamfights, and let the ranged take care of him if at all possible. He melts against ranged burst.",
@@ -12440,13 +12440,13 @@
       "details": "Don't wait to much to gank, your passive will give you away by spawning skeleton if enemy minions die.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 13
+      "realVotes": 14
     },
     {
       "details": "When you're right up against towers, be sure to launch your Q in line with the towers and gate, instead of directly out in front of you. Gives you a lot more overall effect on your Q.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 3
+      "realVotes": 4
     },
     {
       "details": "All of Xul's abilities have long cooldowns. If he wastes his root, it's a good idea to attack while he's waiting to use it again!",
@@ -12518,7 +12518,7 @@
       "details": "Ranged assassins better than melee against Xul.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 35
+      "realVotes": 37
     },
     {
       "details": "Winter is coming",
@@ -12530,13 +12530,7 @@
       "details": "If you pick Rathma's Blessing, try to stay in minon waves to during fights to block hits and heal up",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 4
-    },
-    {
-      "details": "Cursed strikes don't give you additional auto-attack damage; don't waste it by using it to do more damage (because it doesn't)",
-      "type": "As",
-      "patch": "Kael'thas",
-      "realVotes": 31
+      "realVotes": 5
     },
     {
       "details": "Try to pay attention to if your teammates have used their important cooldowns (Jaina's Blizzard, Tyrande's Stun, and so on...).  If they've used them at the start of a fight, you might want to just wait a few moments to root.  Combining the root with your teammates damage abilities is usually better than not doing so.  The extra 5 or 7 second wait will be worth it.",
@@ -12578,19 +12572,25 @@
       "details": "The Boneshield give you only the bonus, when its acitve. If it destroyed, the bonus of the lvl 1-talent is gone too.  Also Backlash will not work, when boneshield is destroyed before.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 11
+      "realVotes": 12
     },
     {
       "details": "If you have any abilities that make you Unstoppable or invulnerable for a brief moment, consider saving them for Xul's root, since you can predict exactly when the root will take effect and nullify it.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 10
+      "realVotes": 11
     },
     {
       "details": "Shade talent for Bone Armor (evasion, first talent) protects Xul wonderfully against ambushes and makes him much more tanky.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 22
+      "realVotes": 23
+    },
+    {
+      "details": "Cursed strikes don't give you additional auto-attack damage; don't waste it by using it to do more damage (because it doesn't)",
+      "type": "As",
+      "patch": "Kael'thas",
+      "realVotes": 32
     }
   ],
   "dehaka": [
@@ -12640,7 +12640,7 @@
       "details": "You are able to use Basic Attacks while Dragging an enemy. Utilize this to work in extra damage during a gank. This is also useful for reducing the cooldown of Drag if  you took Feeding Frenzy at 7.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 2
+      "realVotes": 3
     },
     {
       "details": "Take advantage of your mobility to keep your health and mana up. Hearth around half health, and then stalk back.",
@@ -12700,13 +12700,7 @@
       "details": "if you skill \"Enhanced Agility\" (tier1), you do not have to use the collected 50 essences with your Essence Collection (D) to further built up the movement speed. 10 stacks is the maximum though, it gives you 15.5% movement speed.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 3
-    },
-    {
-      "details": "Xul's \"Mortal Wound\" (Q, tier20) will reduce Dehakas selfheal Collecting Essence (D). Lock Dehaka into Bone Prison (E) and burst him down.",
-      "type": "Counter",
-      "patch": "Kael'thas",
-      "realVotes": 12
+      "realVotes": 4
     },
     {
       "details": "Don't be the first one to a fight. Wait for your team to engage and then burrow in.",
@@ -12724,7 +12718,7 @@
       "details": "If you diden't notice, you can use ur Borrow (E) ability to dodge enemies skillshots/cc/ulties.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": -7
+      "realVotes": -6
     },
     {
       "details": "As Sylvanas, mind control him then make him Z to a faraway place.",
@@ -12742,7 +12736,7 @@
       "details": "Always remember that Dehaka can teleport to any bush on the map at a moment's notice. Expect him to show up if the enemy team tries to gank you and be very careful around bushes as a squishy.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 8
+      "realVotes": 9
     },
     {
       "details": "Down with the slugs!",
@@ -12766,7 +12760,7 @@
       "details": "Dark Swarm lets you move through other bodies. It's useful as an escape—but also for creating a body block on the other side of an enemy!",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 5
+      "realVotes": 6
     },
     {
       "details": "Select Brightwing or Falstad. Have fun teleport-ganking!",
@@ -12797,6 +12791,12 @@
       "type": "As",
       "patch": "Kael'thas",
       "realVotes": 6
+    },
+    {
+      "details": "Xul's \"Mortal Wound\" (Q, tier20) will reduce Dehakas selfheal Collecting Essence (D). Lock Dehaka into Bone Prison (E) and burst him down.",
+      "type": "Counter",
+      "patch": "Kael'thas",
+      "realVotes": 14
     }
   ],
   "tracer": [
@@ -12882,7 +12882,7 @@
       "details": "You can dive inside the fort to kil murky egg or abathur, then recall.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 7
+      "realVotes": 8
     },
     {
       "details": "She's super easy to play, no need for tips",
@@ -12966,13 +12966,13 @@
       "details": "Do not try to pyroblast her as KT she will just rewind and laugh at you",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 22
+      "realVotes": 23
     },
     {
       "details": "It's necessary to pick a hero who has a blind. If you pick that hero, tracer will be behind their team because she depends on AA. Any stun will go down her.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 26
+      "realVotes": 27
     },
     {
       "details": "Only focus Tracer if  she overextends.  Don't imediately focus Tracer,  burst her allies and any other low mobility squish before trying to chase her.",
@@ -13008,7 +13008,7 @@
       "details": "any targeted cc that can be chained will mean one dead tracer.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 11
+      "realVotes": 12
     },
     {
       "details": "MAKE SURE YOU USE SILVER BULLET ON GREYMANE.  HES THE ONLY HERO THAT CAN KILL TRACER.",
@@ -13170,7 +13170,7 @@
       "details": "Holding space bar (camera lock) during fights will help you keep track of Tracer as you blink/walk around your target. Since your hero can constantly move and attack, you don't want to waste mouse actions focusing the camera.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 13
+      "realVotes": 14
     },
     {
       "details": "Try baiting her to recall prematurely, it has a long cooldown",
@@ -13194,7 +13194,7 @@
       "details": "Tracer's ult can be cleansed if needed.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 31
+      "realVotes": 33
     },
     {
       "details": "Tracer has very little lain pushing power so others on the team need to make up the difference.",
@@ -13286,7 +13286,7 @@
       "details": "Keep moving around! Her most painful damaging abilities (Q and W) are hard for her to aim due to cast delays.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 31
+      "realVotes": 32
     },
     {
       "details": "If you catch Morales you can transport her away from team and she cant do anything and you can kill",
@@ -13298,43 +13298,43 @@
       "details": "If you saw where she dropped her Time Trap, AoE effects can kill it.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 26
+      "realVotes": 27
     },
     {
       "details": "Keep in mind that her Q skillshot does not affect minions or structures, so you can't hide from it.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 26
+      "realVotes": 27
     },
     {
       "details": "Launch your Q and W from bushes or from behind map walls whenever possible. If they can't see the ability windups, it's much harder for them to dodge.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 29
+      "realVotes": 30
     },
     {
       "details": "When using temporal loop: Wait until the counter is just about half done, then cast W - Q (in that order) on the original location. With proper timing, this combo hits like a truck.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 27
+      "realVotes": 28
     },
     {
       "details": "When running from an enemy, place your tme trap (E) in front of you. That way, it will be charged by the time your pursuer gets to that spot.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 28
+      "realVotes": 29
     },
     {
       "details": "Take advantage of any bad positionning from a Chromie. One bad move and she's out of the game. Don't stand still and DON'T STAY NEAR THE FORT GATES if you need to hearth!",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 10
+      "realVotes": 11
     },
     {
       "details": "If she takes Temporal Loop, pay attention to the timer (circle that appears over the target's location). Time your abilities to hit the target as soon as they jump back in time.",
       "type": "Helper",
       "patch": "Kael'thas",
-      "realVotes": 24
+      "realVotes": 25
     },
     {
       "details": "Providing vision for Chromie is golden. Zagara Creep and Medhiv are prime examples of this. And as pointed out by others roots or other disabling CC makes the atillery mage's day much easier.",
@@ -13363,12 +13363,6 @@
   ],
   "medivh": [
     {
-      "details": "Use your portal to let your team's  melee assassins  to teleport to the enemy backline and destroy squishies. You can shield them from very far away so you don't even have to teleport with them.",
-      "type": "As",
-      "patch": "Kael'thas",
-      "realVotes": 1
-    },
-    {
       "details": "nazebo",
       "type": "Counter",
       "patch": "Kael'thas",
@@ -13390,13 +13384,7 @@
       "details": "if Medivh creates smart portals please use them.\nIt pleasures him verry well",
       "type": "Helper",
       "patch": "Kael'thas",
-      "realVotes": 9
-    },
-    {
-      "details": "Sustained damage counters medivh since his shield doesnt last long.So avoid playing burst heroes against him cause medivh can survive your whole combo which is a burst have to be  executed in like 2-3 seconds",
-      "type": "Counter",
-      "patch": "Kael'thas",
-      "realVotes": 4
+      "realVotes": 10
     },
     {
       "details": "Excellent scouting for Abathur",
@@ -13408,13 +13396,19 @@
       "details": "Try using poke abilities or DoT ones to bait his shield",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 2
+      "realVotes": 3
     },
     {
       "details": "-without support he can do NOTHING useful",
       "type": "Helper",
       "patch": "Kael'thas",
       "realVotes": -10
+    },
+    {
+      "details": "Sustained damage counters medivh since his shield doesnt last long.So avoid playing burst heroes against him cause medivh can survive your whole combo which is a burst have to be  executed in like 2-3 seconds",
+      "type": "Counter",
+      "patch": "Kael'thas",
+      "realVotes": 6
     },
     {
       "details": "do not rush to use sheep, until you see 3 players or retreat",
@@ -13486,7 +13480,7 @@
       "details": "You cant shield poison, you can save yourself from it by mounting (you cant recive any dmg in raven form, poison gets instantly canceled)",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 11
+      "realVotes": 12
     },
     {
       "details": "If you are medivh please find Murky's egg and kill it",
@@ -13499,6 +13493,18 @@
       "type": "Helper",
       "patch": "Kael'thas",
       "realVotes": -10
+    },
+    {
+      "details": "Remember portals can be used both ways. If you find yourself in a bad position after a portal just use it again quickly.",
+      "type": "Helper",
+      "patch": "Kael'thas",
+      "realVotes": 1
+    },
+    {
+      "details": "Use your portal to let your team's  melee assassins  to teleport to the enemy backline and destroy squishies. You can shield them from very far away so you don't even have to teleport with them.",
+      "type": "As",
+      "patch": "Kael'thas",
+      "realVotes": 2
     }
   ],
   "guldan": [
@@ -13519,12 +13525,6 @@
       "type": "As",
       "patch": "Kael'thas",
       "realVotes": 4
-    },
-    {
-      "details": "Save your stuns for when Gul'dan decides to Drain Life, then lock him out of it. He has no defenses aside from that one spell, so be sure to remove that layer of defense ASAP.",
-      "type": "Counter",
-      "patch": "Kael'thas",
-      "realVotes": 8
     },
     {
       "details": "Sonya slays him in seconds.",
@@ -13591,6 +13591,12 @@
       "type": "Helper",
       "patch": "Kael'thas",
       "realVotes": 3
+    },
+    {
+      "details": "Save your stuns for when Gul'dan decides to Drain Life, then lock him out of it. He has no defenses aside from that one spell, so be sure to remove that layer of defense ASAP.",
+      "type": "Counter",
+      "patch": "Kael'thas",
+      "realVotes": 9
     }
   ],
   "auriel": [
@@ -13616,7 +13622,7 @@
       "details": "Cho'gall is very strong with Auriel! You get energy twice as fast and get a free res since he is two players in one.",
       "type": "Helper",
       "patch": "Kael'thas",
-      "realVotes": 10
+      "realVotes": 11
     },
     {
       "details": "If you play Tyrael in a team that has Auriel, you might consider to take sanctification at 10 and 20. You will be giving Auriel time to fill her gauge, because you protect your allies and with the level 20 talent you also grant a damage bonus which is very effective for the Ally wearing the hat. Auriel's gauge will be filled way quicker and your team can stand longer.",
@@ -13628,7 +13634,7 @@
       "details": "Kael thas is good counter for auriel. Ray of heaven (auriel healing ability) maximizes healing output when teams are grouped. Kt abilities (living bomb specially) force enemy teams to be split and minimizes auriels healing (since team would avoid grouping because of the living bomb)",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 11
+      "realVotes": 12
     },
     {
       "details": "abathur",
@@ -13646,13 +13652,13 @@
       "details": "You can use detainment strike in combination with Tassadar's force wall to stun an enemy",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 5
+      "realVotes": 6
     },
     {
       "details": "If her crown is on your head, focus your damage on heroes rather than minions, if you're able. Hero damage fills her healing bar faster.",
       "type": "Helper",
       "patch": "Kael'thas",
-      "realVotes": 3
+      "realVotes": 4
     },
     {
       "details": "When playing Artanis against a team that is mainly Auto Attack damage AND has Auriel, Supression Pulse will be a must. Auriel will have a hard time getting energy, while her allies don't do any damage with their Auto Attacks.",
@@ -13661,16 +13667,10 @@
       "realVotes": 0
     },
     {
-      "details": "Constantly switch bestow hope targets and use your heals even if not at full energy. Once at full energy any extra damage does not fill the bar. Cool down is 4 seconds on heal, enough time to completely fill the bar with a good q. Detainment strike can save allies, most of her abilities are spammable with no mana costs, use liberally.",
-      "type": "As",
-      "patch": "Kael'thas",
-      "realVotes": 0
-    },
-    {
       "details": "She is a bit like Morales. In team fights, kill her first (get dive heroes or heroes with abilities to force her to run away - Cocoon, Purifier Beam etc) or manage to get the one's you want to kill far away from her.",
       "type": "Counter",
       "patch": "Kael'thas",
-      "realVotes": 10
+      "realVotes": 11
     },
     {
       "details": "sylvanas",
@@ -13682,7 +13682,7 @@
       "details": "As long as you have her top hat, try inflicting as much damage as possible (AoE works wonders), because the damage you do directly affects the amount of healing she can do.",
       "type": "Helper",
       "patch": "Kael'thas",
-      "realVotes": 12
+      "realVotes": 13
     },
     {
       "details": "With auriel she has a pretty short range and shes going to want to be aggressive punish her when she is and if she takes resurrect make sure to guard dead bodies if you think she wants to rez them",
@@ -13694,19 +13694,25 @@
       "details": "Try not to die, you can't resurrect yourself while dead. Or anyone else, for that matter.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": -2
+      "realVotes": -4
     },
     {
       "details": "Even after it has been destroyed, structures are still eligible walls for a detainment strike stun.",
       "type": "As",
       "patch": "Kael'thas",
-      "realVotes": 5
+      "realVotes": 6
     },
     {
       "details": "Landing a detainment strike stun is fulfilling, but not worth getting into a bad position to do it.",
       "type": "As",
       "patch": "Kael'thas",
       "realVotes": 3
+    },
+    {
+      "details": "Constantly switch bestow hope targets and use your heals even if not at full energy. Once at full energy any extra damage does not fill the bar. Cool down is 4 seconds on heal, enough time to completely fill the bar with a good q. Detainment strike can save allies, most of her abilities are spammable with no mana costs, use liberally.",
+      "type": "As",
+      "patch": "Kael'thas",
+      "realVotes": 1
     }
   ]
 }
