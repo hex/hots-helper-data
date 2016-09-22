@@ -1,5 +1,5 @@
 {
-  "updated": "2016-09-22T06:38:33.687Z",
+  "updated": "2016-09-22T10:00:59.340Z",
   "storeVersion": "1.2.2",
   "storeVersions": {
     "Android": "1.2.2",
@@ -13,5 +13,6 @@
   "assetBundlesURL": "https://s3.amazonaws.com/hots.helper/AssetBundles/",
   "assetBundles": {
     "heroGraphics": "heroes"
-  }
+  },
+  "version": "1.1.1"
 }
