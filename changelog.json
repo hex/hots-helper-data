@@ -4,5 +4,8 @@
   },
   "1.2.2": {
     "changes": "- New display mode for hero lists<br>- Player Summary welcome message<br>- Updated feedback system<br>- Use device orientation settings<br>- Fix visual display bugs<br>- Speed improvements"
+  },
+  "1.3.0": {
+    "changes": "- New battleground section with detailed information and map tips<br>- Fix visual display bugs<br>- Speed improvements"
   }
 }
