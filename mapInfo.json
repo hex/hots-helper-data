@@ -15,15 +15,15 @@
             "Past the 15 minute mark, scaling for Webweavers and their minions jump by 50%."
         ],
         "mercenaryTimings": {
-            "siegeCamp": {
+            "Siege Camp": {
                 "initialSpawn": "2:00 minutes",
                 "respawn": "3:00 minutes"
             },
-            "bruiserCamp": {
+            "Bruiser Camp": {
                 "initialSpawn": "2:00 minutes",
                 "respawn": "4:00 minutes"
             },
-            "bossCamp": {
+            "Boss Camp": {
                 "initialSpawn": "3:00 minutes",
                 "respawn": "5:00 minutes"
             }
@@ -47,11 +47,11 @@
             "The Bruiser camp Shamans spawn and respawn two dogs in lane until it is killed. Shamans can also be healed. Shamans are incredibly effective pushers; it's imperative to kill the Shaman first before the dogs."
         ],
         "mercenaryTimings": {
-            "siegeCamp": {
+            "Siege Camp": {
                 "initialSpawn": "2:00 minutes",
                 "respawn": "3:00 minutes"
             },
-            "bruiserCamp": {
+            "Bruiser Camp": {
                 "initialSpawn": "2:00 minutes",
                 "respawn": "4:00 minutes"
             }
@@ -78,19 +78,19 @@
             "Inner fountains have 2,100 health and 700 shields, which equals 2,800 life overall. One cannonball hit should destroy said fountain. However, Tassadar can shield the fountain to force a second cannonball. Outer fountains have only 2,200 life overall, but Tassadar can force a second cannonball if he takes the Reinforce Structure talent at level 1 or if he's level 15."
         ],
         "mercenaryTimings": {
-            "doubloonCamp": {
+            "Doubloon Camp": {
                 "initialSpawn": "2:00 minutes",
                 "respawn": "3:00 minutes"
             },
-            "siegeCamp": {
+            "Siege Camp": {
                 "initialSpawn": "2:00 minutes",
                 "respawn": "3:00 minutes"
             },
-            "bruiserCamp": {
+            "Bruiser Camp": {
                 "initialSpawn": "2:00 minutes",
                 "respawn": "4:00 minutes"
             },
-            "bossCamp": {
+            "Boss Camp": {
                 "initialSpawn": "3:00 minutes",
                 "respawn": "5:00 minutes"
             }
@@ -110,15 +110,15 @@
             "The regeneration globes at the top and bottom of the map respawn every 45 seconds."
         ],
         "mercenaryTimings": {
-            "siegeCamp": {
+            "Siege Camp": {
                 "initialSpawn": "2:00 minutes",
                 "respawn": "1:30 minutes"
             },
-            "bruiserCamp": {
+            "Bruiser Camp": {
                 "initialSpawn": "2:30 minutes",
                 "respawn": "4:00 minutes"
             },
-            "bossCamp": {
+            "Boss Camp": {
                 "initialSpawn": "3:00 minutes",
                 "respawn": "5:00 minutes"
             }
@@ -139,15 +139,15 @@
             "Tributes spawn in this order:<br>1. The first tribute of the game spawns in one of the mid columns.<br>2. A set of three tributes never repeats columns.<br>3. A set of three tributes cannot be in the same row.<br>4. A curse resets rules 2 and 3."
         ],
         "mercenaryTimings": {
-            "siegeCamp": {
+            "Siege Camp": {
                 "initialSpawn": "2:00 minutes",
                 "respawn": "3:00 minutes"
             },
-            "bruiserCamp": {
+            "Bruiser Camp": {
                 "initialSpawn": "2:00 minutes",
                 "respawn": "4:00 minutes"
             },
-            "bossCamp": {
+            "Boss Camp": {
                 "initialSpawn": "3:00 minutes",
                 "respawn": "5:00 minutes"
             }
@@ -168,11 +168,11 @@
             "That means if an enemy starts re-capturing a shrine just as you start channeling the Dragon Knight statue, you will finish channeling with a second to spare."
         ],
         "mercenaryTimings": {
-            "siegeCamp": {
+            "Siege Camp": {
                 "initialSpawn": "2:00 minutes",
                 "respawn": "3:00 minutes"
             },
-            "bruiserCamp": {
+            "Bruiser Camp": {
                 "initialSpawn": "2:00 minutes",
                 "respawn": "4:00 minutes"
             }
@@ -191,11 +191,11 @@
             "The pod image next to each team's seed count is either open or closed. If it's closed, there aren't enough seeds remaining for that team to get a terror."
         ],
         "mercenaryTimings": {
-            "siegeCamp": {
+            "Siege Camp": {
                 "initialSpawn": "2:00 minutes",
                 "respawn": "3:00 minutes"
             },
-            "bruiserCamp": {
+            "Bruiser Camp": {
                 "initialSpawn": "2:00 minutes",
                 "respawn": "4:00 minutes"
             }
@@ -216,11 +216,11 @@
             "The Bruiser camp Shamans spawn and respawn two dogs in lane until it is killed. Shamans can also be healed. Shamans are incredibly effective pushers; it's imperative to kill the Shaman first before the dogs."
         ],
         "mercenaryTimings": {
-            "siegeCamp": {
+            "Siege Camp": {
                 "initialSpawn": "2:00 minutes",
                 "respawn": "3:00 minutes"
             },
-            "bruiserCamp": {
+            "Bruiser Camp": {
                 "initialSpawn": "2:00 minutes",
                 "respawn": "4:00 minutes"
             }
@@ -243,15 +243,15 @@
             "The exact attack order for each temple hasn't been confirmed yet, and only incomplete data exists. This data is in the process of being collected and presented."
         ],
         "mercenaryTimings": {
-            "siegeCamp": {
+            "Siege Camp": {
                 "initialSpawn": "2:00 minutes",
                 "respawn": "3:00 minutes"
             },
-            "bruiserCamp": {
+            "Bruiser Camp": {
                 "initialSpawn": "2:00 minutes",
                 "respawn": "4:00 minutes"
             },
-            "bossCamp": {
+            "Boss Camp": {
                 "initialSpawn": "3:00 minutes",
                 "respawn": "5:00 minutes"
             }
@@ -278,11 +278,11 @@
             "When attacking the boss, a green flying skull occasionally spirals out. If this skull hits a hero, it transforms into a green pool that deals percentage damage within a circle. This percentage damage increases with the length of the game."
         ],
         "mercenaryTimings": {
-            "siegeCamp": {
+            "Siege Camp": {
                 "initialSpawn": "2:00 minutes",
                 "respawn": "1:45 minutes"
             },
-            "bossCamp": {
+            "Boss Camp": {
                 "initialSpawn": "5:00 minutes",
                 "respawn": "5:00 minutes"
             }
@@ -302,15 +302,15 @@
             "The Boss mercenaries seem stronger and act differently than other maps."
         ],
         "mercenaryTimings": {
-            "siegeCamp": {
+            "Siege Camp": {
                 "initialSpawn": "2:00 minutes",
                 "respawn": "4:00 minutes"
             },
-            "bruiserCamp": {
+            "Bruiser Camp": {
                 "initialSpawn": "2:00 minutes",
                 "respawn": "1:30 minutes"
             },
-            "bossCamp": {
+            "Boss Camp": {
                 "initialSpawn": "3:00 minutes",
                 "respawn": "5:00 minutes"
             }
