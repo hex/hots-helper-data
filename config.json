@@ -7,6 +7,7 @@
   },
   "endpoints": {
     "heroes": "https://raw.githubusercontent.com/hex/hots-helper-data/master/heroes.json",
+    "maps": "https://raw.githubusercontent.com/hex/hots-helper-data/master/mapInfo.json",
     "heroTips": "https://raw.githubusercontent.com/hex/hots-helper-data/master/heroTips.json",
     "mapTips": "https://raw.githubusercontent.com/hex/hots-helper-data/master/mapTips.json"
   },
