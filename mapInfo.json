@@ -55,7 +55,12 @@
                 "initialSpawn": "2:00 minutes",
                 "respawn": "4:00 minutes"
             }
-        }
+        },
+        "bestHeroes": [
+            "abathur",
+            "zarya",
+            "liming"
+        ]
     },
     "blackheartsbay": {
         "name": "Blackheart's Bay",
