@@ -120,7 +120,7 @@
             },
             "Boss Camp": {
                 "initialSpawn": "3:00 minutes",
-                "respawn": "5:00 minutes"
+                "respawn": "4:10 minutes"
             }
         }
     },
@@ -307,7 +307,7 @@
                 "respawn": "4:00 minutes"
             },
             "Bruiser Camp": {
-                "initialSpawn": "2:00 minutes",
+                "initialSpawn": "2:30 minutes",
                 "respawn": "1:30 minutes"
             },
             "Boss Camp": {
