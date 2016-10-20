@@ -1,6 +1,5 @@
 {
   "updated": "2016-10-20T10:02:53.064Z",
-  "storeVersion": "1.3.0",
   "storeVersions": {
     "Android": "1.3.1",
     "iOS": "1.3.1"
@@ -9,6 +8,8 @@
     "heroes": "https://raw.githubusercontent.com/hex/hots-helper-data/master/heroes.json",
     "maps": "https://raw.githubusercontent.com/hex/hots-helper-data/master/mapInfo.json",
     "heroTips": "https://raw.githubusercontent.com/hex/hots-helper-data/master/heroTips.json",
+    "heroPatchHistory": "https://raw.githubusercontent.com/hex/hots-helper-data/master/heroPatchHistory.json",
+    "mapPatchHistory": "https://raw.githubusercontent.com/hex/hots-helper-data/master/mapPatchHistory.json",
     "mapTips": "https://raw.githubusercontent.com/hex/hots-helper-data/master/mapTips.json"
   },
   "assetBundlesURL": "https://s3.amazonaws.com/hots.helper/AssetBundles/",
