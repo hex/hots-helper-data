@@ -10,5 +10,8 @@
   },
   "1.3.1": {
     "changes": "- Add recommended heroes for battlegrounds<br>- New battleground section with detailed information and map tips<br>- Fix visual display bugs<br>- Speed improvements"
+  },
+  "1.4.0": {
+    "changes": "- Filter heroes by role/universe<br>- Display full talent description<br>- Add leaderboards for MMR & Rank<br>- Increased text size<br>- Add hero & map patch history<br>- Speed improvements & bug fixing"
   }
 }
