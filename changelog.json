@@ -13,5 +13,8 @@
   },
   "1.4.0": {
     "changes": "- Filter heroes by role/universe<br>- Display full talent description<br>- Add leaderboards for MMR & Rank<br>- Increased text size<br>- Add hero & map patch history<br>- Speed improvements & bug fixing"
+  },
+  "1.4.2": {
+    "changes": "-Popular talents build<br>- Filter heroes by role/universe<br>- Display full talent description<br>- Add leaderboards for MMR & Rank<br>- Increased text size<br>- Add hero & map patch history<br>- Speed improvements & bug fixing"
   }
 }
