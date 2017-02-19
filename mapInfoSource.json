@@ -334,5 +334,41 @@
                 "respawn": "5:00 minutes"
             }
         }
+    },
+      "hauntedmines": {
+        "name": "Haunted Mines",
+        "description": "Two lane map. Four siege camps.",
+        "timings": {
+            "First objective spawn": "2:00",
+            "Objective respwan": "2:00",
+            "Respawn conditions": "After both golems die"
+        },
+        "notes": [
+            "The mines are closed until the first objective spawns. After that, they remain open.",
+            "The Sapper camps deal more damage than the actual map objective, the Golem.",
+            "The initial Golem spawn is random. Subsequent Golem spawns swap lanes from the previous one.",
+            "When the Boss camp reaches 70% HP and 30% HP, it drops a purple regeneration globe.",
+            "4 minutes after each objective phase, the game takes stock of the skulls collected. If 60 or more skulls have been collected, the game takes a snapshot of the Golems' scaling and they won't scale further with time for that objective phase. However, skulls will still count toward scaling.",
+            "Each objective phase creates 100 skulls total. In the Underground, there are 9 skull camps each, one being a Boss camp.",
+            "There are 36 minions divided among 8 camps. Two camps in the top right and two camps in the bottom left have 5 minions each. The other 4 camps have 4 minions each. Minions drop 2 skulls upon death.",
+            "The Boss camp drops 28 skulls total. It drops 6 skulls at 75% HP, 6 skulls at 50% HP, 6 skulls at 25% HP, then 10 skulls once killed.",
+            "The Golem's base damage is 110.",
+            "The Golem's base HP is 4000.",
+            "The Golem's damage scales by 0.5 flat damage per minute up through 15:00. After that, damage scales by 3.0 flat damage per minute up through 25:00. That means at 15:00, the Golem has 117.5 damage, a 6.8% increase from the beginning of the game. Yes, this is low.",
+            "The Golem's HP increases by 700 per minute up through 5:00, by 300 up through 10:00, by 500 up through 15:00, then by 600 up through 25:00.",
+            "Each Golem gets skull stacks based on the skulls you collected — each skull stack grants 5% bonuses to HP and damage, applied after the time-based scaling.",
+            "However, the skulls you collect do not precisely convert to the number of skull stacks. The game applies a formula to the skull stacks: -0.0054 × s × s + 1.2913 × s, rounded down, where s is the skulls you collected. This formula applies a minor catch-up effect until you collect 54 skulls. At that point, the more skulls you get, the less impact they will have. At 100 skulls, you'll have 75 stacks.",
+            "Example: At 5:27 (5 minutes) the Golem has spawned in lane and is pushing. Your team has collected 66 skulls. Applying the skull stack formula, we get 61 skull stacks, or a 4.05 multiplier. The Golem's HP is (4000 + 700 × 5) × (1 + 61 × 0.05) = 30,375. The Golem's damage is (110 + 0.5 × 5) × (1 + 61 × 0.05) = 456.",
+        ],
+        "mercenaryTimings": {
+            "Siege Camp": {
+                "initialSpawn": "1:30 minutes",
+                "respawn": "3:00 minutes"
+            },
+            "Sapper Camp": {
+                "initialSpawn": "0:45 minutes",
+                "respawn": "1:45 minutes"
+            }
+        }
     }
 }
