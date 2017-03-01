@@ -12,7 +12,7 @@
     "heroPatchHistory": "https://raw.githubusercontent.com/hex/hots-helper-data/master/heroPatchHistory.json",
     "mapPatchHistory": "https://raw.githubusercontent.com/hex/hots-helper-data/master/mapPatchHistory.json"
   },
-  "assetBundlesURL": "https://s3.amazonaws.com/hots.helper/AssetBundles/",
+  "assetBundlesURL": "https://storage.googleapis.com/hots-helper-44844245.appspot.com/AssetBundles/",
   "assetBundles": {
     "heroGraphics": "heroes"
   }
