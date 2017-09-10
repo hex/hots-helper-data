@@ -4774,9 +4774,7 @@
         "name": "Master of the Cold Dark",
         "cost": "",
         "cooldown": "",
-        "description": "❢ Quest: Gain 1 Blight every time a Hero is Rooted by Frost Nova or hit by Chains of Kel'Thuzad.
-❢ Reward: After gaining 15 Blight, the cooldown of all Basic Abilities is reduced by 2 seconds.
-❢ Reward: After gaining 30 Blight, gain 75% Spell Power.",
+        "description": "❢ Quest: Gain 1 Blight every time a Hero is Rooted by Frost Nova or hit by Chains of Kel'Thuzad. ❢ Reward: After gaining 15 Blight, the cooldown of all Basic Abilities is reduced by 2 seconds. ❢ Reward: After gaining 30 Blight, gain 75% Spell Power.",
         "key": "",
         "icon": "https://heroesofthestorm.gamepedia.com/media/heroesofthestorm.gamepedia.com/thumb/e/ee/Master_of_the_Cold_Dark_Icon.png/114px-Master_of_the_Cold_Dark_Icon.png?version=e2d19bb4f7f833bb228b3bf34d8a04b6"
     },
