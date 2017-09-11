@@ -13009,67 +13009,66 @@
             "name": " "
         }]
     }],
-    "abilities": [
-{
-"name": "Master of the Cold Dark",
-"cost": "",
-"cooldown": "",
-"description": "❢ Quest: Gain 1 Blight every time a Hero is Rooted by Frost Nova or hit by Chains of Kel'Thuzad. ❢ Reward: After gaining 15 Blight, the cooldown of all Basic Abilities is reduced by 2 seconds. ❢ Reward: After gaining 30 Blight, gain 75% Spell Power.",
-"key": "",
-"icon": "https://heroesofthestorm.gamepedia.com/media/heroesofthestorm.gamepedia.com/thumb/e/ee/Master_of_the_Cold_Dark_Icon.png/114px-Master_of_the_Cold_Dark_Icon.png?version=e2d19bb4f7f833bb228b3bf34d8a04b6"
-},
-{
-"name": "Death and Decay",
-"cost": "20 Mana",
-"cooldown": "6 seconds",
-"description": "After 0.5 seconds, launch an orb that explodes upon hitting an enemy, dealing 150 damage to enemies in the area. The explosion leaves behind a pool of decay that lasts 2 seconds, dealing 70 damage every 0.5 seconds to enemies.",
-"key": "Q",
-"icon": "https://heroesofthestorm.gamepedia.com/media/heroesofthestorm.gamepedia.com/thumb/f/fd/Death_and_Decay_Icon.png/114px-Death_and_Decay_Icon.png?version=3f6fa3b81598dfc47893ece311346641"
-},
-{
-"name": "Frost Nova",
-"cost": "45 Mana",
-"cooldown": "10 seconds",
-"description": "Create a nova that explodes after 1 second, dealing 212 damage to enemies inside and Slowing them by 35% for 2.5 seconds. Enemies in the center are Rooted for 1 second.",
-"key": "W",
-"icon": "https://heroesofthestorm.gamepedia.com/media/heroesofthestorm.gamepedia.com/thumb/2/24/Frost_Nova_Icon.png/114px-Frost_Nova_Icon.png?version=eb158b5d3cc2bb102d1ee5bdfae96e33"
-},
-{
-"name": "Chains of Kel'Thuzad",
-"cost": "45 Mana",
-"cooldown": "12 seconds",
-"description": "Launch a chain, dealing 97 damage to the first enemy Hero or Structure hit. For 4 seconds after hitting an enemy, Chains of Kel’Thuzad can be reactivated to launch to an additional enemy, pulling both enemies together and Stunning them for 0.5 seconds.",
-"key": "E",
-"icon": "https://heroesofthestorm.gamepedia.com/media/heroesofthestorm.gamepedia.com/thumb/9/9f/Chains_of_Kel%27Thuzad_Icon.png/114px-Chains_of_Kel%27Thuzad_Icon.png?version=1cc9180fcefad68584ef8095a80cac98"
-},
-{
-"name": "Frost Blast",
-"cost": "70 Mana",
-"cooldown": "100 seconds",
-"description": "Launch a meteor of ice at an enemy Hero. Upon impact, the meteor deals 100 damage to its target and 275 damage to enemies in the area. All enemies hit by Frozen Tomb are Rooted for 1.5 seconds.",
-"key": "R",
-"icon": "https://heroesofthestorm.gamepedia.com/media/heroesofthestorm.gamepedia.com/thumb/0/0d/Frost_Blast_Icon.png/114px-Frost_Blast_Icon.png?version=79296e2ffd807e4b3e5ab59716f685ff"
-},
-{
-"name": "Shadow Fissure",
-"cost": "50 Mana",
-"cooldown": "15 seconds",
-"description": "Create a fissure anywhere on the Battleground that explodes after 1.5 seconds, dealing 440 damage to enemy Heroes in its area.",
-"key": "R",
-"icon": "https://heroesofthestorm.gamepedia.com/media/heroesofthestorm.gamepedia.com/thumb/6/62/Shadow_Fissure_Icon.png/114px-Shadow_Fissure_Icon.png?version=496a2136035cf3c824ee356e8b3b8c1b"
-}
-],
-"franchise": "Warcraft",
-"baseStats": {
-"health": "1503",
-"healthRegen": "3.13",
-"energy": "3.13",
-"energyRegen": "None",
-"speed": "0",
-"attackSpeed": "1.0",
-"attackRange": "5.5",
-"attackDamage": "75"
-},
+    "abilities": [{
+            "name": "Master of the Cold Dark",
+            "cost": "",
+            "cooldown": "",
+            "description": "❢ Quest: Gain 1 Blight every time a Hero is Rooted by Frost Nova or hit by Chains of Kel'Thuzad. ❢ Reward: After gaining 15 Blight, the cooldown of all Basic Abilities is reduced by 2 seconds. ❢ Reward: After gaining 30 Blight, gain 75% Spell Power.",
+            "key": "",
+            "icon": "https://heroesofthestorm.gamepedia.com/media/heroesofthestorm.gamepedia.com/thumb/e/ee/Master_of_the_Cold_Dark_Icon.png/114px-Master_of_the_Cold_Dark_Icon.png?version=e2d19bb4f7f833bb228b3bf34d8a04b6"
+        },
+        {
+            "name": "Death and Decay",
+            "cost": "20 Mana",
+            "cooldown": "6 seconds",
+            "description": "After 0.5 seconds, launch an orb that explodes upon hitting an enemy, dealing 150 damage to enemies in the area. The explosion leaves behind a pool of decay that lasts 2 seconds, dealing 70 damage every 0.5 seconds to enemies.",
+            "key": "Q",
+            "icon": "https://heroesofthestorm.gamepedia.com/media/heroesofthestorm.gamepedia.com/thumb/f/fd/Death_and_Decay_Icon.png/114px-Death_and_Decay_Icon.png?version=3f6fa3b81598dfc47893ece311346641"
+        },
+        {
+            "name": "Frost Nova",
+            "cost": "45 Mana",
+            "cooldown": "10 seconds",
+            "description": "Create a nova that explodes after 1 second, dealing 212 damage to enemies inside and Slowing them by 35% for 2.5 seconds. Enemies in the center are Rooted for 1 second.",
+            "key": "W",
+            "icon": "https://heroesofthestorm.gamepedia.com/media/heroesofthestorm.gamepedia.com/thumb/2/24/Frost_Nova_Icon.png/114px-Frost_Nova_Icon.png?version=eb158b5d3cc2bb102d1ee5bdfae96e33"
+        },
+        {
+            "name": "Chains of Kel'Thuzad",
+            "cost": "45 Mana",
+            "cooldown": "12 seconds",
+            "description": "Launch a chain, dealing 97 damage to the first enemy Hero or Structure hit. For 4 seconds after hitting an enemy, Chains of Kel’Thuzad can be reactivated to launch to an additional enemy, pulling both enemies together and Stunning them for 0.5 seconds.",
+            "key": "E",
+            "icon": "https://heroesofthestorm.gamepedia.com/media/heroesofthestorm.gamepedia.com/thumb/9/9f/Chains_of_Kel%27Thuzad_Icon.png/114px-Chains_of_Kel%27Thuzad_Icon.png?version=1cc9180fcefad68584ef8095a80cac98"
+        },
+        {
+            "name": "Frost Blast",
+            "cost": "70 Mana",
+            "cooldown": "100 seconds",
+            "description": "Launch a meteor of ice at an enemy Hero. Upon impact, the meteor deals 100 damage to its target and 275 damage to enemies in the area. All enemies hit by Frozen Tomb are Rooted for 1.5 seconds.",
+            "key": "R",
+            "icon": "https://heroesofthestorm.gamepedia.com/media/heroesofthestorm.gamepedia.com/thumb/0/0d/Frost_Blast_Icon.png/114px-Frost_Blast_Icon.png?version=79296e2ffd807e4b3e5ab59716f685ff"
+        },
+        {
+            "name": "Shadow Fissure",
+            "cost": "50 Mana",
+            "cooldown": "15 seconds",
+            "description": "Create a fissure anywhere on the Battleground that explodes after 1.5 seconds, dealing 440 damage to enemy Heroes in its area.",
+            "key": "R",
+            "icon": "https://heroesofthestorm.gamepedia.com/media/heroesofthestorm.gamepedia.com/thumb/6/62/Shadow_Fissure_Icon.png/114px-Shadow_Fissure_Icon.png?version=496a2136035cf3c824ee356e8b3b8c1b"
+        }
+    ],
+    "franchise": "Warcraft",
+    "baseStats": {
+        "health": "1503",
+        "healthRegen": "3.13",
+        "energy": "3.13",
+        "energyRegen": "None",
+        "speed": "0",
+        "attackSpeed": "1.0",
+        "attackRange": "5.5",
+        "attackDamage": "75"
+    },
     "strongAgainst": ["sgthammer", "etc", "diablo", "kaelthas", "guldan", "johanna", "abathur", "tychus", "arthas", "zuljin", "valla", "gazlowe"],
     "weakAgainst": ["genji", "illidan", "valeera", "tracer", "thebutcher", "chromie", "nova", "alarak", "zeratul", "lunara", "varian", "sonya"],
     "goodTeam": ["malfurion", "arthas", "xul", "varian", "stitches", "anubarak", "jaina", "garrosh", "kaelthas", "diablo", "zeratul", "johanna"]
