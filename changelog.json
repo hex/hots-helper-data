@@ -1,23 +1,26 @@
 {
-    "1.2.1": {
-        "changes": "- New display mode for hero lists<br>- Updated feedback system<br>- Use device orientation settings<br>- Fix visual display bugs<br>- Speed improvements"
-    },
-    "1.2.2": {
-        "changes": "- New display mode for hero lists<br>- Player Summary welcome message<br>- Updated feedback system<br>- Use device orientation settings<br>- Fix visual display bugs<br>- Speed improvements"
-    },
-    "1.3.0": {
-        "changes": "- New battleground section with detailed information and map tips<br>- Fix visual display bugs<br>- Speed improvements"
-    },
-    "1.3.1": {
-        "changes": "- Add recommended heroes for battlegrounds<br>- New battleground section with detailed information and map tips<br>- Fix visual display bugs<br>- Speed improvements"
-    },
-    "1.4.0": {
-        "changes": "- Filter heroes by role/universe<br>- Display full talent description<br>- Add leaderboards for MMR & Rank<br>- Increased text size<br>- Add hero & map patch history<br>- Speed improvements & bug fixing"
-    },
-    "1.4.2": {
-        "changes": "-Popular talents build<br>- Filter heroes by role/universe<br>- Display full talent description<br>- Add leaderboards for MMR & Rank<br>- Increased text size<br>- Add hero & map patch history<br>- Speed improvements & bug fixing"
-    },
-    "1.6.0": {
-        "changes": "-Updated Hero overview section<br>- Updated Map list<br>- Fix display issues<br>- Speed improvements & bug fixing"
-    }
+  "1.2.1" : {
+    "changes" : "- New display mode for hero lists<br>- Updated feedback system<br>- Use device orientation settings<br>- Fix visual display bugs<br>- Speed improvements"
+  },
+  "1.2.2" : {
+    "changes" : "- New display mode for hero lists<br>- Player Summary welcome message<br>- Updated feedback system<br>- Use device orientation settings<br>- Fix visual display bugs<br>- Speed improvements"
+  },
+  "1.3.0" : {
+    "changes" : "- New battleground section with detailed information and map tips<br>- Fix visual display bugs<br>- Speed improvements"
+  },
+  "1.3.1" : {
+    "changes" : "- Add recommended heroes for battlegrounds<br>- New battleground section with detailed information and map tips<br>- Fix visual display bugs<br>- Speed improvements"
+  },
+  "1.4.0" : {
+    "changes" : "- Filter heroes by role/universe<br>- Display full talent description<br>- Add leaderboards for MMR & Rank<br>- Increased text size<br>- Add hero & map patch history<br>- Speed improvements & bug fixing"
+  },
+  "1.4.2" : {
+    "changes" : "-Popular talents build<br>- Filter heroes by role/universe<br>- Display full talent description<br>- Add leaderboards for MMR & Rank<br>- Increased text size<br>- Add hero & map patch history<br>- Speed improvements & bug fixing"
+  },
+  "1.6.0" : {
+    "changes" : "-Updated Hero overview section<br>- Updated Map list<br>- Fix display issues<br>- Speed improvements & bug fixing"
+  },
+  "2018.12.0" : {
+    "changes" : "- Hero overview display fix<br>- Updated list of heroes<br>- Use map information from nexusmaster.com<br>- Fix layout issues"
+  }
 }
