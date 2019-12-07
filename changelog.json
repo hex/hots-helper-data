@@ -22,5 +22,8 @@
   },
   "2018.12.0" : {
     "changes" : "- Hero overview display fix<br>- Updated list of heroes<br>- Use map information from nexusmaster.com<br>- Fix layout issues"
+  },
+  "2019.12.0" : {
+    "changes" : "- Removed obsolete features<br>- Update app data sources"
   }
 }
