@@ -25,5 +25,8 @@
   },
   "2019.12.0" : {
     "changes" : "- Removed obsolete features<br>- Update app data sources"
+  },
+  "2024.1.0" : {
+    "changes" : "- Bug fixes"
   }
 }
