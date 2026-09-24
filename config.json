@@ -14,6 +14,7 @@
   },
   "assetBundlesURL": "https://s3.amazonaws.com/hots.helper/AssetBundles/",
   "portraitsURL": "https://raw.githubusercontent.com/hex/hots-helper-data/master/portraits/",
+  "playerProxyURL": "https://hots-player-proxy.hexaust.workers.dev/player",
   "assetBundles": {
     "heroGraphics": "heroes"
   }
