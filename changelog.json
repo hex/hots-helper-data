@@ -31,5 +31,8 @@
   },
   "2024.1.1" : {
     "changes" : "- Bug fixes"
+  },
+  "2026.9.68" : {
+    "changes" : "- Player stats are back, powered by HeroesProfile: search by BattleTag and region<br>- Hero names spelled properly (Xal'atath, Kel'Thuzad, Lúcio)<br>- Patch note links work again and open when tapped<br>- Fixed the app getting stuck on launch after a damaged save<br>- Crash fixes<br>- Updated for Android 16 and iOS 26<br>- Updated Google Play Games sign-in"
   }
 }
