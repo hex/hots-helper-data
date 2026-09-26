@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T00:02:48.182Z",
+  "updated": "2026-09-26T00:03:09.426Z",
   "storeVersions": {
     "Android": "2019.12.0",
     "iOS": "2019.12.0"
@@ -17,5 +17,13 @@
   "playerProxyURL": "https://hots-player-proxy.hexaust.workers.dev/player",
   "assetBundles": {
     "heroGraphics": "heroes"
+  },
+  "versions": {
+    "heroes": "0896dcaf92af9abf",
+    "maps": "3e3fac0b2ffd62e9",
+    "heroTips": "57308f04427c3e31",
+    "mapTips": "3378288ff4d27ca4",
+    "heroPatchHistory": "849163008ca67a62",
+    "mapPatchHistory": "c62c06c267146812"
   }
 }
