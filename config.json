@@ -2,7 +2,7 @@
   "updated": "2026-09-28T01:02:19.662Z",
   "storeVersions": {
     "Android": "2026.9.0",
-    "iOS": "2019.12.0"
+    "iOS": "2026.9.0"
   },
   "endpoints": {
     "heroes": "https://raw.githubusercontent.com/hex/hots-helper-data/master/heroes.json",
