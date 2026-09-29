@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T01:02:19.662Z",
+  "updated": "2026-09-29T00:01:44.012Z",
   "storeVersions": {
     "Android": "2026.9.0",
     "iOS": "2026.9.0"
@@ -23,7 +23,7 @@
     "maps": "3e3fac0b2ffd62e9",
     "heroTips": "57308f04427c3e31",
     "mapTips": "3378288ff4d27ca4",
-    "heroPatchHistory": "849163008ca67a62",
-    "mapPatchHistory": "c62c06c267146812"
+    "heroPatchHistory": "d45330ec8fd751bc",
+    "mapPatchHistory": "6a7e560a6fab8956"
   }
 }
