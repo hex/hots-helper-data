@@ -25,5 +25,6 @@
     "mapTips": "3378288ff4d27ca4",
     "heroPatchHistory": "d45330ec8fd751bc",
     "mapPatchHistory": "6a7e560a6fab8956"
-  }
+  },
+  "heroDataURL": "https://hots-player-proxy.hexaust.workers.dev/v2/heroes"
 }
