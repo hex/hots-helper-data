@@ -5,7 +5,7 @@
     "iOS": "2026.9.0"
   },
   "endpoints": {
-    "heroes": "https://raw.githubusercontent.com/hex/hots-helper-data/master/heroes.json",
+    "heroes": "https://hots-player-proxy.hexaust.workers.dev/data/heroes.json",
     "maps": "https://raw.githubusercontent.com/hex/hots-helper-data/master/mapInfo.json",
     "heroTips": "https://raw.githubusercontent.com/hex/hots-helper-data/master/heroTips.json",
     "mapTips": "https://raw.githubusercontent.com/hex/hots-helper-data/master/mapTips.json",
