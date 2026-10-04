@@ -34,5 +34,8 @@
   },
   "2026.9.0" : {
     "changes" : "- Player stats are back, powered by HeroesProfile: search by BattleTag and region<br>- Hero names spelled properly (Xal'atath, Kel'Thuzad, Lúcio)<br>- Patch note links work again and open when tapped<br>- Fixed the app getting stuck on launch after a damaged save<br>- Crash fixes<br>- Updated for Android 16 and iOS 26<br>- Updated Google Play Games sign-in<br>- Hero tips are back, cleaned up, with new tips for heroes that had none<br>- Counter picks updated from HeroesProfile<br>- Swipe from the left edge to go back<br>- Pull down to refresh player stats<br>- Smoother scrolling and a new app icon<br>- News opens the Blizzard news feed, About lists the current data sources"
+  },
+  "2026.10.0" : {
+    "changes" : "- Hero stats load when you open a hero and stay on your phone for a week<br>- Offline mode is free for everyone<br>- Screens with Heroes Profile data now credit and link to Heroes Profile<br>- About now links to the Terms of Use and Privacy Policy<br>- The app no longer sends MMR to the store leaderboards"
   }
 }
