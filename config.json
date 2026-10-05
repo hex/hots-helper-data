@@ -2,7 +2,7 @@
   "updated": "2026-10-05T00:03:07.216Z",
   "storeVersions": {
     "Android": "2026.10.0",
-    "iOS": "2026.9.0"
+    "iOS": "2026.10.0"
   },
   "endpoints": {
     "heroes": "https://hots-player-proxy.hexaust.workers.dev/data/heroes.json",
