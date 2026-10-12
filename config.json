@@ -5,7 +5,6 @@
     "iOS": "2026.10.0"
   },
   "endpoints": {
-    "heroes": "https://hots-player-proxy.hexaust.workers.dev/data/heroes.json",
     "maps": "https://raw.githubusercontent.com/hex/hots-helper-data/master/mapInfo.json",
     "heroTips": "https://raw.githubusercontent.com/hex/hots-helper-data/master/heroTips.json",
     "mapTips": "https://raw.githubusercontent.com/hex/hots-helper-data/master/mapTips.json",
@@ -19,7 +18,6 @@
     "heroGraphics": "heroes"
   },
   "versions": {
-    "heroes": "20c8607b3b018784",
     "maps": "3e3fac0b2ffd62e9",
     "heroTips": "57308f04427c3e31",
     "mapTips": "3378288ff4d27ca4",
