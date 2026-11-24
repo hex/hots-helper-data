@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T01:01:34.658Z",
+  "updated": "2026-11-24T01:04:49.338Z",
   "storeVersions": {
     "Android": "2026.10.0",
     "iOS": "2026.10.0"
@@ -23,7 +23,7 @@
     "maps": "3e3fac0b2ffd62e9",
     "heroTips": "57308f04427c3e31",
     "mapTips": "3378288ff4d27ca4",
-    "heroPatchHistory": "d45330ec8fd751bc",
+    "heroPatchHistory": "767137e4c7b4bb9b",
     "mapPatchHistory": "6a7e560a6fab8956"
   },
   "heroDataURL": "https://hots-player-proxy.hexaust.workers.dev/v2/heroes",
